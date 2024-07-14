@@ -1,7 +1,7 @@
 ﻿{
 	"name": "Mario Kart 64 Tracker",
 	"game_name": "Mario Kart 64",
-	"package_version": "0.9.9",
+	"package_version": "0.9.9b",
 	"package_uid": "ap_MK64",
 	"author": "SporyTike",
 	"variants": {
@@ -13,5 +13,6 @@
 			"display_name": "Cup Tracker",
 			"flags": ["ap"]
 		}
-	}
+	},
+	 "versions_url": "https://raw.githubusercontent.com/SporyTike/Mario-Kart-64-AP-Tracker/main/versions.json"
 }
