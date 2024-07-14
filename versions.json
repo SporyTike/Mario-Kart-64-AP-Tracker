@@ -1,0 +1,10 @@
+{
+	"versions": [
+		{
+			"package_version": "0.9.9",
+			"download_url": "https://codeload.github.com/SporyTike/Mario-Kart-64-AP-Tracker/zip/refs/tags/v0.9.9",
+			"sha256": "12c735c584415d0e6108083d979e5f81af0d8575f83aea41e5c07580efd3ced6",
+			"changelog": ["Initial release"]
+		}
+	]
+}
