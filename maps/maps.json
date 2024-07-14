@@ -1,0 +1,104 @@
+[
+	{
+		"name": "globalMap",
+		"location_size": 12,
+		"location_border_thickness": 2,
+		"img": "images/maps/Global.png"
+	},
+	{
+		"name": "bansheeBoardwalk",
+		"location_size": 12,
+		"location_border_thickness": 2,
+		"img": "images/courses/Banshee Boardwalk.png"
+	},
+	{
+		"name": "bowsersCastle",
+		"location_size": 12,
+		"location_border_thickness": 2,
+		"img": "images/courses/Bowsers Castle.png"
+	},
+	{
+		"name": "chocoMountain",
+		"location_size": 12,
+		"location_border_thickness": 2,
+		"img": "images/courses/Choco Mountain.png"
+	},
+	{
+		"name": "dksJungleParkway",
+		"location_size": 12,
+		"location_border_thickness": 2,
+		"img": "images/courses/DKs Jungle Parkway.png"
+	},
+	{
+		"name": "frappeSnowland",
+		"location_size": 12,
+		"location_border_thickness": 2,
+		"img": "images/courses/Frappe Snowland.png"
+	},
+	{
+		"name": "kalimariDesert",
+		"location_size": 12,
+		"location_border_thickness": 2,
+		"img": "images/courses/Kalimari Desert.png"
+	},
+	{
+		"name": "koopaTroopaBeach",
+		"location_size": 12,
+		"location_border_thickness": 2,
+		"img": "images/courses/Koopa Troopa Beach.png"
+	},
+	{
+		"name": "luigiRaceway",
+		"location_size": 12,
+		"location_border_thickness": 2,
+		"img": "images/courses/Luigi Raceway.png"
+	},
+	{
+		"name": "marioRaceway",
+		"location_size": 12,
+		"location_border_thickness": 2,
+		"img": "images/courses/Mario Raceway.png"
+	},
+	{
+		"name": "mooMooFarm",
+		"location_size": 12,
+		"location_border_thickness": 2,
+		"img": "images/courses/Moo Moo Farm.png"
+	},
+	{
+		"name": "rainbowRoad",
+		"location_size": 12,
+		"location_border_thickness": 2,
+		"img": "images/courses/Rainbow Road.png"
+	},
+	{
+		"name": "royalRaceway",
+		"location_size": 12,
+		"location_border_thickness": 2,
+		"img": "images/courses/Royal Raceway.png"
+	},
+	{
+		"name": "sherbetLand",
+		"location_size": 12,
+		"location_border_thickness": 2,
+		"img": "images/courses/Sherbet Land.png"
+	},
+	{
+		"name": "toadsTurnpike",
+		"location_size": 12,
+		"location_border_thickness": 2,
+		"img": "images/courses/Toads Turnpike.png"
+	},
+	{
+		"name": "warioStadium",
+		"location_size": 12,
+		"location_border_thickness": 2,
+		"img": "images/courses/Wario Stadium.png"
+	},
+	{
+		"name": "yoshiValley",
+		"location_size": 12,
+		"location_border_thickness": 2,
+		"img": "images/courses/Yoshi Valley.png"
+	}
+]

@@ -1,0 +1,346 @@
+[
+	{
+		"name": "Mario",
+		"type": "toggle",
+		"img": "/images/drivers/Mario.png",
+		"codes": "mario"
+	},
+	{
+		"name": "Luigi",
+		"type": "toggle",
+		"img": "/images/drivers/Luigi.png",
+		"codes": "luigi"
+	},
+	{
+		"name": "Peach",
+		"type": "toggle",
+		"img": "/images/drivers/Peach.png",
+		"codes": "peach"
+	},
+	{
+		"name": "Toad",
+		"type": "toggle",
+		"img": "/images/drivers/Toad.png",
+		"codes": "toad"
+	},
+	{
+		"name": "Yoshi",
+		"type": "toggle",
+		"img": "/images/drivers/Yoshi.png",
+		"codes": "yoshi"
+	},
+	{
+		"name": "D.K.",
+		"type": "toggle",
+		"img": "/images/drivers/Donkey Kong.png",
+		"codes": "donkeyKong"
+	},
+	{
+		"name": "Wario",
+		"type": "toggle",
+		"img": "/images/drivers/Wario.png",
+		"codes": "wario"
+	},
+	{
+		"name": "Bowser",
+		"type": "toggle",
+		"img": "/images/drivers/Bowser.png",
+		"codes": "bowser"
+	},
+	{
+		"name": "Mario's Progressive Drift",
+		"type": "progressive",
+		"allow_disabled": false,
+		"stages": [
+			{
+				"img": "images/drivers/Mario_Drift0.png",
+				"img_mods": "@disabled"
+			},
+			{
+				"img": "images/drivers/Mario_Drift1.png",
+				"codes": "mario_drift1",
+			},
+			{
+				"img": "images/drivers/Mario_Drift2.png",
+				"codes": "mario_drift2"
+			}
+		]
+	},
+	{
+		"name": "Luigi's Progressive Drift",
+		"type": "progressive",
+		"allow_disabled": false,
+		"stages": [
+			{
+				"img": "images/drivers/Luigi_Drift0.png",
+				"img_mods": "@disabled"
+			},
+			{
+				"img": "images/drivers/Luigi_Drift1.png",
+				"codes": "luigi_drift1",
+			},
+			{
+				"img": "images/drivers/Luigi_Drift2.png",
+				"codes": "luigi_drift2"
+			}
+		]
+	},
+	{
+		"name": "Peach's Progressive Drift",
+		"type": "progressive",
+		"allow_disabled": false,
+		"stages": [
+			{
+				"img": "images/drivers/Peach_Drift0.png",
+				"img_mods": "@disabled"
+			},
+			{
+				"img": "images/drivers/Peach_Drift1.png",
+				"codes": "peach_drift1",
+			},
+			{
+				"img": "images/drivers/Peach_Drift2.png",
+				"codes": "peach_drift2"
+			}
+		]
+	},
+	{
+		"name": "Toad's Progressive Drift",
+		"type": "progressive",
+		"allow_disabled": false,
+		"stages": [
+			{
+				"img": "images/drivers/Toad_Drift0.png",
+				"img_mods": "@disabled"
+			},
+			{
+				"img": "images/drivers/Toad_Drift1.png",
+				"codes": "toad_drift1",
+			},
+			{
+				"img": "images/drivers/Toad_Drift2.png",
+				"codes": "toad_drift2"
+			}
+		]
+	},
+	{
+		"name": "Yoshi's Progressive Drift",
+		"type": "progressive",
+		"allow_disabled": false,
+		"stages": [
+			{
+				"img": "images/drivers/Yoshi_Drift0.png",
+				"img_mods": "@disabled"
+			},
+			{
+				"img": "images/drivers/Yoshi_Drift1.png",
+				"codes": "yoshi_drift1",
+			},
+			{
+				"img": "images/drivers/Yoshi_Drift2.png",
+				"codes": "yoshi_drift2"
+			}
+		]
+	},
+	{
+		"name": "D.K.'s Progressive Drift",
+		"type": "progressive",
+		"allow_disabled": false,
+		"stages": [
+			{
+				"img": "images/drivers/Donkey Kong_Drift0.png",
+				"img_mods": "@disabled"
+			},
+			{
+				"img": "images/drivers/Donkey Kong_Drift1.png",
+				"codes": "donkeyKong_drift1",
+			},
+			{
+				"img": "images/drivers/Donkey Kong_Drift2.png",
+				"codes": "donkeyKong_drift2"
+			}
+		]
+	},
+	{
+		"name": "Wario's Progressive Drift",
+		"type": "progressive",
+		"allow_disabled": false,
+		"stages": [
+			{
+				"img": "images/drivers/Wario_Drift0.png",
+				"img_mods": "@disabled"
+			},
+			{
+				"img": "images/drivers/Wario_Drift1.png",
+				"codes": "wario_drift1",
+			},
+			{
+				"img": "images/drivers/Wario_Drift2.png",
+				"codes": "wario_drift2"
+			}
+		]
+	},
+	{
+		"name": "Bowser's Progressive Drift",
+		"type": "progressive",
+		"allow_disabled": false,
+		"stages": [
+			{
+				"img": "images/drivers/Bowser_Drift0.png",
+				"img_mods": "@disabled"
+			},
+			{
+				"img": "images/drivers/Bowser_Drift1.png",
+				"codes": "bowser_drift1",
+			},
+			{
+				"img": "images/drivers/Bowser_Drift2.png",
+				"codes": "bowser_drift2"
+			}
+		]
+	},
+	{
+		"name": "Mario's Offroad Tires",
+		"type": "progressive",
+		"img": "/images/drivers/Mario_Offroad.png",
+		"codes": "mario_offroad"
+	},
+	{
+		"name": "Luigi's Offroad Tires",
+		"type": "toggle",
+		"img": "/images/drivers/Luigi_Offroad.png",
+		"codes": "luigi_offroad"
+	},
+	{
+		"name": "Peach's Offroad Tires",
+		"type": "progressive",
+		"img": "/images/drivers/Peach_Offroad.png",
+		"codes": "peach_offroad"
+	},
+	{
+		"name": "Toad's Offroad Tires",
+		"type": "progressive",
+		"img": "/images/drivers/Toad_Offroad.png",
+		"codes": "toad_offroad"
+	},
+	{
+		"name": "Yoshi's Offroad Tires",
+		"type": "progressive",
+		"img": "/images/drivers/Yoshi_Offroad.png",
+		"codes": "yoshi_offroad"
+	},
+	{
+		"name": "D.K.'s Offroad Tires",
+		"type": "progressive",
+		"img": "/images/drivers/Donkey Kong_Offroad.png",
+		"codes": "donkeyKong_offroad"
+	},
+	{
+		"name": "Wario's Offroad Tires",
+		"type": "progressive",
+		"img": "/images/drivers/Wario_Offroad.png",
+		"codes": "wario_offroad"
+	},
+	{
+		"name": "Bowser's Offroad Tires",
+		"type": "progressive",
+		"img": "/images/drivers/Bowser_Offroad.png",
+		"codes": "bowser_offroad"
+	},
+	{
+		"name": "Mario's Winter Tires",
+		"type": "progressive",
+		"img": "/images/drivers/Mario_Winter.png",
+		"codes": "mario_winter"
+	},
+	{
+		"name": "Luigi's Winter Tires",
+		"type": "toggle",
+		"img": "/images/drivers/Luigi_Winter.png",
+		"codes": "luigi_winter"
+	},
+	{
+		"name": "Peach's Winter Tires",
+		"type": "progressive",
+		"img": "/images/drivers/Peach_Winter.png",
+		"codes": "peach_winter"
+	},
+	{
+		"name": "Toad's Winter Tires",
+		"type": "progressive",
+		"img": "/images/drivers/Toad_Winter.png",
+		"codes": "toad_winter"
+	},
+	{
+		"name": "Yoshi's Winter Tires",
+		"type": "progressive",
+		"img": "/images/drivers/Yoshi_Winter.png",
+		"codes": "yoshi_winter"
+	},
+	{
+		"name": "D.K.'s Winter Tires",
+		"type": "progressive",
+		"img": "/images/drivers/Donkey Kong_Winter.png",
+		"codes": "donkeyKong_winter"
+	},
+	{
+		"name": "Wario's Winter Tires",
+		"type": "progressive",
+		"img": "/images/drivers/Wario_Winter.png",
+		"codes": "wario_winter"
+	},
+	{
+		"name": "Bowser's Winter Tires",
+		"type": "progressive",
+		"img": "/images/drivers/Bowser_Winter.png",
+		"codes": "bowser_winter"
+	},
+	{
+		"name": "Mario's Starting Item",
+		"type": "progressive",
+		"img": "/images/settings/Start Item.png",
+		"codes": "mario_startItem"
+	},
+	{
+		"name": "Luigi's Starting Item",
+		"type": "toggle",
+		"img": "/images/settings/Start Item.png",
+		"codes": "luigi_startItem"
+	},
+	{
+		"name": "Peach's Starting Item",
+		"type": "progressive",
+		"img": "/images/settings/Start Item.png",
+		"codes": "peach_startItem"
+	},
+	{
+		"name": "Toad's Starting Item",
+		"type": "progressive",
+		"img": "/images/settings/Start Item.png",
+		"codes": "toad_startItem"
+	},
+	{
+		"name": "Yoshi's Starting Item",
+		"type": "progressive",
+		"img": "/images/settings/Start Item.png",
+		"codes": "yoshi_startItem"
+	},
+	{
+		"name": "D.K.'s Starting Item",
+		"type": "progressive",
+		"img": "/images/settings/Start Item.png",
+		"codes": "donkeyKong_startItem"
+	},
+	{
+		"name": "Wario's Starting Item",
+		"type": "progressive",
+		"img": "/images/settings/Start Item.png",
+		"codes": "wario_startItem"
+	},
+	{
+		"name": "Bowser's Starting Item",
+		"type": "progressive",
+		"img": "/images/settings/Start Item.png",
+		"codes": "bowser_startItem"
+	}
+]

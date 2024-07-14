@@ -1,0 +1,198 @@
+{
+	"tabbed_courses": {
+		"type": "tabbed",
+		"tabs": [
+			{
+				"title": "Course Overview",
+				"content": {
+					"type": "map",
+					"maps": ["globalMap"]
+				}
+			},
+			{
+				"title": "Mushroom Cup",
+				"content": {
+					"type": "tabbed",
+					"tabs": [
+						{
+							"title": "Luigi Raceway",
+                            "content": {
+								"type": "map",
+								"maps": ["luigiRaceway"]
+							}
+                        },
+						{
+							"title": "Moo Moo Farm",
+                            "content": {
+								"type": "map",
+								"maps": ["mooMooFarm"]
+							}
+                        },
+						{
+							"title": "Koopa Troopa Beach",
+                            "content": {
+								"type": "map",
+								"maps": ["koopaTroopaBeach"]
+							}
+                        },
+						{
+							"title": "Kalimari Desert",
+                            "content": {
+								"type": "map",
+								"maps": ["kalimariDesert"]
+							}
+                        }
+					]
+				}
+			},
+			{
+				"title": "Flower Cup",
+				"content": {
+					"type": "tabbed",
+					"tabs": [
+						{
+							"title": "Toad's Turnpike",
+                            "content": {
+								"type": "map",
+								"maps": ["toadsTurnpike"]
+							}
+                        },
+						{
+							"title": "Frappe Snowland",
+                            "content": {
+								"type": "map",
+								"maps": ["frappeSnowland"]
+							}
+                        },
+						{
+							"title": "Choco Mountain",
+                            "content": {
+								"type": "map",
+								"maps": ["chocoMountain"]
+							}
+                        },
+						{
+							"title": "Mario Raceway",
+                            "content": {
+								"type": "map",
+								"maps": ["marioRaceway"]
+							}
+                        }
+					]
+				}
+			},
+			{
+				"title": "Star Cup",
+				"content": {
+					"type": "tabbed",
+					"tabs": [
+						{
+							"title": "Wario Stadium",
+                            "content": {
+								"type": "map",
+								"maps": ["warioStadium"]
+							}
+                        },
+						{
+							"title": "Sherbet Land",
+                            "content": {
+								"type": "map",
+								"maps": ["sherbetLand"]
+							}
+                        },
+						{
+							"title": "Royal Raceway",
+                            "content": {
+								"type": "map",
+								"maps": ["royalRaceway"]
+							}
+                        },
+						{
+							"title": "Bowser's Castle",
+                            "content": {
+								"type": "map",
+								"maps": ["bowsersCastle"]
+							}
+                        }
+					]
+				}
+			},
+			{
+				"title": "Special Cup",
+				"content": {
+					"type": "tabbed",
+					"tabs": [
+						{
+							"title": "D.K.'s Jungle Parkway",
+                            "content": {
+								"type": "map",
+								"maps": ["dksJungleParkway"]
+							}
+                        },
+						{
+							"title": "Yoshi Valley",
+                            "content": {
+								"type": "map",
+								"maps": ["yoshiValley"]
+							}
+                        },
+						{
+							"title": "Banshee Boardwalk",
+                            "content": {
+								"type": "map",
+								"maps": ["bansheeBoardwalk"]
+							}
+                        },
+						{
+							"title": "Rainbow Road",
+                            "content": {
+								"type": "map",
+								"maps": ["rainbowRoad"]
+							}
+                        }
+					]
+				}
+			}
+		]
+	},
+	"tabbed_cups": {
+		"type": "tabbed",
+		"tabs": [
+			{
+				"title": "Course Overview",
+				"content": {
+					"type": "map",
+					"maps": ["globalMap"]
+				}
+			},
+			{
+				"title": "Mushroom Cup",
+				"content": {
+					"type": "map",
+					"maps": ["luigiRaceway", "mooMooFarm", "koopaTroopaBeach", "kalimariDesert"]
+				}
+			},
+			{
+				"title": "Flower Cup",
+				"content": {
+					"type": "map",
+					"maps": ["toadsTurnpike", "frappeSnowland", "chocoMountain", "marioRaceway"]
+				}
+			},
+			{
+				"title": "Star Cup",
+				"content": {
+					"type": "map",
+					"maps": ["warioStadium", "sherbetLand", "royalRaceway", "bowsersCastle"]
+				}
+			},
+			{
+				"title": "Special Cup",
+				"content": {
+					"type": "map",
+					"maps": ["dksJungleParkway", "yoshiValley", "bansheeBoardwalk", "rainbowRoad"]
+				}
+			}
+		]
+	}
+}

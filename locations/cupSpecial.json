@@ -1,0 +1,986 @@
+[
+	{
+		"name": "Special Cup",
+		"access_rules": ["$canEnterDKsJungleParkway"],
+		"children": [
+						{
+				"name": "D.K.'s Jungle Parkway",
+				"sections": [
+					{
+						"name": "Take the Lead after Lap 1",
+						"chest_unopened_img": "images/checks/Take Lead.png",
+						"chest_opened_img": "images/checks/Take Lead_Checked.png",
+					},
+					{
+						"name": "Qualify in Race",
+						"chest_unopened_img": "images/checks/4th Place.png",
+						"chest_opened_img": "images/checks/4th Place_Checked.png",
+					},
+					{
+						"name": "Finish as 1st Place",
+						"chest_unopened_img": "images/checks/1st Place.png",
+						"chest_opened_img": "images/checks/1st Place_Checked.png",
+					},
+					{
+						"name": "Destroy Palm",
+						"ref": "Global/Checks/Destroy Tree"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "dksJungleParkway",
+						"x": 576,
+						"y": 24,
+						"size": 30
+					}
+				]
+			},
+			{
+				"name": "D.K.'s Jungle Parkway Items 1",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox232"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox233"],
+						"access_rules": ["$canPassGreen"]
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox234"],
+						"access_rules": ["$canPassGreen"]
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox235"],
+						"access_rules": ["$canPassGreen"]
+					},
+					{
+						"name": "Spot 5",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox236"],
+						"access_rules": ["$canPassGreen"]
+					}
+				],
+				"map_locations": [
+					{
+						"map": "dksJungleParkway",
+						"x": 309,
+						"y": 308
+					}
+				]
+			},
+			{
+				"name": "D.K.'s Jungle Parkway Items 2",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox237"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox238"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox239"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox240"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "dksJungleParkway",
+						"x": 494,
+						"y": 144
+					}
+				]
+			},
+			{
+				"name": "D.K.'s Jungle Parkway Items 3",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox241"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox242"],
+						"access_rules": ["$canPassRed", "[]"]
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox243"],
+						"access_rules": ["$canPassRed", "[]"]
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox244"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "dksJungleParkway",
+						"x": 188,
+						"y": 165
+					}
+				]
+			},
+			{
+				"name": "D.K.'s Jungle Parkway Items 4",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox245"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox246"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox247"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox248"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "dksJungleParkway",
+						"x": 27,
+						"y": 281
+					}
+				]
+			},
+			{
+				"name": "D.K.'s Jungle Parkway Items 5",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox249"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox250"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox251"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox252"],
+					},
+					{
+						"name": "Spot 5",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox253"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "dksJungleParkway",
+						"x": 197,
+						"y": 460
+					}
+				]
+			},
+			{
+				"name": "D.K.'s Jungle Parkway Secret",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "",
+						"visibility_rules": ["secretLocations_on"]
+					}
+				],
+				"map_locations": [
+					{
+						"map": "dksJungleParkway",
+						"x": 584,
+						"y": 176
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Special Cup",
+		"access_rules": ["$canEnterYoshiValley"],
+		"children": [
+			{
+				"name": "Yoshi Valley",
+				"sections": [
+					{
+						"name": "Take the Lead after Lap 1",
+						"chest_unopened_img": "images/checks/Take Lead.png",
+						"chest_opened_img": "images/checks/Take Lead_Checked.png",
+					},
+					{
+						"name": "Qualify in Race",
+						"chest_unopened_img": "images/checks/4th Place.png",
+						"chest_opened_img": "images/checks/4th Place_Checked.png",
+					},
+					{
+						"name": "Finish as 1st Place",
+						"chest_unopened_img": "images/checks/1st Place.png",
+						"chest_opened_img": "images/checks/1st Place_Checked.png",
+					},
+					{
+						"name": "Destroy Tree",
+						"ref": "Global/Checks/Destroy Tree"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "yoshiValley",
+						"x": 576,
+						"y": 24,
+						"size": 30
+					}
+				]
+			},
+			{
+				"name": "Yoshi Valley Field Items",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox254"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox255"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox256"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox257"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "yoshiValley",
+						"x": 529,
+						"y": 145
+					}
+				]
+			},
+			{
+				"name": "Yoshi Valley Maze Entry Right Items",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox258"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox259"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox260"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox261"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "yoshiValley",
+						"x": 377,
+						"y": 144
+					}
+				]
+			},
+			{
+				"name": "Yoshi Valley Maze Bridge Items",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox262"],
+						"access_rules": ["$canPassGreen", "$canPassBlue"]
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox263"],
+						"access_rules": ["$canPassGreen", "$canPassBlue"]
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox264"],
+						"access_rules": ["$canPassGreen", "$canPassBlue"]
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox265"],
+						"access_rules": ["$canPassGreen", "$canPassBlue"]
+					},
+					{
+						"name": "Spot 5",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox266"],
+						"access_rules": ["$canPassGreen", "$canPassBlue"]
+					}
+				],
+				"map_locations": [
+					{
+						"map": "yoshiValley",
+						"x": 267,
+						"y": 195
+					}
+				]
+			},
+			{
+				"name": "Yoshi Valley Rightmost Items",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox267"],
+						"access_rules": ["$canPassYellow"]
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox268"],
+						"access_rules": ["$canPassYellow"]
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox269"],
+						"access_rules": ["$canPassYellow", "$canPassBlue"]
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox270"],
+						"access_rules": ["$canPassYellow"]
+					},
+					{
+						"name": "Spot 5",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox271"],
+						"access_rules": ["$canPassBlue"]
+					},
+					{
+						"name": "Spot 6",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox272"],
+						"access_rules": ["$canPassBlue"]
+					}
+				],
+				"map_locations": [
+					{
+						"map": "yoshiValley",
+						"x": 242,
+						"y": 178
+					}
+				]
+			},
+			{
+				"name": "Yoshi Valley Leftmost Fork Items",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox273"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox274"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox275"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox276"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "yoshiValley",
+						"x": 383,
+						"y": 305
+					}
+				]
+			},
+			{
+				"name": "Yoshi Valley Leftmost Ledge Items",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox277"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox278"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox279"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox280"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "yoshiValley",
+						"x": 305,
+						"y": 375
+					}
+				]
+			},
+			{
+				"name": "Yoshi Valley Hairpin Turn Items",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox281"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox282"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox283"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox284"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "yoshiValley",
+						"x": 154,
+						"y": 124
+					}
+				]
+			},
+			{
+				"name": "Yoshi Valley Giant Egg Items",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox285"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox286"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox287"],
+						"access_rules": ["$canPassGreen"]
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox288"],
+						"access_rules": ["$canPassGreen"]
+					},
+					{
+						"name": "Spot 5",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox289"],
+					},
+					{
+						"name": "Spot 6",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox290"],
+					},
+					{
+						"name": "Defeat Giant Yoshi Egg",
+						"chest_unopened_img": "images/checks/Yoshi Egg.png",
+						"chest_opened_img": "images/checks/Yoshi Egg_Checked.png",
+						"access_rules": ["item_star", "[]"],
+						"visibility_rules": ["hazardLocations_on"]
+					}
+				],
+				"map_locations": [
+					{
+						"map": "yoshiValley",
+						"x": 222,
+						"y": 445
+					}
+				]
+			},
+		]
+	},
+	{
+		"name": "Special Cup",
+		"access_rules": ["$canEnterBansheeBoardwalk"],
+		"children": [
+						{
+				"name": "Banshee Boardwalk",
+				"sections": [
+					{
+						"name": "Take the Lead after Lap 1",
+						"chest_unopened_img": "images/checks/Take Lead.png",
+						"chest_opened_img": "images/checks/Take Lead_Checked.png",
+					},
+					{
+						"name": "Qualify in Race",
+						"chest_unopened_img": "images/checks/4th Place.png",
+						"chest_opened_img": "images/checks/4th Place_Checked.png",
+					},
+					{
+						"name": "Finish as 1st Place",
+						"chest_unopened_img": "images/checks/1st Place.png",
+						"chest_opened_img": "images/checks/1st Place_Checked.png",
+					}
+				],
+				"map_locations": [
+					{
+						"map": "bansheeBoardwalk",
+						"x": 576,
+						"y": 24,
+						"size": 30
+					}
+				]
+			},
+			{
+				"name": "Banshee Boardwalk Items 1",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox291"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox292"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox293"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox294"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "bansheeBoardwalk",
+						"x": 496,
+						"y": 74
+					}
+				]
+			},
+			{
+				"name": "Banshee Boardwalk Items 2",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox295"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox296"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox297"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox298"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "bansheeBoardwalk",
+						"x": 241,
+						"y": 47
+					}
+				]
+			},
+			{
+				"name": "Banshee Boardwalk Items 3",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox299"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox300"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox301"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox302"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "bansheeBoardwalk",
+						"x": 292,
+						"y": 356
+					}
+				]
+			},
+			{
+				"name": "Banshee Boardwalk Items 4",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox303"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox304"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox305"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox306"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "bansheeBoardwalk",
+						"x": 509,
+						"y": 550
+					}
+				]
+			},
+			{
+				"name": "Banshee Boardwalk Secret",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "",
+						"visibility_rules": ["secretLocations_on"]
+					}
+				],
+				"map_locations": [
+					{
+						"map": "bansheeBoardwalk",
+						"x": 197,
+						"y": 298
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Special Cup",
+		"access_rules": ["$canEnterRainbowRoad"],
+		"children": [
+						{
+				"name": "Rainbow Road",
+				"sections": [
+					{
+						"name": "Take the Lead after Lap 1",
+						"chest_unopened_img": "images/checks/Take Lead.png",
+						"chest_opened_img": "images/checks/Take Lead_Checked.png",
+					},
+					{
+						"name": "Qualify in Race",
+						"chest_unopened_img": "images/checks/4th Place.png",
+						"chest_opened_img": "images/checks/4th Place_Checked.png",
+					},
+					{
+						"name": "Finish as 1st Place",
+						"chest_unopened_img": "images/checks/1st Place.png",
+						"chest_opened_img": "images/checks/1st Place_Checked.png",
+					}
+				],
+				"map_locations": [
+					{
+						"map": "rainbowRoad",
+						"x": 576,
+						"y": 24,
+						"size": 30
+					}
+				]
+			},
+			{
+				"name": "Rainbow Road Items 1",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox307"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox308"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox309"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox310"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "rainbowRoad",
+						"x": 308,
+						"y": 53
+					}
+				]
+			},
+			{
+				"name": "Rainbow Road Items 2",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox311"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox312"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox313"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox314"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "rainbowRoad",
+						"x": 286,
+						"y": 155
+					}
+				]
+			},
+			{
+				"name": "Rainbow Road Items 3",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox315"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox316"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox317"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox318"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "rainbowRoad",
+						"x": 205,
+						"y": 311
+					}
+				]
+			},
+			{
+				"name": "Rainbow Road Items 4",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox319"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox320"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox321"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox322"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "rainbowRoad",
+						"x": 202,
+						"y": 377
+					}
+				]
+			},
+			{
+				"name": "Rainbow Road Items 5",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox323"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox324"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox325"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox326"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "rainbowRoad",
+						"x": 194,
+						"y": 460
+					}
+				]
+			},
+			{
+				"name": "Rainbow Road Items 6",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox327"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox328"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox329"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox330"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "rainbowRoad",
+						"x": 337,
+						"y": 441
+					}
+				]
+			},
+			{
+				"name": "Rainbow Road Items 7",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox331"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox332"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox333"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox334"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "rainbowRoad",
+						"x": 285,
+						"y": 482
+					}
+				]
+			},
+			{
+				"name": "Rainbow Road Items 8",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox335"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox336"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox337"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox338"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "rainbowRoad",
+						"x": 314,
+						"y": 452
+					}
+				]
+			},
+		]
+	}
+]

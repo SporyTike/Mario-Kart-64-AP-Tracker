@@ -1,0 +1,812 @@
+[
+	{
+		"name": "Star Cup",
+		"access_rules": ["$canEnterWarioStadium"],
+		"children": [
+			{
+				"name": "Wario Stadium",
+				"sections": [
+					{
+						"name": "Take the Lead after Lap 1",
+						"chest_unopened_img": "images/checks/Take Lead.png",
+						"chest_opened_img": "images/checks/Take Lead_Checked.png",
+					},
+					{
+						"name": "Qualify in Race",
+						"chest_unopened_img": "images/checks/4th Place.png",
+						"chest_opened_img": "images/checks/4th Place_Checked.png",
+					},
+					{
+						"name": "Finish as 1st Place",
+						"chest_unopened_img": "images/checks/1st Place.png",
+						"chest_opened_img": "images/checks/1st Place_Checked.png",
+					}
+				],
+				"map_locations": [
+					{
+						"map": "warioStadium",
+						"x": 576,
+						"y": 24,
+						"size": 30
+					}
+				]
+			},
+			{
+				"name": "Wario Stadium Items 1",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox151"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox152"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox153"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox154"],
+					},
+					{
+						"name": "Spot 5",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox155"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "warioStadium",
+						"x": 270,
+						"y": 89
+					}
+				]
+			},
+			{
+				"name": "Wario Stadium Items 2",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox156"],
+						"access_rules": ["$canPassBlue"]
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox157"],
+						"access_rules": ["$canPassBlue"]
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox158"],
+						"access_rules": ["$canPassBlue"]
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox159"],
+						"access_rules": ["$canPassBlue"]
+					},
+					{
+						"name": "Spot 5",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox160"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "warioStadium",
+						"x": 230,
+						"y": 346
+					}
+				]
+			},
+			{
+				"name": "Wario Stadium Items 3",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox161"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox162"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox163"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox164"],
+					},
+					{
+						"name": "Spot 5",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox165"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "warioStadium",
+						"x": 370,
+						"y": 121
+					}
+				]
+			},
+			{
+				"name": "Wario Stadium Items 4",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox166"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox167"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox168"],
+						"access_rules": ["$canPassYellow"]
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox169"],
+					},
+					{
+						"name": "Spot 5",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox170"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "warioStadium",
+						"x": 297,
+						"y": 362
+					}
+				]
+			},
+			{
+				"name": "Wario Stadium Items 5",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox171"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox172"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox173"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox174"],
+					},
+					{
+						"name": "Spot 5",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox175"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "warioStadium",
+						"x": 150,
+						"y": 470
+					}
+				]
+			},
+			{
+				"name": "Wario Stadium Items 6",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox176"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox177"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox178"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox179"],
+					},
+					{
+						"name": "Spot 5",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox180"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "warioStadium",
+						"x": 419,
+						"y": 390
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Star Cup",
+		"access_rules": ["$canEnterSherbetLand"],
+		"children": [
+			{
+				"name": "Sherbet Land",
+				"sections": [
+					{
+						"name": "Take the Lead after Lap 1",
+						"chest_unopened_img": "images/checks/Take Lead.png",
+						"chest_opened_img": "images/checks/Take Lead_Checked.png",
+					},
+					{
+						"name": "Qualify in Race",
+						"chest_unopened_img": "images/checks/4th Place.png",
+						"chest_opened_img": "images/checks/4th Place_Checked.png",
+					},
+					{
+						"name": "Finish as 1st Place",
+						"chest_unopened_img": "images/checks/1st Place.png",
+						"chest_opened_img": "images/checks/1st Place_Checked.png",
+					},
+					{
+						"name": "Spin Baby Penguin",
+						"chest_unopened_img": "images/checks/Baby Penguin.png",
+						"chest_opened_img": "images/checks/Baby Penguin_Checked.png",
+						"access_rules": ["item_star", "[]"],
+						"visibility_rules": ["hazardLocations_on"]
+					},
+					{
+						"name": "Spin Adult Penguin",
+						"chest_unopened_img": "images/checks/Adult Penguin.png",
+						"chest_opened_img": "images/checks/Adult Penguin_Checked.png",
+						"access_rules": ["item_star", "[]"],
+						"visibility_rules": ["hazardLocations_on"]
+					}
+				],
+				"map_locations": [
+					{
+						"map": "sherbetLand",
+						"x": 576,
+						"y": 24,
+						"size": 30
+					}
+				]
+			},
+			{
+				"name": "Sherbet Land Items 1",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox181"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox182"],
+						"access_rules": ["$canPassGreen"]
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox183"],
+						"access_rules": ["$canPassGreen"]
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox184"],
+						"access_rules": ["$canPassGreen"]
+					},
+					{
+						"name": "Spot 5",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox185"],
+						"access_rules": ["$canPassGreen"]
+					}
+				],
+				"map_locations": [
+					{
+						"map": "sherbetLand",
+						"x": 490,
+						"y": 185
+					}
+				]
+			},
+			{
+				"name": "Sherbet Land Items 2",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox186"],
+						"access_rules": ["$canPassRed", "$canPassBlue"]
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox187"],
+						"access_rules": ["$canPassRed", "$canPassBlue"]
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox188"],
+						"access_rules": ["$canPassRed", "$canPassBlue"]
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox189"],
+						"access_rules": ["$canPassRed", "$canPassBlue"]
+					}
+				],
+				"map_locations": [
+					{
+						"map": "sherbetLand",
+						"x": 296,
+						"y": 176
+					}
+				]
+			},
+			{
+				"name": "Sherbet Land Bypass Spot",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox190"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "sherbetLand",
+						"x": 235,
+						"y": 148
+					}
+				]
+			},
+			{
+				"name": "Sherbet Land Items 3",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox191"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox192"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox193"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox194"],
+					},
+					{
+						"name": "Spot 5",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox195"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "sherbetLand",
+						"x": 113,
+						"y": 541
+					}
+				]
+			},
+			{
+				"name": "Sherbet Land Items 4",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox196"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox197"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox198"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox199"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "sherbetLand",
+						"x": 350,
+						"y": 380
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Star Cup",
+		"access_rules": ["$canEnterRoyalRaceway"],
+		"children": [
+			{
+				"name": "Royal Raceway",
+				"sections": [
+					{
+						"name": "Take the Lead after Lap 1",
+						"chest_unopened_img": "images/checks/Take Lead.png",
+						"chest_opened_img": "images/checks/Take Lead_Checked.png",
+					},
+					{
+						"name": "Qualify in Race",
+						"chest_unopened_img": "images/checks/4th Place.png",
+						"chest_opened_img": "images/checks/4th Place_Checked.png",
+					},
+					{
+						"name": "Finish as 1st Place",
+						"chest_unopened_img": "images/checks/1st Place.png",
+						"chest_opened_img": "images/checks/1st Place_Checked.png",
+					},
+					{
+						"name": "Destroy Tree",
+						"ref": "Global/Checks/Destroy Tree"
+					},
+					{
+						"name": "Destroy Piranha Plant",
+						"ref": "Global/Checks/Destroy Piranha Plant"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "royalRaceway",
+						"x": 576,
+						"y": 24,
+						"size": 30
+					}
+				]
+			},
+			{
+				"name": "Royal Raceway Items 1",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox200"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox201"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox202"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox203"],
+					},
+					{
+						"name": "Spot 5",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox204"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "royalRaceway",
+						"x": 333,
+						"y": 195
+					}
+				]
+			},
+			{
+				"name": "Royal Raceway Items 2",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox205"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox206"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox207"],
+						"access_rules": ["$canPassRed"]
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox208"],
+					},
+					{
+						"name": "Spot 5",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox209"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "royalRaceway",
+						"x": 368,
+						"y": 125
+					}
+				]
+			},
+			{
+				"name": "Royal Raceway Items 3",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox210"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox211"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox212"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox213"],
+					},
+					{
+						"name": "Spot 5",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox214"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "royalRaceway",
+						"x": 51,
+						"y": 392
+					}
+				]
+			},
+			{
+				"name": "Royal Raceway Items 4",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox215"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox216"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox217"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox218"],
+					},
+					{
+						"name": "Spot 5",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox219"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "royalRaceway",
+						"x": 219,
+						"y": 492
+					}
+				]
+			},
+			{
+				"name": "Princess Peach's Castle",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Peach's Castle Secret",
+						"visibility_rules": ["secretLocations_on"]
+					},
+					{
+						"name": "Peach's Castle Trail Secret",
+						"visibility_rules": ["secretLocations_on"]
+					},
+					{
+						"name": "Peach's Castle Moat Ramp Secret",
+						"visibility_rules": ["secretLocations_on"]
+					}
+				],
+				"map_locations": [
+					{
+						"map": "royalRaceway",
+						"x": 16,
+						"y": 400
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Star Cup",
+		"access_rules": ["$canEnterBowsersCastle"],
+		"children": [
+			{
+				"name": "Bowser's Castle",
+				"sections": [
+					{
+						"name": "Take the Lead after Lap 1",
+						"chest_unopened_img": "images/checks/Take Lead.png",
+						"chest_opened_img": "images/checks/Take Lead_Checked.png",
+					},
+					{
+						"name": "Qualify in Race",
+						"chest_unopened_img": "images/checks/4th Place.png",
+						"chest_opened_img": "images/checks/4th Place_Checked.png",
+					},
+					{
+						"name": "Finish as 1st Place",
+						"chest_unopened_img": "images/checks/1st Place.png",
+						"chest_opened_img": "images/checks/1st Place_Checked.png",
+					},
+					{
+						"name": "Destroy Bush",
+						"chest_unopened_img": "images/checks/Bush.png",
+						"chest_opened_img": "images/checks/Bush_Checked.png",
+						"access_rules": ["item_star", "[]"],
+						"visibility_rules": ["hazardLocations_on"]
+					},
+					{
+						"name": "Destroy Thwomp",
+						"chest_unopened_img": "images/checks/Twomp.png",
+						"chest_opened_img": "images/checks/Twomp_Checked.png",
+						"access_rules": ["item_star", "[]"],
+						"visibility_rules": ["hazardLocations_on"]
+					}
+				],
+				"map_locations": [
+					{
+						"map": "bowsersCastle",
+						"x": 576,
+						"y": 24,
+						"size": 30
+					}
+				]
+			},
+			{
+				"name": "Bowser's Castle Items 1",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox220"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox221"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox222"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox223"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "bowsersCastle",
+						"x": 147,
+						"y": 215
+					}
+				]
+			},
+			{
+				"name": "Bowser's Castle Items 2",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox224"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox225"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox226"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox227"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "bowsersCastle",
+						"x": 305,
+						"y": 340
+					}
+				]
+			},
+			{
+				"name": "Bowser's Castle Items 3",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox228"],
+						"access_rules": ["$canPassRed"]
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox229"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox230"],
+						"access_rules": ["$canPassRed"]
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox231"],
+						"access_rules": ["$canPassYellow"]
+					}
+				],
+				"map_locations": [
+					{
+						"map": "bowsersCastle",
+						"x": 300,
+						"y": 525
+					}
+				]
+			},
+			{
+				"name": "Marty's Secret",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "",
+						"access_rules": ["$canPassGreen"],
+						"visibility_rules": ["secretLocations_on"]
+					}
+				],
+				"map_locations": [
+					{
+						"map": "bowsersCastle",
+						"x": 332,
+						"y": 198
+					}
+				]
+			}
+		]
+	}
+]

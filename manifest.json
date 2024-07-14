@@ -1,0 +1,17 @@
+﻿{
+	"name": "Mario Kart 64 Tracker",
+	"game_name": "Mario Kart 64",
+	"package_version": "1.0.0",
+	"package_uid": "ap_MK64",
+	"author": "SporyTike",
+	"variants": {
+		"courseMap": {
+			"display_name": "Course Tracker",
+			"flags": ["ap"]
+		},
+		"cupMap": {
+			"display_name": "Cup Tracker",
+			"flags": ["ap"]
+		}
+	}
+}

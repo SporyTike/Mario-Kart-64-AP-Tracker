@@ -1,0 +1,850 @@
+[
+	{
+		"name": "Mushroom Cup",
+		"access_rules": ["$canEnterLuigiRaceway"],
+		"children": [
+			{
+				"name": "Luigi Raceway",
+				"sections": [
+					{
+						"name": "Take the Lead after Lap 1",
+						"chest_unopened_img": "images/checks/Take Lead.png",
+						"chest_opened_img": "images/checks/Take Lead_Checked.png",
+					},
+					{
+						"name": "Qualify in Race",
+						"chest_unopened_img": "images/checks/4th Place.png",
+						"chest_opened_img": "images/checks/4th Place_Checked.png",
+					},
+					{
+						"name": "Finish as 1st Place",
+						"chest_unopened_img": "images/checks/1st Place.png",
+						"chest_opened_img": "images/checks/1st Place_Checked.png",
+					},
+					{
+						"name": "Destroy Tree",
+						"ref": "Global/Checks/Destroy Tree"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "luigiRaceway",
+						"x": 576,
+						"y": 24,
+						"size": 30
+					}
+				]
+			},
+			{
+				"name": "Luigi Raceway Items 1",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox1"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox2"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox3"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox4"],
+					},
+					{
+						"name": "Spot 5",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox5"],
+					},
+					{
+						"name": "Spot 6",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox6"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "luigiRaceway",
+						"x": 376,
+						"y": 167
+					}
+				]
+			},
+			{
+				"name": "Luigi Raceway Items 2",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox7"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox8"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox9"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox10"],
+					},
+					{
+						"name": "Spot 5",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox11"],
+						"access_rules": ["$canPassGreen"],
+					},
+					{
+						"name": "Spot 6",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox12"],
+						"access_rules": ["$canPassGreen"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "luigiRaceway",
+						"x": 357,
+						"y": 312
+					}
+				]
+			},
+			{
+				"name": "Luigi Raceway Items 3",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox13"],
+						"access_rules": ["$canPassBlue"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox14"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox15"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox16"],
+					},
+					{
+						"name": "Spot 5",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox17"],
+					},
+					{
+						"name": "Spot 6",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox18"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "luigiRaceway",
+						"x": 348,
+						"y": 550
+					}
+				]
+			},
+			{
+				"name": "Luigi Raceway Balloon",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Collect after Lap 1",
+						"visibility_rules": ["shuffleSpecialItemBoxes_on"]
+					}
+				],
+				"map_locations": [
+					{
+						"map": "luigiRaceway",
+						"x": 371,
+						"y": 138
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Mushroom Cup",
+		"access_rules": ["$canEnterMooMooFarm"],
+		"children": [
+			{
+				"name": "Moo Moo Farm",
+				"sections": [
+					{
+						"name": "Take the Lead after Lap 1",
+						"chest_unopened_img": "images/checks/Take Lead.png",
+						"chest_opened_img": "images/checks/Take Lead_Checked.png",
+					},
+					{
+						"name": "Qualify in Race",
+						"chest_unopened_img": "images/checks/4th Place.png",
+						"chest_opened_img": "images/checks/4th Place_Checked.png",
+					},
+					{
+						"name": "Finish as 1st Place",
+						"chest_unopened_img": "images/checks/1st Place.png",
+						"chest_opened_img": "images/checks/1st Place_Checked.png",
+					}
+				],
+				"map_locations": [
+					{
+						"map": "mooMooFarm",
+						"x": 576,
+						"y": 24,
+						"size": 30
+					}
+				]
+			},
+			{
+				"name": "Moo Moo Farm Items 1",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox19"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox20"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox21"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox22"],
+					},
+					{
+						"name": "Spot 5",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox23"],
+					},
+					{
+						"name": "Spot 6",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox24"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "mooMooFarm",
+						"x": 171,
+						"y": 207
+					}
+				]
+			},
+			{
+				"name": "Moo Moo Farm Items 2",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox25"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox26"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox27"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox28"],
+						"access_rules": ["$canPassRed"],
+					},
+					{
+						"name": "Spot 5",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox29"],
+						"access_rules": ["$canPassRed"],
+					},
+					{
+						"name": "Spot 6",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox30"],
+						"access_rules": ["$canPassRed"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "mooMooFarm",
+						"x": 425,
+						"y": 146
+					}
+				]
+			},
+			{
+				"name": "Moo Moo Farm Items 3",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox31"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox32"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox33"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox34"],
+						"access_rules": ["$canPassYellow"],
+					},
+					{
+						"name": "Spot 5",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox35"],
+					},
+					{
+						"name": "Spot 6",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox36"],
+					},
+					{
+						"name": "Spot 7",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox37"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "mooMooFarm",
+						"x": 424,
+						"y": 404
+					}
+				]
+			},
+			{
+				"name": "Moo Moo Farm Items 4",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox38"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox39"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox40"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox41"],
+					},
+					{
+						"name": "Spot 5",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox42"],
+					},
+					{
+						"name": "Spot 6",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox43"],
+					},
+					{
+						"name": "Spot 7",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox44"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "mooMooFarm",
+						"x": 233,
+						"y": 506
+					}
+				]
+			},
+			{
+				"name": "Defeat Chubby",
+				"chest_unopened_img": "images/checks/Chubby.png",
+				"chest_opened_img": "images/checks/Chubby_Checked.png",
+				"sections": [
+					{
+						"name": "",
+						"access_rules": ["item_star", "[]"],
+						"visibility_rules": ["hazardLocations_on"]
+					}
+				],
+				"map_locations": [
+					{
+						"map": "mooMooFarm",
+						"x": 282,
+						"y": 55
+					},
+					{
+						"map": "mooMooFarm",
+						"x": 378,
+						"y": 492
+					},
+					{
+						"map": "mooMooFarm",
+						"x": 273,
+						"y": 512
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Mushroom Cup",
+		"access_rules": ["$canEnterKoopaTroopaBeach"],
+		"children": [
+			{
+				"name": "Koopa Troopa Beach",
+				"sections": [
+					{
+						"name": "Take the Lead after Lap 1",
+						"chest_unopened_img": "images/checks/Take Lead.png",
+						"chest_opened_img": "images/checks/Take Lead_Checked.png",
+					},
+					{
+						"name": "Qualify in Race",
+						"chest_unopened_img": "images/checks/4th Place.png",
+						"chest_opened_img": "images/checks/4th Place_Checked.png",
+					},
+					{
+						"name": "Finish as 1st Place",
+						"chest_unopened_img": "images/checks/1st Place.png",
+						"chest_opened_img": "images/checks/1st Place_Checked.png",
+					},
+					{
+						"name": "Destroy Palm",
+						"ref": "Global/Checks/Destroy Tree"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "koopaTroopaBeach",
+						"x": 576,
+						"y": 24,
+						"size": 30
+					}
+				]
+			},
+			{
+				"name": "Koopa Troopa Beach Items 1",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox45"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox46"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox47"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox48"],
+					},
+					{
+						"name": "Spot 5",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox49"],
+					},
+					{
+						"name": "Spot 6",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox50"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "koopaTroopaBeach",
+						"x": 356,
+						"y": 82
+					}
+				]
+			},
+			{
+				"name": "Koopa Troopa Beach Items 2",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox51"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox52"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox53"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox54"],
+					},
+					{
+						"name": "Spot 5",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox55"],
+					},
+					{
+						"name": "Spot 6",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox56"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "koopaTroopaBeach",
+						"x": 193,
+						"y": 280
+					}
+				]
+			},
+			{
+				"name": "Koopa Troopa Beach Items 3",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox57"],
+						"access_rules": ["$canPassGreen", "$canFakeItemBox"]
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox58"],
+						"access_rules": ["$canPassGreen", "$canPassBlue", "$canFakeItemBox"]
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox59"],
+						"access_rules": ["$canPassGreen", "$canPassBlue", "$canFakeItemBox"]
+					}
+				],
+				"map_locations": [
+					{
+						"map": "koopaTroopaBeach",
+						"x": 253,
+						"y": 332
+					}
+				]
+			},
+			{
+				"name": "Koopa Troopa Beach Items 4",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox60"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox61"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox62"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox63"],
+					},
+					{
+						"name": "Spot 5",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox64"],
+					},
+					{
+						"name": "Spot 6",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox65"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "koopaTroopaBeach",
+						"x": 201,
+						"y": 475
+					}
+				]
+			},
+			{
+				"name": "Koopa Troopa Beach Items 5",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox66"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox67"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox68"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox69"],
+					},
+					{
+						"name": "Spot 5",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox70"],
+					},
+					{
+						"name": "Spot 6",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox71"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "koopaTroopaBeach",
+						"x": 430,
+						"y": 383
+					}
+				]
+			},
+			{
+				"name": "Koopa Troopa Beach Items 6",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"access_rules": ["$canPassYellow", "$canPassGreen", "$canPassRed"],
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox72"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox73"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox74"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "koopaTroopaBeach",
+						"x": 365,
+						"y": 289
+					}
+				]
+			},
+			{
+				"name": "Koopa Troopa Beach Rock",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "",
+						"access_rules": ["$canPassYellow, $canPassBlue", "$canPassGreen, $canPassRed"],
+						"visibility_rules": ["shuffleSpecialItemBoxes_on"]
+					}
+				],
+				"map_locations": [
+					{
+						"map": "koopaTroopaBeach",
+						"x": 387,
+						"y": 492
+					}
+				]
+			},
+			{
+				"name": "Koopa Troopa Beach Secret",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "",
+						"visibility_rules": ["secretLocations_on"]
+					}
+				],
+				"map_locations": [
+					{
+						"map": "koopaTroopaBeach",
+						"x": 367,
+						"y": 145
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Mushroom Cup",
+		"access_rules": ["$canEnterKalimariDesert"],
+		"children": [
+			{
+				"name": "Kalimari Desert",
+				"sections": [
+					{
+						"name": "Take the Lead after Lap 1",
+						"chest_unopened_img": "images/checks/Take Lead.png",
+						"chest_opened_img": "images/checks/Take Lead_Checked.png",
+					},
+					{
+						"name": "Qualify in Race",
+						"chest_unopened_img": "images/checks/4th Place.png",
+						"chest_opened_img": "images/checks/4th Place_Checked.png",
+					},
+					{
+						"name": "Finish as 1st Place",
+						"chest_unopened_img": "images/checks/1st Place.png",
+						"chest_opened_img": "images/checks/1st Place_Checked.png",
+					},
+					{
+						"name": "Destroy Cactus",
+						"chest_unopened_img": "images/checks/Cactus.png",
+						"chest_opened_img": "images/checks/Cactus_Checked.png",
+						"access_rules": ["item_star", "[]"],
+						"visibility_rules": ["hazardLocations_on"]
+					}
+				],
+				"map_locations": [
+					{
+						"map": "kalimariDesert",
+						"x": 576,
+						"y": 24,
+						"size": 30
+					}
+				]
+			},
+			{
+				"name": "Kalimari Desert Items 1",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox75"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox76"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox77"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox78"],
+					},
+					{
+						"name": "Spot 5",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox79"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "kalimariDesert",
+						"x": 350,
+						"y": 21
+					}
+				]
+			},
+			{
+				"name": "Kalimari Desert Items 2",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"access_rules": ["$canPassYellow", "$canPassRed", "$canPassBlue"],
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox80"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox81"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox82"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox83"],
+					},
+					{
+						"name": "Spot 5",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox84"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "kalimariDesert",
+						"x": 188,
+						"y": 382
+					}
+				]
+			},
+			{
+				"name": "Kalimari Desert Items 3",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox85"],
+						"access_rules": ["$canPassBlue"]
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox86"],
+						"access_rules": ["$canPassBlue"]
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox87"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox88"],
+					},
+					{
+						"name": "Spot 5",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox89"],
+						"access_rules": ["$canPassGreen", "$canPassRed"]
+					}
+				],
+				"map_locations": [
+					{
+						"map": "kalimariDesert",
+						"x": 370,
+						"y": 473
+					}
+				]
+			},
+			{
+				"name": "Kalimari Desert Secret",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "",
+						"visibility_rules": ["secretLocations_on"]
+					}
+				],
+				"map_locations": [
+					{
+						"map": "kalimariDesert",
+						"x": 343,
+						"y": 326
+					}
+				]
+			}
+		]
+	},
+]

@@ -1,0 +1,2622 @@
+[
+	{
+		"name": "Cup Trophies",
+		"children": [
+			{
+				"name": "Mushroom Cup",
+				"access_rules": [
+					"cup_mushroom"
+				],
+				"sections": [
+					{
+						"name": "50ccm - Bronze",
+						"chest_unopened_img": "/images/checks/Trophy Bronze.png",
+						"chest_opened_img": "/images/checks/Trophy Bronze_Checked.png"
+					},
+					{
+						"name": "50ccm - Silver",
+						"chest_unopened_img": "/images/checks/Trophy Silver.png",
+						"chest_opened_img": "/images/checks/Trophy Silver_Checked.png"
+					},
+					{
+						"name": "50ccm - Gold",
+						"chest_unopened_img": "/images/checks/Trophy Gold.png",
+						"chest_opened_img": "/images/checks/Trophy Gold_Checked.png"
+					},
+					{
+						"name": "100ccm - Bronze",
+						"chest_unopened_img": "/images/checks/Trophy Bronze.png",
+						"chest_opened_img": "/images/checks/Trophy Bronze_Checked.png",
+						"visibility_rules": "addMoreTrophies_on"
+					},
+					{
+						"name": "100ccm - Silver",
+						"chest_unopened_img": "/images/checks/Trophy Silver.png",
+						"chest_opened_img": "/images/checks/Trophy Silver_Checked.png",
+						"visibility_rules": "addMoreTrophies_on"
+					},
+					{
+						"name": "100ccm - Gold",
+						"chest_unopened_img": "/images/checks/Trophy Gold.png",
+						"chest_opened_img": "/images/checks/Trophy Gold_Checked.png"
+					},
+					{
+						"name": "150ccm - Bronze",
+						"chest_unopened_img": "/images/checks/Trophy Bronze Big.png",
+						"chest_opened_img": "/images/checks/Trophy Bronze Big_Checked.png",
+						"visibility_rules": "addMoreTrophies_on"
+					},
+					{
+						"name": "150ccm - Silver",
+						"chest_unopened_img": "/images/checks/Trophy Silver Big.png",
+						"chest_opened_img": "/images/checks/Trophy Silver Big_Checked.png",
+						"visibility_rules": "addMoreTrophies_on"
+					},
+					{
+						"name": "150ccm - Gold",
+						"chest_unopened_img": "/images/checks/Trophy Gold Big.png",
+						"chest_opened_img": "/images/checks/Trophy Gold Big_Checked.png",
+						"codes": "testMush"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "globalMap",
+						"x": 125,
+						"y": 79
+					},
+					{
+						"map": "luigiRaceway",
+						"x": 24,
+						"y": 24,
+						"size": 30
+					},
+					{
+						"map": "mooMooFarm",
+						"x": 24,
+						"y": 24,
+						"size": 30
+					},
+					{
+						"map": "koopaTroopaBeach",
+						"x": 24,
+						"y": 24,
+						"size": 30
+					},
+					{
+						"map": "kalimariDesert",
+						"x": 24,
+						"y": 24,
+						"size": 30
+					},
+					{
+						"map": "toadsTurnpike",
+						"x": 24,
+						"y": 24,
+						"size": 30
+					},
+					{
+						"map": "frappeSnowland",
+						"x": 24,
+						"y": 24,
+						"size": 30
+					},
+					{
+						"map": "chocoMountain",
+						"x": 24,
+						"y": 24,
+						"size": 30
+					},
+					{
+						"map": "marioRaceway",
+						"x": 24,
+						"y": 24,
+						"size": 30
+					},
+					{
+						"map": "warioStadium",
+						"x": 24,
+						"y": 24,
+						"size": 30
+					},
+					{
+						"map": "sherbetLand",
+						"x": 24,
+						"y": 24,
+						"size": 30
+					},
+					{
+						"map": "royalRaceway",
+						"x": 24,
+						"y": 24,
+						"size": 30
+					},
+					{
+						"map": "bowsersCastle",
+						"x": 24,
+						"y": 24,
+						"size": 30
+					},
+					{
+						"map": "dksJungleParkway",
+						"x": 24,
+						"y": 24,
+						"size": 30
+					},
+					{
+						"map": "yoshiValley",
+						"x": 24,
+						"y": 24,
+						"size": 30
+					},
+					{
+						"map": "bansheeBoardwalk",
+						"x": 24,
+						"y": 24,
+						"size": 30
+					},
+					{
+						"map": "rainbowRoad",
+						"x": 24,
+						"y": 24,
+						"size": 30
+					}
+				]
+			},
+			{
+				"name": "Flower Cup",
+				"access_rules": [
+					"cup_flower"
+				],
+				"sections": [
+					{
+						"name": "50ccm - Bronze",
+						"chest_unopened_img": "/images/checks/Trophy Bronze.png",
+						"chest_opened_img": "/images/checks/Trophy Bronze_Checked.png"
+					},
+					{
+						"name": "50ccm - Silver",
+						"chest_unopened_img": "/images/checks/Trophy Silver.png",
+						"chest_opened_img": "/images/checks/Trophy Silver_Checked.png"
+					},
+					{
+						"name": "50ccm - Gold",
+						"chest_unopened_img": "/images/checks/Trophy Gold.png",
+						"chest_opened_img": "/images/checks/Trophy Gold_Checked.png"
+					},
+					{
+						"name": "100ccm - Bronze",
+						"chest_unopened_img": "/images/checks/Trophy Bronze.png",
+						"chest_opened_img": "/images/checks/Trophy Bronze_Checked.png",
+						"visibility_rules": "addMoreTrophies_on"
+					},
+					{
+						"name": "100ccm - Silver",
+						"chest_unopened_img": "/images/checks/Trophy Silver.png",
+						"chest_opened_img": "/images/checks/Trophy Silver_Checked.png",
+						"visibility_rules": "addMoreTrophies_on"
+					},
+					{
+						"name": "100ccm - Gold",
+						"chest_unopened_img": "/images/checks/Trophy Gold.png",
+						"chest_opened_img": "/images/checks/Trophy Gold_Checked.png"
+					},
+					{
+						"name": "150ccm - Bronze",
+						"chest_unopened_img": "/images/checks/Trophy Bronze Big.png",
+						"chest_opened_img": "/images/checks/Trophy Bronze Big_Checked.png",
+						"visibility_rules": "addMoreTrophies_on"
+					},
+					{
+						"name": "150ccm - Silver",
+						"chest_unopened_img": "/images/checks/Trophy Silver Big.png",
+						"chest_opened_img": "/images/checks/Trophy Silver Big_Checked.png",
+						"visibility_rules": "addMoreTrophies_on"
+					},
+					{
+						"name": "150ccm - Gold",
+						"chest_unopened_img": "/images/checks/Trophy Gold Big.png",
+						"chest_opened_img": "/images/checks/Trophy Gold Big_Checked.png"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "globalMap",
+						"x": 411,
+						"y": 79
+					},
+					{
+						"map": "luigiRaceway",
+						"x": 24,
+						"y": 54,
+						"size": 30
+					},
+					{
+						"map": "mooMooFarm",
+						"x": 24,
+						"y": 54,
+						"size": 30
+					},
+					{
+						"map": "koopaTroopaBeach",
+						"x": 24,
+						"y": 54,
+						"size": 30
+					},
+					{
+						"map": "kalimariDesert",
+						"x": 24,
+						"y": 54,
+						"size": 30
+					},
+					{
+						"map": "toadsTurnpike",
+						"x": 24,
+						"y": 54,
+						"size": 30
+					},
+					{
+						"map": "frappeSnowland",
+						"x": 24,
+						"y": 54,
+						"size": 30
+					},
+					{
+						"map": "chocoMountain",
+						"x": 24,
+						"y": 54,
+						"size": 30
+					},
+					{
+						"map": "marioRaceway",
+						"x": 24,
+						"y": 54,
+						"size": 30
+					},
+					{
+						"map": "warioStadium",
+						"x": 24,
+						"y": 54,
+						"size": 30
+					},
+					{
+						"map": "sherbetLand",
+						"x": 24,
+						"y": 54,
+						"size": 30
+					},
+					{
+						"map": "royalRaceway",
+						"x": 24,
+						"y": 54,
+						"size": 30
+					},
+					{
+						"map": "bowsersCastle",
+						"x": 24,
+						"y": 54,
+						"size": 30
+					},
+					{
+						"map": "dksJungleParkway",
+						"x": 24,
+						"y": 54,
+						"size": 30
+					},
+					{
+						"map": "yoshiValley",
+						"x": 24,
+						"y": 54,
+						"size": 30
+					},
+					{
+						"map": "bansheeBoardwalk",
+						"x": 24,
+						"y": 54,
+						"size": 30
+					},
+					{
+						"map": "rainbowRoad",
+						"x": 24,
+						"y": 54,
+						"size": 30
+					}
+				]
+			},
+			{
+				"name": "Star Cup",
+				"access_rules": [
+					"cup_star"
+				],
+				"sections": [
+					{
+						"name": "50ccm - Bronze",
+						"chest_unopened_img": "/images/checks/Trophy Bronze.png",
+						"chest_opened_img": "/images/checks/Trophy Bronze_Checked.png"
+					},
+					{
+						"name": "50ccm - Silver",
+						"chest_unopened_img": "/images/checks/Trophy Silver.png",
+						"chest_opened_img": "/images/checks/Trophy Silver_Checked.png"
+					},
+					{
+						"name": "50ccm - Gold",
+						"chest_unopened_img": "/images/checks/Trophy Gold.png",
+						"chest_opened_img": "/images/checks/Trophy Gold_Checked.png"
+					},
+					{
+						"name": "100ccm - Bronze",
+						"chest_unopened_img": "/images/checks/Trophy Bronze.png",
+						"chest_opened_img": "/images/checks/Trophy Bronze_Checked.png",
+						"visibility_rules": "addMoreTrophies_on"
+					},
+					{
+						"name": "100ccm - Silver",
+						"chest_unopened_img": "/images/checks/Trophy Silver.png",
+						"chest_opened_img": "/images/checks/Trophy Silver_Checked.png",
+						"visibility_rules": "addMoreTrophies_on"
+					},
+					{
+						"name": "100ccm - Gold",
+						"chest_unopened_img": "/images/checks/Trophy Gold.png",
+						"chest_opened_img": "/images/checks/Trophy Gold_Checked.png"
+					},
+					{
+						"name": "150ccm - Bronze",
+						"chest_unopened_img": "/images/checks/Trophy Bronze Big.png",
+						"chest_opened_img": "/images/checks/Trophy Bronze Big_Checked.png",
+						"visibility_rules": "addMoreTrophies_on"
+					},
+					{
+						"name": "150ccm - Silver",
+						"chest_unopened_img": "/images/checks/Trophy Silver Big.png",
+						"chest_opened_img": "/images/checks/Trophy Silver Big_Checked.png",
+						"visibility_rules": "addMoreTrophies_on"
+					},
+					{
+						"name": "150ccm - Gold",
+						"chest_unopened_img": "/images/checks/Trophy Gold Big.png",
+						"chest_opened_img": "/images/checks/Trophy Gold Big_Checked.png"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "globalMap",
+						"x": 125,
+						"y": 338
+					},
+					{
+						"map": "luigiRaceway",
+						"x": 24,
+						"y": 84,
+						"size": 30
+					},
+					{
+						"map": "mooMooFarm",
+						"x": 24,
+						"y": 84,
+						"size": 30
+					},
+					{
+						"map": "koopaTroopaBeach",
+						"x": 24,
+						"y": 84,
+						"size": 30
+					},
+					{
+						"map": "kalimariDesert",
+						"x": 24,
+						"y": 84,
+						"size": 30
+					},
+					{
+						"map": "toadsTurnpike",
+						"x": 24,
+						"y": 84,
+						"size": 30
+					},
+					{
+						"map": "frappeSnowland",
+						"x": 24,
+						"y": 84,
+						"size": 30
+					},
+					{
+						"map": "chocoMountain",
+						"x": 24,
+						"y": 84,
+						"size": 30
+					},
+					{
+						"map": "marioRaceway",
+						"x": 24,
+						"y": 84,
+						"size": 30
+					},
+					{
+						"map": "warioStadium",
+						"x": 24,
+						"y": 84,
+						"size": 30
+					},
+					{
+						"map": "sherbetLand",
+						"x": 24,
+						"y": 84,
+						"size": 30
+					},
+					{
+						"map": "royalRaceway",
+						"x": 24,
+						"y": 84,
+						"size": 30
+					},
+					{
+						"map": "bowsersCastle",
+						"x": 24,
+						"y": 84,
+						"size": 30
+					},
+					{
+						"map": "dksJungleParkway",
+						"x": 24,
+						"y": 84,
+						"size": 30
+					},
+					{
+						"map": "yoshiValley",
+						"x": 24,
+						"y": 84,
+						"size": 30
+					},
+					{
+						"map": "bansheeBoardwalk",
+						"x": 24,
+						"y": 84,
+						"size": 30
+					},
+					{
+						"map": "rainbowRoad",
+						"x": 24,
+						"y": 84,
+						"size": 30
+					}
+				]
+			},
+			{
+				"name": "Special Cup",
+				"access_rules": [
+					"cup_special"
+				],
+				"sections": [
+					{
+						"name": "50ccm - Bronze",
+						"chest_unopened_img": "/images/checks/Trophy Bronze.png",
+						"chest_opened_img": "/images/checks/Trophy Bronze_Checked.png"
+					},
+					{
+						"name": "50ccm - Silver",
+						"chest_unopened_img": "/images/checks/Trophy Silver.png",
+						"chest_opened_img": "/images/checks/Trophy Silver_Checked.png"
+					},
+					{
+						"name": "50ccm - Gold",
+						"chest_unopened_img": "/images/checks/Trophy Gold.png",
+						"chest_opened_img": "/images/checks/Trophy Gold_Checked.png"
+					},
+					{
+						"name": "100ccm - Bronze",
+						"chest_unopened_img": "/images/checks/Trophy Bronze.png",
+						"chest_opened_img": "/images/checks/Trophy Bronze_Checked.png",
+						"visibility_rules": "addMoreTrophies_on"
+					},
+					{
+						"name": "100ccm - Silver",
+						"chest_unopened_img": "/images/checks/Trophy Silver.png",
+						"chest_opened_img": "/images/checks/Trophy Silver_Checked.png",
+						"visibility_rules": "addMoreTrophies_on"
+					},
+					{
+						"name": "100ccm - Gold",
+						"chest_unopened_img": "/images/checks/Trophy Gold.png",
+						"chest_opened_img": "/images/checks/Trophy Gold_Checked.png"
+					},
+					{
+						"name": "150ccm - Bronze",
+						"chest_unopened_img": "/images/checks/Trophy Bronze Big.png",
+						"chest_opened_img": "/images/checks/Trophy Bronze Big_Checked.png",
+						"visibility_rules": "addMoreTrophies_on"
+					},
+					{
+						"name": "150ccm - Silver",
+						"chest_unopened_img": "/images/checks/Trophy Silver Big.png",
+						"chest_opened_img": "/images/checks/Trophy Silver Big_Checked.png",
+						"visibility_rules": "addMoreTrophies_on"
+					},
+					{
+						"name": "150ccm - Gold",
+						"chest_unopened_img": "/images/checks/Trophy Gold Big.png",
+						"chest_opened_img": "/images/checks/Trophy Gold Big_Checked.png"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "globalMap",
+						"x": 411,
+						"y": 338
+					},
+					{
+						"map": "luigiRaceway",
+						"x": 24,
+						"y": 114,
+						"size": 30
+					},
+					{
+						"map": "mooMooFarm",
+						"x": 24,
+						"y": 114,
+						"size": 30
+					},
+					{
+						"map": "koopaTroopaBeach",
+						"x": 24,
+						"y": 114,
+						"size": 30
+					},
+					{
+						"map": "kalimariDesert",
+						"x": 24,
+						"y": 114,
+						"size": 30
+					},
+					{
+						"map": "toadsTurnpike",
+						"x": 24,
+						"y": 114,
+						"size": 30
+					},
+					{
+						"map": "frappeSnowland",
+						"x": 24,
+						"y": 114,
+						"size": 30
+					},
+					{
+						"map": "chocoMountain",
+						"x": 24,
+						"y": 114,
+						"size": 30
+					},
+					{
+						"map": "marioRaceway",
+						"x": 24,
+						"y": 114,
+						"size": 30
+					},
+					{
+						"map": "warioStadium",
+						"x": 24,
+						"y": 114,
+						"size": 30
+					},
+					{
+						"map": "sherbetLand",
+						"x": 24,
+						"y": 114,
+						"size": 30
+					},
+					{
+						"map": "royalRaceway",
+						"x": 24,
+						"y": 114,
+						"size": 30
+					},
+					{
+						"map": "bowsersCastle",
+						"x": 24,
+						"y": 114,
+						"size": 30
+					},
+					{
+						"map": "dksJungleParkway",
+						"x": 24,
+						"y": 114,
+						"size": 30
+					},
+					{
+						"map": "yoshiValley",
+						"x": 24,
+						"y": 114,
+						"size": 30
+					},
+					{
+						"map": "bansheeBoardwalk",
+						"x": 24,
+						"y": 114,
+						"size": 30
+					},
+					{
+						"map": "rainbowRoad",
+						"x": 24,
+						"y": 114,
+						"size": 30
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Global",
+		"children": [
+			{
+				"name": "Checks",
+				"sections": [
+					{
+						"name": "Destroy Tree",
+						"chest_unopened_img": "/images/checks/Tree.png",
+						"chest_opened_img": "/images/checks/Tree_Checked.png",
+						"access_rules": [
+							"item_star",
+							"[]"
+						],
+						"visibility_rules": [
+							"hazardLocations_on"
+						]
+					},
+					{
+						"name": "Destroy Piranha Plant",
+						"chest_unopened_img": "/images/checks/Piranha Plant.png",
+						"chest_opened_img": "/images/checks/Piranha Plant_Checked.png",
+						"access_rules": [
+							"item_star",
+							"[]"
+						],
+						"visibility_rules": [
+							"hazardLocations_on"
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Global",
+		"children": [
+			{
+				"name": "Luigi Raceway",
+				"sections": [
+					{
+						"name": "Take the Lead after Lap 1",
+						"ref": "Mushroom Cup/Luigi Raceway/Take the Lead after Lap 1"
+					},
+					{
+						"name": "Qualify in Race",
+						"ref": "Mushroom Cup/Luigi Raceway/Qualify in Race"
+					},
+					{
+						"name": "Finish as 1st Place",
+						"ref": "Mushroom Cup/Luigi Raceway/Finish as 1st Place"
+					},
+					{
+						"name": "Destroy Tree",
+						"ref": "Global/Checks/Destroy Tree"
+					},
+					{
+						"name": "Luigi Raceway Items 1 Spot 1",
+						"ref": "Mushroom Cup/Luigi Raceway Items 1/Spot 1"
+					},
+					{
+						"name": "Luigi Raceway Items 1 Spot 2",
+						"ref": "Mushroom Cup/Luigi Raceway Items 1/Spot 2"
+					},
+					{
+						"name": "Luigi Raceway Items 1 Spot 3",
+						"ref": "Mushroom Cup/Luigi Raceway Items 1/Spot 3"
+					},
+					{
+						"name": "Luigi Raceway Items 1 Spot 4",
+						"ref": "Mushroom Cup/Luigi Raceway Items 1/Spot 4"
+					},
+					{
+						"name": "Luigi Raceway Items 1 Spot 5",
+						"ref": "Mushroom Cup/Luigi Raceway Items 1/Spot 5"
+					},
+					{
+						"name": "Luigi Raceway Items 1 Spot 6",
+						"ref": "Mushroom Cup/Luigi Raceway Items 1/Spot 6"
+					},
+					{
+						"name": "Luigi Raceway Items 2 Spot 1",
+						"ref": "Mushroom Cup/Luigi Raceway Items 2/Spot 1"
+					},
+					{
+						"name": "Luigi Raceway Items 2 Spot 2",
+						"ref": "Mushroom Cup/Luigi Raceway Items 2/Spot 2"
+					},
+					{
+						"name": "Luigi Raceway Items 2 Spot 3",
+						"ref": "Mushroom Cup/Luigi Raceway Items 2/Spot 3"
+					},
+					{
+						"name": "Luigi Raceway Items 2 Spot 4",
+						"ref": "Mushroom Cup/Luigi Raceway Items 2/Spot 4"
+					},
+					{
+						"name": "Luigi Raceway Items 2 Spot 5",
+						"ref": "Mushroom Cup/Luigi Raceway Items 2/Spot 5"
+					},
+					{
+						"name": "Luigi Raceway Items 2 Spot 6",
+						"ref": "Mushroom Cup/Luigi Raceway Items 2/Spot 6"
+					},
+					{
+						"name": "Luigi Raceway Items 3 Spot 1",
+						"ref": "Mushroom Cup/Luigi Raceway Items 3/Spot 1"
+					},
+					{
+						"name": "Luigi Raceway Items 3 Spot 2",
+						"ref": "Mushroom Cup/Luigi Raceway Items 3/Spot 2"
+					},
+					{
+						"name": "Luigi Raceway Items 3 Spot 3",
+						"ref": "Mushroom Cup/Luigi Raceway Items 3/Spot 3"
+					},
+					{
+						"name": "Luigi Raceway Items 3 Spot 4",
+						"ref": "Mushroom Cup/Luigi Raceway Items 3/Spot 4"
+					},
+					{
+						"name": "Luigi Raceway Items 3 Spot 5",
+						"ref": "Mushroom Cup/Luigi Raceway Items 3/Spot 5"
+					},
+					{
+						"name": "Luigi Raceway Items 3 Spot 6",
+						"ref": "Mushroom Cup/Luigi Raceway Items 3/Spot 6"
+					},
+					{
+						"name": "Luigi Raceway Balloon",
+						"ref": "Mushroom Cup/Luigi Raceway Balloon/Collect after Lap 1"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "globalMap",
+						"x": 36,
+						"y": 121
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Global",
+		"children": [
+			{
+				"name": "Moo Moo Farm",
+				"sections": [
+					{
+						"name": "Take the Lead after Lap 1",
+						"ref": "Mushroom Cup/Moo Moo Farm/Take the Lead after Lap 1"
+					},
+					{
+						"name": "Qualify in Race",
+						"ref": "Mushroom Cup/Moo Moo Farm/Qualify in Race"
+					},
+					{
+						"name": "Finish as 1st Place",
+						"ref": "Mushroom Cup/Moo Moo Farm/Finish as 1st Place"
+					},
+					{
+						"name": "Defeat Chubby",
+						"ref": "Mushroom Cup/Defeat Chubby/"
+					},
+					{
+						"name": "Moo Moo Farm Items 1 Spot 1",
+						"ref": "Mushroom Cup/Moo Moo Farm Items 1/Spot 1"
+					},
+					{
+						"name": "Moo Moo Farm Items 1 Spot 2",
+						"ref": "Mushroom Cup/Moo Moo Farm Items 1/Spot 2"
+					},
+					{
+						"name": "Moo Moo Farm Items 1 Spot 3",
+						"ref": "Mushroom Cup/Moo Moo Farm Items 1/Spot 3"
+					},
+					{
+						"name": "Moo Moo Farm Items 1 Spot 4",
+						"ref": "Mushroom Cup/Moo Moo Farm Items 1/Spot 4"
+					},
+					{
+						"name": "Moo Moo Farm Items 1 Spot 5",
+						"ref": "Mushroom Cup/Moo Moo Farm Items 1/Spot 5"
+					},
+					{
+						"name": "Moo Moo Farm Items 1 Spot 6",
+						"ref": "Mushroom Cup/Moo Moo Farm Items 1/Spot 6"
+					},
+					{
+						"name": "Moo Moo Farm Items 2 Spot 1",
+						"ref": "Mushroom Cup/Moo Moo Farm Items 2/Spot 1"
+					},
+					{
+						"name": "Moo Moo Farm Items 2 Spot 2",
+						"ref": "Mushroom Cup/Moo Moo Farm Items 2/Spot 2"
+					},
+					{
+						"name": "Moo Moo Farm Items 2 Spot 3",
+						"ref": "Mushroom Cup/Moo Moo Farm Items 2/Spot 3"
+					},
+					{
+						"name": "Moo Moo Farm Items 2 Spot 4",
+						"ref": "Mushroom Cup/Moo Moo Farm Items 2/Spot 4"
+					},
+					{
+						"name": "Moo Moo Farm Items 2 Spot 5",
+						"ref": "Mushroom Cup/Moo Moo Farm Items 2/Spot 5"
+					},
+					{
+						"name": "Moo Moo Farm Items 2 Spot 6",
+						"ref": "Mushroom Cup/Moo Moo Farm Items 2/Spot 6"
+					},
+					{
+						"name": "Moo Moo Farm Items 3 Spot 1",
+						"ref": "Mushroom Cup/Moo Moo Farm Items 3/Spot 1"
+					},
+					{
+						"name": "Moo Moo Farm Items 3 Spot 2",
+						"ref": "Mushroom Cup/Moo Moo Farm Items 3/Spot 2"
+					},
+					{
+						"name": "Moo Moo Farm Items 3 Spot 3",
+						"ref": "Mushroom Cup/Moo Moo Farm Items 3/Spot 3"
+					},
+					{
+						"name": "Moo Moo Farm Items 3 Spot 4",
+						"ref": "Mushroom Cup/Moo Moo Farm Items 3/Spot 4"
+					},
+					{
+						"name": "Moo Moo Farm Items 3 Spot 5",
+						"ref": "Mushroom Cup/Moo Moo Farm Items 3/Spot 5"
+					},
+					{
+						"name": "Moo Moo Farm Items 3 Spot 6",
+						"ref": "Mushroom Cup/Moo Moo Farm Items 3/Spot 6"
+					},
+					{
+						"name": "Moo Moo Farm Items 3 Spot 7",
+						"ref": "Mushroom Cup/Moo Moo Farm Items 3/Spot 7"
+					},
+					{
+						"name": "Moo Moo Farm Items 4 Spot 1",
+						"ref": "Mushroom Cup/Moo Moo Farm Items 4/Spot 1"
+					},
+					{
+						"name": "Moo Moo Farm Items 4 Spot 2",
+						"ref": "Mushroom Cup/Moo Moo Farm Items 4/Spot 2"
+					},
+					{
+						"name": "Moo Moo Farm Items 4 Spot 3",
+						"ref": "Mushroom Cup/Moo Moo Farm Items 4/Spot 3"
+					},
+					{
+						"name": "Moo Moo Farm Items 4 Spot 4",
+						"ref": "Mushroom Cup/Moo Moo Farm Items 4/Spot 4"
+					},
+					{
+						"name": "Moo Moo Farm Items 4 Spot 5",
+						"ref": "Mushroom Cup/Moo Moo Farm Items 4/Spot 5"
+					},
+					{
+						"name": "Moo Moo Farm Items 4 Spot 6",
+						"ref": "Mushroom Cup/Moo Moo Farm Items 4/Spot 6"
+					},
+					{
+						"name": "Moo Moo Farm Items 4 Spot 7",
+						"ref": "Mushroom Cup/Moo Moo Farm Items 4/Spot 7"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "globalMap",
+						"x": 164,
+						"y": 121
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Global",
+		"children": [
+			{
+				"name": "Koopa Troopa Beach",
+				"sections": [
+					{
+						"name": "Take the Lead after Lap 1",
+						"ref": "Mushroom Cup/Koopa Troopa Beach/Take the Lead after Lap 1"
+					},
+					{
+						"name": "Qualify in Race",
+						"ref": "Mushroom Cup/Koopa Troopa Beach/Qualify in Race"
+					},
+					{
+						"name": "Finish as 1st Place",
+						"ref": "Mushroom Cup/Koopa Troopa Beach/Finish as 1st Place"
+					},
+					{
+						"name": "Destroy Palm",
+						"ref": "Global/Checks/Destroy Tree"
+					},
+					{
+						"name": "Koopa Troopa Beach Items 1 Spot 1",
+						"ref": "Mushroom Cup/Koopa Troopa Beach Items 1/Spot 1"
+					},
+					{
+						"name": "Koopa Troopa Beach Items 1 Spot 2",
+						"ref": "Mushroom Cup/Koopa Troopa Beach Items 1/Spot 2"
+					},
+					{
+						"name": "Koopa Troopa Beach Items 1 Spot 3",
+						"ref": "Mushroom Cup/Koopa Troopa Beach Items 1/Spot 3"
+					},
+					{
+						"name": "Koopa Troopa Beach Items 1 Spot 4",
+						"ref": "Mushroom Cup/Koopa Troopa Beach Items 1/Spot 4"
+					},
+					{
+						"name": "Koopa Troopa Beach Items 1 Spot 5",
+						"ref": "Mushroom Cup/Koopa Troopa Beach Items 1/Spot 5"
+					},
+					{
+						"name": "Koopa Troopa Beach Items 1 Spot 6",
+						"ref": "Mushroom Cup/Koopa Troopa Beach Items 1/Spot 6"
+					},
+					{
+						"name": "Koopa Troopa Beach Items 2 Spot 1",
+						"ref": "Mushroom Cup/Koopa Troopa Beach Items 2/Spot 1"
+					},
+					{
+						"name": "Koopa Troopa Beach Items 2 Spot 2",
+						"ref": "Mushroom Cup/Koopa Troopa Beach Items 2/Spot 2"
+					},
+					{
+						"name": "Koopa Troopa Beach Items 2 Spot 3",
+						"ref": "Mushroom Cup/Koopa Troopa Beach Items 2/Spot 3"
+					},
+					{
+						"name": "Koopa Troopa Beach Items 2 Spot 4",
+						"ref": "Mushroom Cup/Koopa Troopa Beach Items 2/Spot 4"
+					},
+					{
+						"name": "Koopa Troopa Beach Items 2 Spot 5",
+						"ref": "Mushroom Cup/Koopa Troopa Beach Items 2/Spot 5"
+					},
+					{
+						"name": "Koopa Troopa Beach Items 2 Spot 6",
+						"ref": "Mushroom Cup/Koopa Troopa Beach Items 2/Spot 6"
+					},
+					{
+						"name": "Koopa Troopa Beach Items 3 Spot 1",
+						"ref": "Mushroom Cup/Koopa Troopa Beach Items 3/Spot 1"
+					},
+					{
+						"name": "Koopa Troopa Beach Items 3 Spot 2",
+						"ref": "Mushroom Cup/Koopa Troopa Beach Items 3/Spot 2"
+					},
+					{
+						"name": "Koopa Troopa Beach Items 3 Spot 3",
+						"ref": "Mushroom Cup/Koopa Troopa Beach Items 3/Spot 3"
+					},
+					{
+						"name": "Koopa Troopa Beach Items 4 Spot 1",
+						"ref": "Mushroom Cup/Koopa Troopa Beach Items 4/Spot 1"
+					},
+					{
+						"name": "Koopa Troopa Beach Items 4 Spot 2",
+						"ref": "Mushroom Cup/Koopa Troopa Beach Items 4/Spot 2"
+					},
+					{
+						"name": "Koopa Troopa Beach Items 4 Spot 3",
+						"ref": "Mushroom Cup/Koopa Troopa Beach Items 4/Spot 3"
+					},
+					{
+						"name": "Koopa Troopa Beach Items 4 Spot 4",
+						"ref": "Mushroom Cup/Koopa Troopa Beach Items 4/Spot 4"
+					},
+					{
+						"name": "Koopa Troopa Beach Items 4 Spot 5",
+						"ref": "Mushroom Cup/Koopa Troopa Beach Items 4/Spot 5"
+					},
+					{
+						"name": "Koopa Troopa Beach Items 4 Spot 6",
+						"ref": "Mushroom Cup/Koopa Troopa Beach Items 4/Spot 6"
+					},
+					{
+						"name": "Koopa Troopa Beach Items 5 Spot 1",
+						"ref": "Mushroom Cup/Koopa Troopa Beach Items 5/Spot 1"
+					},
+					{
+						"name": "Koopa Troopa Beach Items 5 Spot 2",
+						"ref": "Mushroom Cup/Koopa Troopa Beach Items 5/Spot 2"
+					},
+					{
+						"name": "Koopa Troopa Beach Items 5 Spot 3",
+						"ref": "Mushroom Cup/Koopa Troopa Beach Items 5/Spot 3"
+					},
+					{
+						"name": "Koopa Troopa Beach Items 5 Spot 4",
+						"ref": "Mushroom Cup/Koopa Troopa Beach Items 5/Spot 4"
+					},
+					{
+						"name": "Koopa Troopa Beach Items 5 Spot 5",
+						"ref": "Mushroom Cup/Koopa Troopa Beach Items 5/Spot 5"
+					},
+					{
+						"name": "Koopa Troopa Beach Items 5 Spot 6",
+						"ref": "Mushroom Cup/Koopa Troopa Beach Items 5/Spot 6"
+					},
+					{
+						"name": "Koopa Troopa Beach Items 6 Spot 1",
+						"ref": "Mushroom Cup/Koopa Troopa Beach Items 6/Spot 1"
+					},
+					{
+						"name": "Koopa Troopa Beach Items 6 Spot 2",
+						"ref": "Mushroom Cup/Koopa Troopa Beach Items 6/Spot 2"
+					},
+					{
+						"name": "Koopa Troopa Beach Items 6 Spot 3",
+						"ref": "Mushroom Cup/Koopa Troopa Beach Items 6/Spot 3"
+					},
+					{
+						"name": "Koopa Troopa Beach Rock",
+						"ref": "Mushroom Cup/Koopa Troopa Beach Rock/"
+					},
+					{
+						"name": "Koopa Troopa Beach Secret",
+						"ref": "Mushroom Cup/Koopa Troopa Beach Secret/"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "globalMap",
+						"x": 36,
+						"y": 199
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Global",
+		"children": [
+			{
+				"name": "Kalimari Desert",
+				"sections": [
+					{
+						"name": "Take the Lead after Lap 1",
+						"ref": "Mushroom Cup/Kalimari Desert/Take the Lead after Lap 1"
+					},
+					{
+						"name": "Qualify in Race",
+						"ref": "Mushroom Cup/Kalimari Desert/Qualify in Race"
+					},
+					{
+						"name": "Finish as 1st Place",
+						"ref": "Mushroom Cup/Kalimari Desert/Finish as 1st Place"
+					},
+					{
+						"name": "Destroy Cactus",
+						"ref": "Mushroom Cup/Kalimari Desert/Destroy Cactus"
+					},
+					{
+						"name": "Kalimari Desert Items 1 Spot 1",
+						"ref": "Mushroom Cup/Kalimari Desert Items 1/Spot 1"
+					},
+					{
+						"name": "Kalimari Desert Items 1 Spot 2",
+						"ref": "Mushroom Cup/Kalimari Desert Items 1/Spot 2"
+					},
+					{
+						"name": "Kalimari Desert Items 1 Spot 3",
+						"ref": "Mushroom Cup/Kalimari Desert Items 1/Spot 3"
+					},
+					{
+						"name": "Kalimari Desert Items 1 Spot 4",
+						"ref": "Mushroom Cup/Kalimari Desert Items 1/Spot 4"
+					},
+					{
+						"name": "Kalimari Desert Items 1 Spot 5",
+						"ref": "Mushroom Cup/Kalimari Desert Items 1/Spot 5"
+					},
+					{
+						"name": "Kalimari Desert Items 2 Spot 1",
+						"ref": "Mushroom Cup/Kalimari Desert Items 2/Spot 1"
+					},
+					{
+						"name": "Kalimari Desert Items 2 Spot 2",
+						"ref": "Mushroom Cup/Kalimari Desert Items 2/Spot 2"
+					},
+					{
+						"name": "Kalimari Desert Items 2 Spot 3",
+						"ref": "Mushroom Cup/Kalimari Desert Items 2/Spot 3"
+					},
+					{
+						"name": "Kalimari Desert Items 2 Spot 4",
+						"ref": "Mushroom Cup/Kalimari Desert Items 2/Spot 4"
+					},
+					{
+						"name": "Kalimari Desert Items 2 Spot 5",
+						"ref": "Mushroom Cup/Kalimari Desert Items 2/Spot 5"
+					},
+					{
+						"name": "Kalimari Desert Items 3 Spot 1",
+						"ref": "Mushroom Cup/Kalimari Desert Items 3/Spot 1"
+					},
+					{
+						"name": "Kalimari Desert Items 3 Spot 2",
+						"ref": "Mushroom Cup/Kalimari Desert Items 3/Spot 2"
+					},
+					{
+						"name": "Kalimari Desert Items 3 Spot 3",
+						"ref": "Mushroom Cup/Kalimari Desert Items 3/Spot 3"
+					},
+					{
+						"name": "Kalimari Desert Items 3 Spot 4",
+						"ref": "Mushroom Cup/Kalimari Desert Items 3/Spot 4"
+					},
+					{
+						"name": "Kalimari Desert Items 3 Spot 5",
+						"ref": "Mushroom Cup/Kalimari Desert Items 3/Spot 5"
+					},
+					{
+						"name": "Kalimari Desert Secret",
+						"ref": "Mushroom Cup/Kalimari Desert Secret/"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "globalMap",
+						"x": 164,
+						"y": 199
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Global",
+		"children": [
+			{
+				"name": "Toad's Turnpike",
+				"sections": [
+					{
+						"name": "Take the Lead after Lap 1",
+						"ref": "Flower Cup/Toad's Turnpike/Take the Lead after Lap 1"
+					},
+					{
+						"name": "Qualify in Race",
+						"ref": "Flower Cup/Toad's Turnpike/Qualify in Race"
+					},
+					{
+						"name": "Finish as 1st Place",
+						"ref": "Flower Cup/Toad's Turnpike/Finish as 1st Place"
+					},
+					{
+						"name": "Toad's Turnpike Items 1 Spot 1",
+						"ref": "Flower Cup/Toad's Turnpike Items 1/Spot 1"
+					},
+					{
+						"name": "Toad's Turnpike Items 1 Spot 2",
+						"ref": "Flower Cup/Toad's Turnpike Items 1/Spot 2"
+					},
+					{
+						"name": "Toad's Turnpike Items 1 Spot 3",
+						"ref": "Flower Cup/Toad's Turnpike Items 1/Spot 3"
+					},
+					{
+						"name": "Toad's Turnpike Items 1 Spot 4",
+						"ref": "Flower Cup/Toad's Turnpike Items 1/Spot 4"
+					},
+					{
+						"name": "Toad's Turnpike Items 2 Spot 1",
+						"ref": "Flower Cup/Toad's Turnpike Items 2/Spot 1"
+					},
+					{
+						"name": "Toad's Turnpike Items 2 Spot 2",
+						"ref": "Flower Cup/Toad's Turnpike Items 2/Spot 2"
+					},
+					{
+						"name": "Toad's Turnpike Items 2 Spot 3",
+						"ref": "Flower Cup/Toad's Turnpike Items 2/Spot 3"
+					},
+					{
+						"name": "Toad's Turnpike Items 2 Spot 4",
+						"ref": "Flower Cup/Toad's Turnpike Items 2/Spot 4"
+					},
+					{
+						"name": "Toad's Turnpike Items 3 Spot 1",
+						"ref": "Flower Cup/Toad's Turnpike Items 3/Spot 1"
+					},
+					{
+						"name": "Toad's Turnpike Items 3 Spot 2",
+						"ref": "Flower Cup/Toad's Turnpike Items 3/Spot 2"
+					},
+					{
+						"name": "Toad's Turnpike Items 3 Spot 3",
+						"ref": "Flower Cup/Toad's Turnpike Items 3/Spot 3"
+					},
+					{
+						"name": "Toad's Turnpike Items 3 Spot 4",
+						"ref": "Flower Cup/Toad's Turnpike Items 3/Spot 4"
+					},
+					{
+						"name": "Toad's Turnpike Items 4 Spot 1",
+						"ref": "Flower Cup/Toad's Turnpike Items 4/Spot 1"
+					},
+					{
+						"name": "Toad's Turnpike Items 4 Spot 2",
+						"ref": "Flower Cup/Toad's Turnpike Items 4/Spot 2"
+					},
+					{
+						"name": "Toad's Turnpike Items 4 Spot 3",
+						"ref": "Flower Cup/Toad's Turnpike Items 4/Spot 3"
+					},
+					{
+						"name": "Toad's Turnpike Items 4 Spot 4",
+						"ref": "Flower Cup/Toad's Turnpike Items 4/Spot 4"
+					},
+					{
+						"name": "Toad's Turnpike Secret",
+						"ref": "Flower Cup/Toad's Turnpike Secret/"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "globalMap",
+						"x": 322,
+						"y": 121
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Global",
+		"children": [
+			{
+				"name": "Frappe Snowland",
+				"sections": [
+					{
+						"name": "Take the Lead after Lap 1",
+						"ref": "Flower Cup/Frappe Snowland/Take the Lead after Lap 1"
+					},
+					{
+						"name": "Qualify in Race",
+						"ref": "Flower Cup/Frappe Snowland/Qualify in Race"
+					},
+					{
+						"name": "Finish as 1st Place",
+						"ref": "Flower Cup/Frappe Snowland/Finish as 1st Place"
+					},
+					{
+						"name": "Destroy Tree",
+						"ref": "Global/Checks/Destroy Tree"
+					},
+					{
+						"name": "Defeat Snowman Bomb",
+						"ref": "Flower Cup/Frappe Snowland/Defeat Snowman Bomb"
+					},
+					{
+						"name": "Frappe Snowland Items 1 Spot 1",
+						"ref": "Flower Cup/Frappe Snowland Items 1/Spot 1"
+					},
+					{
+						"name": "Frappe Snowland Items 1 Spot 2",
+						"ref": "Flower Cup/Frappe Snowland Items 1/Spot 2"
+					},
+					{
+						"name": "Frappe Snowland Items 1 Spot 3",
+						"ref": "Flower Cup/Frappe Snowland Items 1/Spot 3"
+					},
+					{
+						"name": "Frappe Snowland Items 1 Spot 4",
+						"ref": "Flower Cup/Frappe Snowland Items 1/Spot 4"
+					},
+					{
+						"name": "Frappe Snowland Items 1 Spot 5",
+						"ref": "Flower Cup/Frappe Snowland Items 1/Spot 5"
+					},
+					{
+						"name": "Frappe Snowland Items 2 Spot 1",
+						"ref": "Flower Cup/Frappe Snowland Items 2/Spot 1"
+					},
+					{
+						"name": "Frappe Snowland Items 2 Spot 2",
+						"ref": "Flower Cup/Frappe Snowland Items 2/Spot 2"
+					},
+					{
+						"name": "Frappe Snowland Items 2 Spot 3",
+						"ref": "Flower Cup/Frappe Snowland Items 2/Spot 3"
+					},
+					{
+						"name": "Frappe Snowland Items 2 Spot 4",
+						"ref": "Flower Cup/Frappe Snowland Items 2/Spot 4"
+					},
+					{
+						"name": "Frappe Snowland Items 2 Spot 5",
+						"ref": "Flower Cup/Frappe Snowland Items 2/Spot 5"
+					},
+					{
+						"name": "Frappe Snowland Items 3 Spot 1",
+						"ref": "Flower Cup/Frappe Snowland Items 3/Spot 1"
+					},
+					{
+						"name": "Frappe Snowland Items 3 Spot 2",
+						"ref": "Flower Cup/Frappe Snowland Items 3/Spot 2"
+					},
+					{
+						"name": "Frappe Snowland Items 3 Spot 3",
+						"ref": "Flower Cup/Frappe Snowland Items 3/Spot 3"
+					},
+					{
+						"name": "Frappe Snowland Items 3 Spot 4",
+						"ref": "Flower Cup/Frappe Snowland Items 3/Spot 4"
+					},
+					{
+						"name": "Frappe Snowland Items 3 Spot 5",
+						"ref": "Flower Cup/Frappe Snowland Items 3/Spot 5"
+					},
+					{
+						"name": "Snow Yoshi's Secret",
+						"ref": "Flower Cup/Snow Yoshi's Secret/"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "globalMap",
+						"x": 450,
+						"y": 121
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Global",
+		"children": [
+			{
+				"name": "Choco Mountain",
+				"sections": [
+					{
+						"name": "Take the Lead after Lap 1",
+						"ref": "Flower Cup/Choco Mountain/Take the Lead after Lap 1"
+					},
+					{
+						"name": "Qualify in Race",
+						"ref": "Flower Cup/Choco Mountain/Qualify in Race"
+					},
+					{
+						"name": "Finish as 1st Place",
+						"ref": "Flower Cup/Choco Mountain/Finish as 1st Place"
+					},
+					{
+						"name": "Deflect Boulder",
+						"ref": "Flower Cup/Deflect Boulder/"
+					},
+					{
+						"name": "Choco Mountain Items 1 Spot 1",
+						"ref": "Flower Cup/Choco Mountain Items 1/Spot 1"
+					},
+					{
+						"name": "Choco Mountain Items 1 Spot 2",
+						"ref": "Flower Cup/Choco Mountain Items 1/Spot 2"
+					},
+					{
+						"name": "Choco Mountain Items 1 Spot 3",
+						"ref": "Flower Cup/Choco Mountain Items 1/Spot 3"
+					},
+					{
+						"name": "Choco Mountain Items 1 Spot 4",
+						"ref": "Flower Cup/Choco Mountain Items 1/Spot 4"
+					},
+					{
+						"name": "Choco Mountain Items 1 Spot 5",
+						"ref": "Flower Cup/Choco Mountain Items 1/Spot 5"
+					},
+					{
+						"name": "Choco Mountain Items 2 Spot 1",
+						"ref": "Flower Cup/Choco Mountain Items 2/Spot 1"
+					},
+					{
+						"name": "Choco Mountain Items 2 Spot 2",
+						"ref": "Flower Cup/Choco Mountain Items 2/Spot 2"
+					},
+					{
+						"name": "Choco Mountain Items 2 Spot 3",
+						"ref": "Flower Cup/Choco Mountain Items 2/Spot 3"
+					},
+					{
+						"name": "Choco Mountain Items 2 Spot 4",
+						"ref": "Flower Cup/Choco Mountain Items 2/Spot 4"
+					},
+					{
+						"name": "Choco Mountain Items 2 Spot 5",
+						"ref": "Flower Cup/Choco Mountain Items 2/Spot 5"
+					},
+					{
+						"name": "Choco Mountain Items 3 Spot 1",
+						"ref": "Flower Cup/Choco Mountain Items 3/Spot 1"
+					},
+					{
+						"name": "Choco Mountain Items 3 Spot 2",
+						"ref": "Flower Cup/Choco Mountain Items 3/Spot 2"
+					},
+					{
+						"name": "Choco Mountain Items 3 Spot 3",
+						"ref": "Flower Cup/Choco Mountain Items 3/Spot 3"
+					},
+					{
+						"name": "Choco Mountain Items 3 Spot 4",
+						"ref": "Flower Cup/Choco Mountain Items 3/Spot 4"
+					},
+					{
+						"name": "Choco Mountain Items 3 Spot 5",
+						"ref": "Flower Cup/Choco Mountain Items 3/Spot 5"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "globalMap",
+						"x": 322,
+						"y": 199
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Global",
+		"children": [
+			{
+				"name": "Mario Raceway",
+				"sections": [
+					{
+						"name": "Take the Lead after Lap 1",
+						"ref": "Flower Cup/Mario Raceway/Take the Lead after Lap 1"
+					},
+					{
+						"name": "Qualify in Race",
+						"ref": "Flower Cup/Mario Raceway/Qualify in Race"
+					},
+					{
+						"name": "Finish as 1st Place",
+						"ref": "Flower Cup/Mario Raceway/Finish as 1st Place"
+					},
+					{
+						"name": "Destroy Tree",
+						"ref": "Global/Checks/Destroy Tree"
+					},
+					{
+						"name": "Destroy Piranha Plant",
+						"ref": "Global/Checks/Destroy Piranha Plant"
+					},
+					{
+						"name": "Destroy Mario Sign",
+						"ref": "Flower Cup/Destroy Mario Sign/"
+					},
+					{
+						"name": "Mario Raceway Items 1 Spot 1",
+						"ref": "Flower Cup/Mario Raceway Items 1/Spot 1"
+					},
+					{
+						"name": "Mario Raceway Items 1 Spot 2",
+						"ref": "Flower Cup/Mario Raceway Items 1/Spot 2"
+					},
+					{
+						"name": "Mario Raceway Items 1 Spot 3",
+						"ref": "Flower Cup/Mario Raceway Items 1/Spot 3"
+					},
+					{
+						"name": "Mario Raceway Items 1 Spot 4",
+						"ref": "Flower Cup/Mario Raceway Items 1/Spot 4"
+					},
+					{
+						"name": "Mario Raceway Items 1 Spot 5",
+						"ref": "Flower Cup/Mario Raceway Items 1/Spot 5"
+					},
+					{
+						"name": "Mario Raceway Items 2 Spot 1",
+						"ref": "Flower Cup/Mario Raceway Items 2/Spot 1"
+					},
+					{
+						"name": "Mario Raceway Items 2 Spot 2",
+						"ref": "Flower Cup/Mario Raceway Items 2/Spot 2"
+					},
+					{
+						"name": "Mario Raceway Items 2 Spot 3",
+						"ref": "Flower Cup/Mario Raceway Items 2/Spot 3"
+					},
+					{
+						"name": "Mario Raceway Items 2 Spot 4",
+						"ref": "Flower Cup/Mario Raceway Items 2/Spot 4"
+					},
+					{
+						"name": "Mario Raceway Items 2 Spot 5",
+						"ref": "Flower Cup/Mario Raceway Items 2/Spot 5"
+					},
+					{
+						"name": "Mario Raceway Items 3 Spot 1",
+						"ref": "Flower Cup/Mario Raceway Items 3/Spot 1"
+					},
+					{
+						"name": "Mario Raceway Items 3 Spot 2",
+						"ref": "Flower Cup/Mario Raceway Items 3/Spot 2"
+					},
+					{
+						"name": "Mario Raceway Items 3 Spot 3",
+						"ref": "Flower Cup/Mario Raceway Items 3/Spot 3"
+					},
+					{
+						"name": "Mario Raceway Items 3 Spot 4",
+						"ref": "Flower Cup/Mario Raceway Items 3/Spot 4"
+					},
+					{
+						"name": "Mario Raceway Items 3 Spot 5",
+						"ref": "Flower Cup/Mario Raceway Items 3/Spot 5"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "globalMap",
+						"x": 450,
+						"y": 199
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Global",
+		"children": [
+			{
+				"name": "Wario Stadium",
+				"sections": [
+					{
+						"name": "Take the Lead after Lap 1",
+						"ref": "Star Cup/Wario Stadium/Take the Lead after Lap 1"
+					},
+					{
+						"name": "Qualify in Race",
+						"ref": "Star Cup/Wario Stadium/Qualify in Race"
+					},
+					{
+						"name": "Finish as 1st Place",
+						"ref": "Star Cup/Wario Stadium/Finish as 1st Place"
+					},
+					{
+						"name": "Wario Stadium Items 1 Spot 1",
+						"ref": "Star Cup/Wario Stadium Items 1/Spot 1"
+					},
+					{
+						"name": "Wario Stadium Items 1 Spot 2",
+						"ref": "Star Cup/Wario Stadium Items 1/Spot 2"
+					},
+					{
+						"name": "Wario Stadium Items 1 Spot 3",
+						"ref": "Star Cup/Wario Stadium Items 1/Spot 3"
+					},
+					{
+						"name": "Wario Stadium Items 1 Spot 4",
+						"ref": "Star Cup/Wario Stadium Items 1/Spot 4"
+					},
+					{
+						"name": "Wario Stadium Items 1 Spot 5",
+						"ref": "Star Cup/Wario Stadium Items 1/Spot 5"
+					},
+					{
+						"name": "Wario Stadium Items 2 Spot 1",
+						"ref": "Star Cup/Wario Stadium Items 2/Spot 1"
+					},
+					{
+						"name": "Wario Stadium Items 2 Spot 2",
+						"ref": "Star Cup/Wario Stadium Items 2/Spot 2"
+					},
+					{
+						"name": "Wario Stadium Items 2 Spot 3",
+						"ref": "Star Cup/Wario Stadium Items 2/Spot 3"
+					},
+					{
+						"name": "Wario Stadium Items 2 Spot 4",
+						"ref": "Star Cup/Wario Stadium Items 2/Spot 4"
+					},
+					{
+						"name": "Wario Stadium Items 2 Spot 5",
+						"ref": "Star Cup/Wario Stadium Items 2/Spot 5"
+					},
+					{
+						"name": "Wario Stadium Items 3 Spot 1",
+						"ref": "Star Cup/Wario Stadium Items 3/Spot 1"
+					},
+					{
+						"name": "Wario Stadium Items 3 Spot 2",
+						"ref": "Star Cup/Wario Stadium Items 3/Spot 2"
+					},
+					{
+						"name": "Wario Stadium Items 3 Spot 3",
+						"ref": "Star Cup/Wario Stadium Items 3/Spot 3"
+					},
+					{
+						"name": "Wario Stadium Items 3 Spot 4",
+						"ref": "Star Cup/Wario Stadium Items 3/Spot 4"
+					},
+					{
+						"name": "Wario Stadium Items 3 Spot 5",
+						"ref": "Star Cup/Wario Stadium Items 3/Spot 5"
+					},
+					{
+						"name": "Wario Stadium Items 4 Spot 1",
+						"ref": "Star Cup/Wario Stadium Items 4/Spot 1"
+					},
+					{
+						"name": "Wario Stadium Items 4 Spot 2",
+						"ref": "Star Cup/Wario Stadium Items 4/Spot 2"
+					},
+					{
+						"name": "Wario Stadium Items 4 Spot 3",
+						"ref": "Star Cup/Wario Stadium Items 4/Spot 3"
+					},
+					{
+						"name": "Wario Stadium Items 4 Spot 4",
+						"ref": "Star Cup/Wario Stadium Items 4/Spot 4"
+					},
+					{
+						"name": "Wario Stadium Items 4 Spot 5",
+						"ref": "Star Cup/Wario Stadium Items 4/Spot 5"
+					},
+					{
+						"name": "Wario Stadium Items 5 Spot 1",
+						"ref": "Star Cup/Wario Stadium Items 5/Spot 1"
+					},
+					{
+						"name": "Wario Stadium Items 5 Spot 2",
+						"ref": "Star Cup/Wario Stadium Items 5/Spot 2"
+					},
+					{
+						"name": "Wario Stadium Items 5 Spot 3",
+						"ref": "Star Cup/Wario Stadium Items 5/Spot 3"
+					},
+					{
+						"name": "Wario Stadium Items 5 Spot 4",
+						"ref": "Star Cup/Wario Stadium Items 5/Spot 4"
+					},
+					{
+						"name": "Wario Stadium Items 5 Spot 5",
+						"ref": "Star Cup/Wario Stadium Items 5/Spot 5"
+					},
+					{
+						"name": "Wario Stadium Items 6 Spot 1",
+						"ref": "Star Cup/Wario Stadium Items 6/Spot 1"
+					},
+					{
+						"name": "Wario Stadium Items 6 Spot 2",
+						"ref": "Star Cup/Wario Stadium Items 6/Spot 2"
+					},
+					{
+						"name": "Wario Stadium Items 6 Spot 3",
+						"ref": "Star Cup/Wario Stadium Items 6/Spot 3"
+					},
+					{
+						"name": "Wario Stadium Items 6 Spot 4",
+						"ref": "Star Cup/Wario Stadium Items 6/Spot 4"
+					},
+					{
+						"name": "Wario Stadium Items 6 Spot 5",
+						"ref": "Star Cup/Wario Stadium Items 6/Spot 5"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "globalMap",
+						"x": 36,
+						"y": 380
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Global",
+		"children": [
+			{
+				"name": "Sherbet Land",
+				"sections": [
+					{
+						"name": "Take the Lead after Lap 1",
+						"ref": "Star Cup/Sherbet Land/Take the Lead after Lap 1"
+					},
+					{
+						"name": "Qualify in Race",
+						"ref": "Star Cup/Sherbet Land/Qualify in Race"
+					},
+					{
+						"name": "Finish as 1st Place",
+						"ref": "Star Cup/Sherbet Land/Finish as 1st Place"
+					},
+					{
+						"name": "Spin Baby Penguin",
+						"ref": "Star Cup/Sherbet Land/Spin Baby Penguin"
+					},
+					{
+						"name": "Spin Adult Penguin",
+						"ref": "Star Cup/Sherbet Land/Spin Adult Penguin"
+					},
+					{
+						"name": "Sherbet Land Items 1 Spot 1",
+						"ref": "Star Cup/Sherbet Land Items 1/Spot 1"
+					},
+					{
+						"name": "Sherbet Land Items 1 Spot 2",
+						"ref": "Star Cup/Sherbet Land Items 1/Spot 2"
+					},
+					{
+						"name": "Sherbet Land Items 1 Spot 3",
+						"ref": "Star Cup/Sherbet Land Items 1/Spot 3"
+					},
+					{
+						"name": "Sherbet Land Items 1 Spot 4",
+						"ref": "Star Cup/Sherbet Land Items 1/Spot 4"
+					},
+					{
+						"name": "Sherbet Land Items 1 Spot 5",
+						"ref": "Star Cup/Sherbet Land Items 1/Spot 5"
+					},
+					{
+						"name": "Sherbet Land Items 2 Spot 1",
+						"ref": "Star Cup/Sherbet Land Items 2/Spot 1"
+					},
+					{
+						"name": "Sherbet Land Items 2 Spot 2",
+						"ref": "Star Cup/Sherbet Land Items 2/Spot 2"
+					},
+					{
+						"name": "Sherbet Land Items 2 Spot 3",
+						"ref": "Star Cup/Sherbet Land Items 2/Spot 3"
+					},
+					{
+						"name": "Sherbet Land Items 2 Spot 4",
+						"ref": "Star Cup/Sherbet Land Items 2/Spot 4"
+					},
+					{
+						"name": "Sherbet Land Bypass Spot",
+						"ref": "Star Cup/Sherbet Land Bypass Spot/"
+					},
+					{
+						"name": "Sherbet Land Items 3 Spot 1",
+						"ref": "Star Cup/Sherbet Land Items 3/Spot 1"
+					},
+					{
+						"name": "Sherbet Land Items 3 Spot 2",
+						"ref": "Star Cup/Sherbet Land Items 3/Spot 2"
+					},
+					{
+						"name": "Sherbet Land Items 3 Spot 3",
+						"ref": "Star Cup/Sherbet Land Items 3/Spot 3"
+					},
+					{
+						"name": "Sherbet Land Items 3 Spot 4",
+						"ref": "Star Cup/Sherbet Land Items 3/Spot 4"
+					},
+					{
+						"name": "Sherbet Land Items 3 Spot 5",
+						"ref": "Star Cup/Sherbet Land Items 3/Spot 5"
+					},
+					{
+						"name": "Sherbet Land Items 4 Spot 1",
+						"ref": "Star Cup/Sherbet Land Items 4/Spot 1"
+					},
+					{
+						"name": "Sherbet Land Items 4 Spot 2",
+						"ref": "Star Cup/Sherbet Land Items 4/Spot 2"
+					},
+					{
+						"name": "Sherbet Land Items 4 Spot 3",
+						"ref": "Star Cup/Sherbet Land Items 4/Spot 3"
+					},
+					{
+						"name": "Sherbet Land Items 4 Spot 4",
+						"ref": "Star Cup/Sherbet Land Items 4/Spot 4"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "globalMap",
+						"x": 164,
+						"y": 380
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Global",
+		"children": [
+			{
+				"name": "Royal Raceway",
+				"sections": [
+					{
+						"name": "Take the Lead after Lap 1",
+						"ref": "Star Cup/Royal Raceway/Take the Lead after Lap 1"
+					},
+					{
+						"name": "Qualify in Race",
+						"ref": "Star Cup/Royal Raceway/Qualify in Race"
+					},
+					{
+						"name": "Finish as 1st Place",
+						"ref": "Star Cup/Royal Raceway/Finish as 1st Place"
+					},
+					{
+						"name": "Destroy Tree",
+						"ref": "Global/Checks/Destroy Tree"
+					},
+					{
+						"name": "Destroy Piranha Plant",
+						"ref": "Global/Checks/Destroy Piranha Plant"
+					},
+					{
+						"name": "Royal Raceway Items 1 Spot 1",
+						"ref": "Star Cup/Royal Raceway Items 1/Spot 1"
+					},
+					{
+						"name": "Royal Raceway Items 1 Spot 2",
+						"ref": "Star Cup/Royal Raceway Items 1/Spot 2"
+					},
+					{
+						"name": "Royal Raceway Items 1 Spot 3",
+						"ref": "Star Cup/Royal Raceway Items 1/Spot 3"
+					},
+					{
+						"name": "Royal Raceway Items 1 Spot 4",
+						"ref": "Star Cup/Royal Raceway Items 1/Spot 4"
+					},
+					{
+						"name": "Royal Raceway Items 1 Spot 5",
+						"ref": "Star Cup/Royal Raceway Items 1/Spot 5"
+					},
+					{
+						"name": "Royal Raceway Items 2 Spot 1",
+						"ref": "Star Cup/Royal Raceway Items 2/Spot 1"
+					},
+					{
+						"name": "Royal Raceway Items 2 Spot 2",
+						"ref": "Star Cup/Royal Raceway Items 2/Spot 2"
+					},
+					{
+						"name": "Royal Raceway Items 2 Spot 3",
+						"ref": "Star Cup/Royal Raceway Items 2/Spot 3"
+					},
+					{
+						"name": "Royal Raceway Items 2 Spot 4",
+						"ref": "Star Cup/Royal Raceway Items 2/Spot 4"
+					},
+					{
+						"name": "Royal Raceway Items 2 Spot 5",
+						"ref": "Star Cup/Royal Raceway Items 2/Spot 5"
+					},
+					{
+						"name": "Royal Raceway Items 3 Spot 1",
+						"ref": "Star Cup/Royal Raceway Items 3/Spot 1"
+					},
+					{
+						"name": "Royal Raceway Items 3 Spot 2",
+						"ref": "Star Cup/Royal Raceway Items 3/Spot 2"
+					},
+					{
+						"name": "Royal Raceway Items 3 Spot 3",
+						"ref": "Star Cup/Royal Raceway Items 3/Spot 3"
+					},
+					{
+						"name": "Royal Raceway Items 3 Spot 4",
+						"ref": "Star Cup/Royal Raceway Items 3/Spot 4"
+					},
+					{
+						"name": "Royal Raceway Items 3 Spot 5",
+						"ref": "Star Cup/Royal Raceway Items 3/Spot 5"
+					},
+					{
+						"name": "Royal Raceway Items 4 Spot 1",
+						"ref": "Star Cup/Royal Raceway Items 4/Spot 1"
+					},
+					{
+						"name": "Royal Raceway Items 4 Spot 2",
+						"ref": "Star Cup/Royal Raceway Items 4/Spot 2"
+					},
+					{
+						"name": "Royal Raceway Items 4 Spot 3",
+						"ref": "Star Cup/Royal Raceway Items 4/Spot 3"
+					},
+					{
+						"name": "Royal Raceway Items 4 Spot 4",
+						"ref": "Star Cup/Royal Raceway Items 4/Spot 4"
+					},
+					{
+						"name": "Royal Raceway Items 4 Spot 5",
+						"ref": "Star Cup/Royal Raceway Items 4/Spot 5"
+					},
+					{
+						"name": "Peach's Castle Secret",
+						"ref": "Star Cup/Princess Peach's Castle/Peach's Castle Secret"
+					},
+					{
+						"name": "Peach's Castle Trail Secret",
+						"ref": "Star Cup/Princess Peach's Castle/Peach's Castle Trail Secret"
+					},
+					{
+						"name": "Peach's Castle Moat Ramp Secret",
+						"ref": "Star Cup/Princess Peach's Castle/Peach's Castle Moat Ramp Secret"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "globalMap",
+						"x": 36,
+						"y": 458
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Global",
+		"children": [
+			{
+				"name": "Bowser's Castle",
+				"sections": [
+					{
+						"name": "Take the Lead after Lap 1",
+						"ref": "Star Cup/Bowser's Castle/Take the Lead after Lap 1"
+					},
+					{
+						"name": "Qualify in Race",
+						"ref": "Star Cup/Bowser's Castle/Qualify in Race"
+					},
+					{
+						"name": "Finish as 1st Place",
+						"ref": "Star Cup/Bowser's Castle/Finish as 1st Place"
+					},
+					{
+						"name": "Destroy Bush",
+						"ref": "Star Cup/Bowser's Castle/Destroy Bush"
+					},
+					{
+						"name": "Destroy Thwomp",
+						"ref": "Star Cup/Bowser's Castle/Destroy Thwomp"
+					},
+					{
+						"name": "Bowser's Castle Items 1 Spot 1",
+						"ref": "Star Cup/Bowser's Castle Items 1/Spot 1"
+					},
+					{
+						"name": "Bowser's Castle Items 1 Spot 2",
+						"ref": "Star Cup/Bowser's Castle Items 1/Spot 2"
+					},
+					{
+						"name": "Bowser's Castle Items 1 Spot 3",
+						"ref": "Star Cup/Bowser's Castle Items 1/Spot 3"
+					},
+					{
+						"name": "Bowser's Castle Items 1 Spot 4",
+						"ref": "Star Cup/Bowser's Castle Items 1/Spot 4"
+					},
+					{
+						"name": "Bowser's Castle Items 2 Spot 1",
+						"ref": "Star Cup/Bowser's Castle Items 2/Spot 1"
+					},
+					{
+						"name": "Bowser's Castle Items 2 Spot 2",
+						"ref": "Star Cup/Bowser's Castle Items 2/Spot 2"
+					},
+					{
+						"name": "Bowser's Castle Items 2 Spot 3",
+						"ref": "Star Cup/Bowser's Castle Items 2/Spot 3"
+					},
+					{
+						"name": "Bowser's Castle Items 2 Spot 4",
+						"ref": "Star Cup/Bowser's Castle Items 2/Spot 4"
+					},
+					{
+						"name": "Bowser's Castle Items 3 Spot 1",
+						"ref": "Star Cup/Bowser's Castle Items 3/Spot 1"
+					},
+					{
+						"name": "Bowser's Castle Items 3 Spot 2",
+						"ref": "Star Cup/Bowser's Castle Items 3/Spot 2"
+					},
+					{
+						"name": "Bowser's Castle Items 3 Spot 3",
+						"ref": "Star Cup/Bowser's Castle Items 3/Spot 3"
+					},
+					{
+						"name": "Bowser's Castle Items 3 Spot 4",
+						"ref": "Star Cup/Bowser's Castle Items 3/Spot 4"
+					},
+					{
+						"name": "Marty's Secret",
+						"ref": "Star Cup/Marty's Secret/"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "globalMap",
+						"x": 164,
+						"y": 458
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Global",
+		"children": [
+			{
+				"name": "D.K.'s Jungle Parkway",
+				"sections": [
+					{
+						"name": "Take the Lead after Lap 1",
+						"ref": "Special Cup/D.K.'s Jungle Parkway/Take the Lead after Lap 1"
+					},
+					{
+						"name": "Qualify in Race",
+						"ref": "Special Cup/D.K.'s Jungle Parkway/Qualify in Race"
+					},
+					{
+						"name": "Finish as 1st Place",
+						"ref": "Special Cup/D.K.'s Jungle Parkway/Finish as 1st Place"
+					},
+					{
+						"name": "Destroy Palm",
+						"ref": "Global/Checks/Destroy Tree"
+					},
+					{
+						"name": "D.K.'s Jungle Parkway Items 1 Spot 1",
+						"ref": "Special Cup/D.K.'s Jungle Parkway Items 1/Spot 1"
+					},
+					{
+						"name": "D.K.'s Jungle Parkway Items 1 Spot 2",
+						"ref": "Special Cup/D.K.'s Jungle Parkway Items 1/Spot 2"
+					},
+					{
+						"name": "D.K.'s Jungle Parkway Items 1 Spot 3",
+						"ref": "Special Cup/D.K.'s Jungle Parkway Items 1/Spot 3"
+					},
+					{
+						"name": "D.K.'s Jungle Parkway Items 1 Spot 4",
+						"ref": "Special Cup/D.K.'s Jungle Parkway Items 1/Spot 4"
+					},
+					{
+						"name": "D.K.'s Jungle Parkway Items 1 Spot 5",
+						"ref": "Special Cup/D.K.'s Jungle Parkway Items 1/Spot 5"
+					},
+					{
+						"name": "D.K.'s Jungle Parkway Items 2 Spot 1",
+						"ref": "Special Cup/D.K.'s Jungle Parkway Items 2/Spot 1"
+					},
+					{
+						"name": "D.K.'s Jungle Parkway Items 2 Spot 2",
+						"ref": "Special Cup/D.K.'s Jungle Parkway Items 2/Spot 2"
+					},
+					{
+						"name": "D.K.'s Jungle Parkway Items 2 Spot 3",
+						"ref": "Special Cup/D.K.'s Jungle Parkway Items 2/Spot 3"
+					},
+					{
+						"name": "D.K.'s Jungle Parkway Items 2 Spot 4",
+						"ref": "Special Cup/D.K.'s Jungle Parkway Items 2/Spot 4"
+					},
+					{
+						"name": "D.K.'s Jungle Parkway Items 3 Spot 1",
+						"ref": "Special Cup/D.K.'s Jungle Parkway Items 3/Spot 1"
+					},
+					{
+						"name": "D.K.'s Jungle Parkway Items 3 Spot 2",
+						"ref": "Special Cup/D.K.'s Jungle Parkway Items 3/Spot 2"
+					},
+					{
+						"name": "D.K.'s Jungle Parkway Items 3 Spot 3",
+						"ref": "Special Cup/D.K.'s Jungle Parkway Items 3/Spot 3"
+					},
+					{
+						"name": "D.K.'s Jungle Parkway Items 3 Spot 4",
+						"ref": "Special Cup/D.K.'s Jungle Parkway Items 3/Spot 4"
+					},
+					{
+						"name": "D.K.'s Jungle Parkway Items 4 Spot 1",
+						"ref": "Special Cup/D.K.'s Jungle Parkway Items 4/Spot 1"
+					},
+					{
+						"name": "D.K.'s Jungle Parkway Items 4 Spot 2",
+						"ref": "Special Cup/D.K.'s Jungle Parkway Items 4/Spot 2"
+					},
+					{
+						"name": "D.K.'s Jungle Parkway Items 4 Spot 3",
+						"ref": "Special Cup/D.K.'s Jungle Parkway Items 4/Spot 3"
+					},
+					{
+						"name": "D.K.'s Jungle Parkway Items 4 Spot 4",
+						"ref": "Special Cup/D.K.'s Jungle Parkway Items 4/Spot 4"
+					},
+					{
+						"name": "D.K.'s Jungle Parkway Items 5 Spot 1",
+						"ref": "Special Cup/D.K.'s Jungle Parkway Items 5/Spot 1"
+					},
+					{
+						"name": "D.K.'s Jungle Parkway Items 5 Spot 2",
+						"ref": "Special Cup/D.K.'s Jungle Parkway Items 5/Spot 2"
+					},
+					{
+						"name": "D.K.'s Jungle Parkway Items 5 Spot 3",
+						"ref": "Special Cup/D.K.'s Jungle Parkway Items 5/Spot 3"
+					},
+					{
+						"name": "D.K.'s Jungle Parkway Items 5 Spot 4",
+						"ref": "Special Cup/D.K.'s Jungle Parkway Items 5/Spot 4"
+					},
+					{
+						"name": "D.K.'s Jungle Parkway Items 5 Spot 5",
+						"ref": "Special Cup/D.K.'s Jungle Parkway Items 5/Spot 5"
+					},
+					{
+						"name": "D.K.'s Jungle Parkway Secret",
+						"ref": "Special Cup/D.K.'s Jungle Parkway Secret/"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "globalMap",
+						"x": 322,
+						"y": 380
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Global",
+		"children": [
+			{
+				"name": "Yoshi Valley",
+				"sections": [
+					{
+						"name": "Take the Lead after Lap 1",
+						"ref": "Special Cup/Yoshi Valley/Take the Lead after Lap 1"
+					},
+					{
+						"name": "Qualify in Race",
+						"ref": "Special Cup/Yoshi Valley/Qualify in Race"
+					},
+					{
+						"name": "Finish as 1st Place",
+						"ref": "Special Cup/Yoshi Valley/Finish as 1st Place"
+					},
+					{
+						"name": "Destroy Tree",
+						"ref": "Global/Checks/Destroy Tree"
+					},
+					{
+						"name": "Defeat Giant Yoshi Egg",
+						"ref": "Special Cup/Yoshi Valley Giant Egg Items/Defeat Giant Yoshi Egg"
+					},
+					{
+						"name": "Yoshi Valley Field Items Spot 1",
+						"ref": "Special Cup/Yoshi Valley Field Items/Spot 1"
+					},
+					{
+						"name": "Yoshi Valley Field Items Spot 2",
+						"ref": "Special Cup/Yoshi Valley Field Items/Spot 2"
+					},
+					{
+						"name": "Yoshi Valley Field Items Spot 3",
+						"ref": "Special Cup/Yoshi Valley Field Items/Spot 3"
+					},
+					{
+						"name": "Yoshi Valley Field Items Spot 4",
+						"ref": "Special Cup/Yoshi Valley Field Items/Spot 4"
+					},
+					{
+						"name": "Yoshi Valley Maze Entry Right Items Spot 1",
+						"ref": "Special Cup/Yoshi Valley Maze Entry Right Items/Spot 1"
+					},
+					{
+						"name": "Yoshi Valley Maze Entry Right Items Spot 2",
+						"ref": "Special Cup/Yoshi Valley Maze Entry Right Items/Spot 2"
+					},
+					{
+						"name": "Yoshi Valley Maze Entry Right Items Spot 3",
+						"ref": "Special Cup/Yoshi Valley Maze Entry Right Items/Spot 3"
+					},
+					{
+						"name": "Yoshi Valley Maze Entry Right Items Spot 4",
+						"ref": "Special Cup/Yoshi Valley Maze Entry Right Items/Spot 4"
+					},
+					{
+						"name": "Yoshi Valley Maze Bridge Items Spot 1",
+						"ref": "Special Cup/Yoshi Valley Maze Bridge Items/Spot 1"
+					},
+					{
+						"name": "Yoshi Valley Maze Bridge Items Spot 2",
+						"ref": "Special Cup/Yoshi Valley Maze Bridge Items/Spot 2"
+					},
+					{
+						"name": "Yoshi Valley Maze Bridge Items Spot 3",
+						"ref": "Special Cup/Yoshi Valley Maze Bridge Items/Spot 3"
+					},
+					{
+						"name": "Yoshi Valley Maze Bridge Items Spot 4",
+						"ref": "Special Cup/Yoshi Valley Maze Bridge Items/Spot 4"
+					},
+					{
+						"name": "Yoshi Valley Maze Bridge Items Spot 5",
+						"ref": "Special Cup/Yoshi Valley Maze Bridge Items/Spot 5"
+					},
+					{
+						"name": "Yoshi Valley Rightmost Items Spot 1",
+						"ref": "Special Cup/Yoshi Valley Rightmost Items/Spot 1"
+					},
+					{
+						"name": "Yoshi Valley Rightmost Items Spot 2",
+						"ref": "Special Cup/Yoshi Valley Rightmost Items/Spot 2"
+					},
+					{
+						"name": "Yoshi Valley Rightmost Items Spot 3",
+						"ref": "Special Cup/Yoshi Valley Rightmost Items/Spot 3"
+					},
+					{
+						"name": "Yoshi Valley Rightmost Items Spot 4",
+						"ref": "Special Cup/Yoshi Valley Rightmost Items/Spot 4"
+					},
+					{
+						"name": "Yoshi Valley Rightmost Items Spot 5",
+						"ref": "Special Cup/Yoshi Valley Rightmost Items/Spot 5"
+					},
+					{
+						"name": "Yoshi Valley Rightmost Items Spot 6",
+						"ref": "Special Cup/Yoshi Valley Rightmost Items/Spot 6"
+					},
+					{
+						"name": "Yoshi Valley Leftmost Fork Items Spot 1",
+						"ref": "Special Cup/Yoshi Valley Leftmost Fork Items/Spot 1"
+					},
+					{
+						"name": "Yoshi Valley Leftmost Fork Items Spot 2",
+						"ref": "Special Cup/Yoshi Valley Leftmost Fork Items/Spot 2"
+					},
+					{
+						"name": "Yoshi Valley Leftmost Fork Items Spot 3",
+						"ref": "Special Cup/Yoshi Valley Leftmost Fork Items/Spot 3"
+					},
+					{
+						"name": "Yoshi Valley Leftmost Fork Items Spot 4",
+						"ref": "Special Cup/Yoshi Valley Leftmost Fork Items/Spot 4"
+					},
+					{
+						"name": "Yoshi Valley Leftmost Ledge Items Spot 1",
+						"ref": "Special Cup/Yoshi Valley Leftmost Ledge Items/Spot 1"
+					},
+					{
+						"name": "Yoshi Valley Leftmost Ledge Items Spot 2",
+						"ref": "Special Cup/Yoshi Valley Leftmost Ledge Items/Spot 2"
+					},
+					{
+						"name": "Yoshi Valley Leftmost Ledge Items Spot 3",
+						"ref": "Special Cup/Yoshi Valley Leftmost Ledge Items/Spot 3"
+					},
+					{
+						"name": "Yoshi Valley Leftmost Ledge Items Spot 4",
+						"ref": "Special Cup/Yoshi Valley Leftmost Ledge Items/Spot 4"
+					},
+					{
+						"name": "Yoshi Valley Hairpin Turn Items Spot 1",
+						"ref": "Special Cup/Yoshi Valley Hairpin Turn Items/Spot 1"
+					},
+					{
+						"name": "Yoshi Valley Hairpin Turn Items Spot 2",
+						"ref": "Special Cup/Yoshi Valley Hairpin Turn Items/Spot 2"
+					},
+					{
+						"name": "Yoshi Valley Hairpin Turn Items Spot 3",
+						"ref": "Special Cup/Yoshi Valley Hairpin Turn Items/Spot 3"
+					},
+					{
+						"name": "Yoshi Valley Hairpin Turn Items Spot 4",
+						"ref": "Special Cup/Yoshi Valley Hairpin Turn Items/Spot 4"
+					},
+					{
+						"name": "Yoshi Valley Giant Egg Items Spot 1",
+						"ref": "Special Cup/Yoshi Valley Giant Egg Items/Spot 1"
+					},
+					{
+						"name": "Yoshi Valley Giant Egg Items Spot 2",
+						"ref": "Special Cup/Yoshi Valley Giant Egg Items/Spot 2"
+					},
+					{
+						"name": "Yoshi Valley Giant Egg Items Spot 3",
+						"ref": "Special Cup/Yoshi Valley Giant Egg Items/Spot 3"
+					},
+					{
+						"name": "Yoshi Valley Giant Egg Items Spot 4",
+						"ref": "Special Cup/Yoshi Valley Giant Egg Items/Spot 4"
+					},
+					{
+						"name": "Yoshi Valley Giant Egg Items Spot 5",
+						"ref": "Special Cup/Yoshi Valley Giant Egg Items/Spot 5"
+					},
+					{
+						"name": "Yoshi Valley Giant Egg Items Spot 6",
+						"ref": "Special Cup/Yoshi Valley Giant Egg Items/Spot 6"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "globalMap",
+						"x": 450,
+						"y": 380
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Global",
+		"children": [
+			{
+				"name": "Banshee Boardwalk",
+				"sections": [
+					{
+						"name": "Take the Lead after Lap 1",
+						"ref": "Special Cup/Banshee Boardwalk/Take the Lead after Lap 1"
+					},
+					{
+						"name": "Qualify in Race",
+						"ref": "Special Cup/Banshee Boardwalk/Qualify in Race"
+					},
+					{
+						"name": "Finish as 1st Place",
+						"ref": "Special Cup/Banshee Boardwalk/Finish as 1st Place"
+					},
+					{
+						"name": "Banshee Boardwalk Items 1 Spot 1",
+						"ref": "Special Cup/Banshee Boardwalk Items 1/Spot 1"
+					},
+					{
+						"name": "Banshee Boardwalk Items 1 Spot 2",
+						"ref": "Special Cup/Banshee Boardwalk Items 1/Spot 2"
+					},
+					{
+						"name": "Banshee Boardwalk Items 1 Spot 3",
+						"ref": "Special Cup/Banshee Boardwalk Items 1/Spot 3"
+					},
+					{
+						"name": "Banshee Boardwalk Items 1 Spot 4",
+						"ref": "Special Cup/Banshee Boardwalk Items 1/Spot 4"
+					},
+					{
+						"name": "Banshee Boardwalk Items 2 Spot 1",
+						"ref": "Special Cup/Banshee Boardwalk Items 2/Spot 1"
+					},
+					{
+						"name": "Banshee Boardwalk Items 2 Spot 2",
+						"ref": "Special Cup/Banshee Boardwalk Items 2/Spot 2"
+					},
+					{
+						"name": "Banshee Boardwalk Items 2 Spot 3",
+						"ref": "Special Cup/Banshee Boardwalk Items 2/Spot 3"
+					},
+					{
+						"name": "Banshee Boardwalk Items 2 Spot 4",
+						"ref": "Special Cup/Banshee Boardwalk Items 2/Spot 4"
+					},
+					{
+						"name": "Banshee Boardwalk Items 3 Spot 1",
+						"ref": "Special Cup/Banshee Boardwalk Items 3/Spot 1"
+					},
+					{
+						"name": "Banshee Boardwalk Items 3 Spot 2",
+						"ref": "Special Cup/Banshee Boardwalk Items 3/Spot 2"
+					},
+					{
+						"name": "Banshee Boardwalk Items 3 Spot 3",
+						"ref": "Special Cup/Banshee Boardwalk Items 3/Spot 3"
+					},
+					{
+						"name": "Banshee Boardwalk Items 3 Spot 4",
+						"ref": "Special Cup/Banshee Boardwalk Items 3/Spot 4"
+					},
+					{
+						"name": "Banshee Boardwalk Items 4 Spot 1",
+						"ref": "Special Cup/Banshee Boardwalk Items 4/Spot 1"
+					},
+					{
+						"name": "Banshee Boardwalk Items 4 Spot 2",
+						"ref": "Special Cup/Banshee Boardwalk Items 4/Spot 2"
+					},
+					{
+						"name": "Banshee Boardwalk Items 4 Spot 3",
+						"ref": "Special Cup/Banshee Boardwalk Items 4/Spot 3"
+					},
+					{
+						"name": "Banshee Boardwalk Items 4 Spot 4",
+						"ref": "Special Cup/Banshee Boardwalk Items 4/Spot 4"
+					},
+					{
+						"name": "Banshee Boardwalk Secret",
+						"ref": "Special Cup/Banshee Boardwalk Secret/"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "globalMap",
+						"x": 322,
+						"y": 458
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Global",
+		"children": [
+			{
+				"name": "Rainbow Road",
+				"sections": [
+					{
+						"name": "Take the Lead after Lap 1",
+						"ref": "Special Cup/Rainbow Road/Take the Lead after Lap 1"
+					},
+					{
+						"name": "Qualify in Race",
+						"ref": "Special Cup/Rainbow Road/Qualify in Race"
+					},
+					{
+						"name": "Finish as 1st Place",
+						"ref": "Special Cup/Rainbow Road/Finish as 1st Place"
+					},
+					{
+						"name": "Rainbow Road Items 1 Spot 1",
+						"ref": "Special Cup/Rainbow Road Items 1/Spot 1"
+					},
+					{
+						"name": "Rainbow Road Items 1 Spot 2",
+						"ref": "Special Cup/Rainbow Road Items 1/Spot 2"
+					},
+					{
+						"name": "Rainbow Road Items 1 Spot 3",
+						"ref": "Special Cup/Rainbow Road Items 1/Spot 3"
+					},
+					{
+						"name": "Rainbow Road Items 1 Spot 4",
+						"ref": "Special Cup/Rainbow Road Items 1/Spot 4"
+					},
+					{
+						"name": "Rainbow Road Items 2 Spot 1",
+						"ref": "Special Cup/Rainbow Road Items 2/Spot 1"
+					},
+					{
+						"name": "Rainbow Road Items 2 Spot 2",
+						"ref": "Special Cup/Rainbow Road Items 2/Spot 2"
+					},
+					{
+						"name": "Rainbow Road Items 2 Spot 3",
+						"ref": "Special Cup/Rainbow Road Items 2/Spot 3"
+					},
+					{
+						"name": "Rainbow Road Items 2 Spot 4",
+						"ref": "Special Cup/Rainbow Road Items 2/Spot 4"
+					},
+					{
+						"name": "Rainbow Road Items 3 Spot 1",
+						"ref": "Special Cup/Rainbow Road Items 3/Spot 1"
+					},
+					{
+						"name": "Rainbow Road Items 3 Spot 2",
+						"ref": "Special Cup/Rainbow Road Items 3/Spot 2"
+					},
+					{
+						"name": "Rainbow Road Items 3 Spot 3",
+						"ref": "Special Cup/Rainbow Road Items 3/Spot 3"
+					},
+					{
+						"name": "Rainbow Road Items 3 Spot 4",
+						"ref": "Special Cup/Rainbow Road Items 3/Spot 4"
+					},
+					{
+						"name": "Rainbow Road Items 4 Spot 1",
+						"ref": "Special Cup/Rainbow Road Items 4/Spot 1"
+					},
+					{
+						"name": "Rainbow Road Items 4 Spot 2",
+						"ref": "Special Cup/Rainbow Road Items 4/Spot 2"
+					},
+					{
+						"name": "Rainbow Road Items 4 Spot 3",
+						"ref": "Special Cup/Rainbow Road Items 4/Spot 3"
+					},
+					{
+						"name": "Rainbow Road Items 4 Spot 4",
+						"ref": "Special Cup/Rainbow Road Items 4/Spot 4"
+					},
+					{
+						"name": "Rainbow Road Items 5 Spot 1",
+						"ref": "Special Cup/Rainbow Road Items 5/Spot 1"
+					},
+					{
+						"name": "Rainbow Road Items 5 Spot 2",
+						"ref": "Special Cup/Rainbow Road Items 5/Spot 2"
+					},
+					{
+						"name": "Rainbow Road Items 5 Spot 3",
+						"ref": "Special Cup/Rainbow Road Items 5/Spot 3"
+					},
+					{
+						"name": "Rainbow Road Items 5 Spot 4",
+						"ref": "Special Cup/Rainbow Road Items 5/Spot 4"
+					},
+					{
+						"name": "Rainbow Road Items 6 Spot 1",
+						"ref": "Special Cup/Rainbow Road Items 6/Spot 1"
+					},
+					{
+						"name": "Rainbow Road Items 6 Spot 2",
+						"ref": "Special Cup/Rainbow Road Items 6/Spot 2"
+					},
+					{
+						"name": "Rainbow Road Items 6 Spot 3",
+						"ref": "Special Cup/Rainbow Road Items 6/Spot 3"
+					},
+					{
+						"name": "Rainbow Road Items 6 Spot 4",
+						"ref": "Special Cup/Rainbow Road Items 6/Spot 4"
+					},
+					{
+						"name": "Rainbow Road Items 7 Spot 1",
+						"ref": "Special Cup/Rainbow Road Items 7/Spot 1"
+					},
+					{
+						"name": "Rainbow Road Items 7 Spot 2",
+						"ref": "Special Cup/Rainbow Road Items 7/Spot 2"
+					},
+					{
+						"name": "Rainbow Road Items 7 Spot 3",
+						"ref": "Special Cup/Rainbow Road Items 7/Spot 3"
+					},
+					{
+						"name": "Rainbow Road Items 7 Spot 4",
+						"ref": "Special Cup/Rainbow Road Items 7/Spot 4"
+					},
+					{
+						"name": "Rainbow Road Items 8 Spot 1",
+						"ref": "Special Cup/Rainbow Road Items 8/Spot 1"
+					},
+					{
+						"name": "Rainbow Road Items 8 Spot 2",
+						"ref": "Special Cup/Rainbow Road Items 8/Spot 2"
+					},
+					{
+						"name": "Rainbow Road Items 8 Spot 3",
+						"ref": "Special Cup/Rainbow Road Items 8/Spot 3"
+					},
+					{
+						"name": "Rainbow Road Items 8 Spot 4",
+						"ref": "Special Cup/Rainbow Road Items 8/Spot 4"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "globalMap",
+						"x": 450,
+						"y": 458
+					}
+				]
+			}
+		]
+	}
+]

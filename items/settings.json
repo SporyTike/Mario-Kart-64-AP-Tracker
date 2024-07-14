@@ -1,0 +1,133 @@
+[
+	{
+		"name": "Connected AP",
+		"type": "toggle",
+		"codes": "connectedAP"
+	},
+	{
+		"name": "Secret Locations",
+		"type": "progressive",
+		"loop": true,
+		"allow_disabled": false,
+		"stages": [
+			{
+				"name": "Secret Locations - Off",
+				"img": "/images/settings/Start Item.png",
+				"img_mods": "@disabled",
+				"codes": "secretLocations,secretLocations_off",
+				"inherit_codes": false
+			},
+			{
+				"name": "Secret Locations - On",
+				"img": "/images/settings/Start Item.png",
+				"codes": "secretLocations,secretLocations_on",
+				"inherit_codes": false
+			}
+		]
+	},
+	{
+		"name": "Colored Fences",
+		"type": "progressive",
+		"loop": true,
+		"allow_disabled": false,
+		"stages": [
+			{
+				"name": "Colored Fences - Off",
+				"img": "/images/items/Yellow Switch.png",
+				"img_mods": "@disabled",
+				"codes": "coloredFences,coloredFences_off",
+				"inherit_codes": false
+			},
+			{
+				"name": "Colored Fences - On",
+				"img": "/images/items/Yellow Switch.png",
+				"codes": "coloredFences,coloredFences_on",
+				"inherit_codes": false
+			}
+		]
+	},
+	{
+		"name": "Add 'Feather'",
+		"type": "progressive",
+		"loop": true,
+		"allow_disabled": false,
+		"stages": [
+			{
+				"name": "Add 'Feather' - Off",
+				"img": "/images/items/Feather.png",
+				"img_mods": "@disabled",
+				"codes": "addFeather,addFeather_off",
+				"inherit_codes": false
+			},
+			{
+				"name": "Add 'Feather' - On",
+				"img": "/images/items/Feather.png",
+				"codes": "addFeather,addFeather_on",
+				"inherit_codes": false
+			}
+		]
+	},
+	{
+		"name": "Shuffle Special Item Boxes",
+		"type": "progressive",
+		"loop": true,
+		"allow_disabled": false,
+		"stages": [
+			{
+				"name": "Shuffle Special Item Boxes - Off",
+				"img": "/images/settings/Start Item.png",
+				"img_mods": "@disabled",
+				"codes": "shuffleSpecialItemBoxes,shuffleSpecialItemBoxes_off",
+				"inherit_codes": false
+			},
+			{
+				"name": "Shuffle Special Item Boxes - On",
+				"img": "/images/settings/Start Item.png",
+				"codes": "shuffleSpecialItemBoxes,shuffleSpecialItemBoxes_on",
+				"inherit_codes": false
+			}
+		]
+	},
+	{
+		"name": "Shuffle Item Box Clusters",
+		"type": "progressive",
+		"loop": true,
+		"allow_disabled": false,
+		"stages": [
+			{
+				"name": "Shuffle Item Box Clusters - Off",
+				"img": "/images/settings/Start Item.png",
+				"img_mods": "@disabled",
+				"codes": "shuffleItemBoxClusters,shuffleItemBoxClusters_off",
+				"inherit_codes": false
+			},
+			{
+				"name": "Shuffle Item Box Clusters - On",
+				"img": "/images/settings/Start Item.png",
+				"codes": "shuffleItemBoxClusters,shuffleItemBoxClusters_on",
+				"inherit_codes": false
+			}
+		]
+	},
+	{
+		"name": "Hazard Locations",
+		"type": "progressive",
+		"loop": true,
+		"allow_disabled": false,
+		"stages": [
+			{
+				"name": "Hazard Locations - Off",
+				"img": "/images/items/Star.png",
+				"img_mods": "@disabled",
+				"codes": "hazardLocations,hazardLocations_off",
+				"inherit_codes": false
+			},
+			{
+				"name": "Hazard Locations - On",
+				"img": "/images/items/Star.png",
+				"codes": "hazardLocations,hazardLocations_on",
+				"inherit_codes": false
+			}
+		]
+	}
+]

@@ -1,0 +1,146 @@
+[
+	{
+		"name": "Banana",
+		"type": "toggle",
+		"img": "/images/items/Banana.png",
+		"codes": "item_banana"
+	},
+	{
+		"name": "Banana Bunch",
+		"type": "toggle",
+		"img": "/images/items/Banana Bunch.png",
+		"codes": "item_bananaBunch"
+	},
+	{
+		"name": "Green Shell",
+		"type": "toggle",
+		"img": "/images/items/Green Shell.png",
+		"codes": "item_greenShell"
+	},
+	{
+		"name": "Triple Green Shell",
+		"type": "toggle",
+		"img": "/images/items/Triple Green Shell.png",
+		"codes": "item_tripleGreenShell"
+	},
+	{
+		"name": "Red Shell",
+		"type": "toggle",
+		"img": "/images/items/Red Shell.png",
+		"codes": "item_redShell"
+	},
+	{
+		"name": "Triple Red Shell",
+		"type": "toggle",
+		"img": "/images/items/Triple Red Shell.png",
+		"codes": "item_tripleRedShell"
+	},
+	{
+		"name": "Blue Shell",
+		"type": "toggle",
+		"img": "/images/items/Blue Shell.png",
+		"codes": "item_blueShell"
+	},
+	{
+		"name": "Lightning",
+		"type": "toggle",
+		"img": "/images/items/Lightning.png",
+		"codes": "item_lightning"
+	},
+	{
+		"name": "Fake Item Box",
+		"type": "toggle",
+		"img": "/images/items/Fake Item Box.png",
+		"codes": "item_fakeItemBox"
+	},
+	{
+		"name": "Star",
+		"type": "toggle",
+		"img": "/images/items/Star.png",
+		"codes": "item_star"
+	},
+	{
+		"name": "Ghost",
+		"type": "toggle",
+		"img": "/images/items/Ghost.png",
+		"codes": "item_ghost"
+	},
+	{
+		"name": "Mushroom",
+		"type": "toggle",
+		"img": "/images/items/Mushroom.png",
+		"codes": "item_mushroom"
+	},
+	{
+		"name": "Triple Mushroom",
+		"type": "toggle",
+		"img": "/images/items/Triple Mushroom.png",
+		"codes": "item_tripleMushroom"
+	},
+	{
+		"name": "Super Mushroom",
+		"type": "toggle",
+		"img": "/images/items/Super Mushroom.png",
+		"codes": "item_superMushroom"
+	},
+	{
+		"name": "Feather",
+		"type": "toggle",
+		"img": "/images/items/Feather.png",
+		"codes": "item_feather"
+	},
+	{
+		"name": "Yellow Switch",
+		"type": "toggle",
+		"img": "/images/items/Yellow Switch.png",
+		"codes": "switch_yellow"
+	},
+	{
+		"name": "Green Switch",
+		"type": "toggle",
+		"img": "/images/items/Green Switch.png",
+		"codes": "switch_green"
+	},
+	{
+		"name": "Red Switch",
+		"type": "toggle",
+		"img": "/images/items/Red Switch.png",
+		"codes": "switch_red"
+	},
+	{
+		"name": "Blue Switch",
+		"type": "toggle",
+		"img": "/images/items/Blue Switch.png",
+		"codes": "switch_blue"
+	},
+	{
+		"name": "Progressive Cup",
+		"type": "progressive",
+		"loop": true,
+		"allow_disabled": false,
+		"stages": [
+			{
+				"name": "Mushroom Cup",
+				"img": "/images/items/Mushroom Cup.png",
+				"allow_disabled": false,
+				"codes": "progressiveCup, cup_mushroom",
+			},
+			{
+				"name": "Flower Cup",
+				"img": "/images/items/Flower Cup.png",
+				"codes": "cup_flower",
+			},
+			{
+				"name": "Star Cup",
+				"img": "/images/items/Star Cup.png",
+				"allow_disabled": false,
+				"codes": "cup_star",
+			},
+			{
+				"name": "Special Cup",
+				"img": "/images/items/Special Cup.png",
+				"codes": "cup_special",
+			}
+		]
+	}
+]

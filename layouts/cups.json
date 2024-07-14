@@ -1,0 +1,28 @@
+{
+	"cups_grid": {
+		"type": "array",
+		"orientation": "vertical",
+		"margin": "0,0",
+		"content": [
+			{
+				"type": "array",
+				"orientation": "vertical",
+				"margin": "0,0",
+				"content": [
+					{
+						"type": "itemgrid",
+						"item_margin": "2, 2",
+						"item_h_alignment": "center",
+						"h_alignment": "left",
+						"rows": [
+							["cup1", "cup1_course1", "cup1_course2", "cup1_course3", "cup1_course4"],
+							["cup2", "cup2_course1", "cup2_course2", "cup2_course3", "cup2_course4"],
+							["cup3", "cup3_course1", "cup3_course2", "cup3_course3", "cup3_course4"],
+							["cup4", "cup4_course1", "cup4_course2", "cup4_course3", "cup4_course4"],
+						]
+					}
+				]
+			}
+		]
+	}
+}

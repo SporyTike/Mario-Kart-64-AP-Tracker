@@ -1,0 +1,2095 @@
+[
+	{
+		"name": "Railings in Choco Mountain",
+		"type": "toggle",
+		"codes": "railings_ChocoMountain"
+	},
+	{
+		"name": "Railings in Royal Raceway",
+		"type": "toggle",
+		"codes": "railings_RoyalRaceway"
+	},
+	{
+		"name": "Railings in Bowser's Castle",
+		"type": "toggle",
+		"codes": "railings_BowsersCastle"
+	},
+	{
+		"name": "Railings in DKs Jungle Parkway",
+		"type": "toggle",
+		"codes": "railings_DKsJungleParkway"
+	},
+	{
+		"name": "Railings in Yoshi Valley (Main Track)",
+		"type": "toggle",
+		"codes": "railings_YoshiValleyMainTrack"
+	},
+	{
+		"name": "Railings in Yoshi Valley (Maze)",
+		"type": "toggle",
+		"codes": "railings_YoshiValleyMaze"
+	},
+	{
+		"name": "Railings in Banshee Boardwalk (North)",
+		"type": "toggle",
+		"codes": "railings_BansheeBoardwalkNorth"
+	},
+	{
+		"name": "Railings in Banshee Boardwalk (South)",
+		"type": "toggle",
+		"codes": "railings_BansheeBoardwalkSouth"
+	},
+	{
+		"name": "Railings in Rainbow Road 1",
+		"type": "toggle",
+		"codes": "railings_RainbowRoad1"
+	},
+	{
+		"name": "Railings in Rainbow Road 2",
+		"type": "toggle",
+		"codes": "railings_RainbowRoad2"
+	},
+	{
+		"name": "Railings in Rainbow Road 3",
+		"type": "toggle",
+		"codes": "railings_RainbowRoad3"
+	},
+	{
+		"name": "Railings in Rainbow Road 4",
+		"type": "toggle",
+		"codes": "railings_RainbowRoad4"
+	},
+	{
+		"name": "Railings in Rainbow Road 5",
+		"type": "toggle",
+		"codes": "railings_RainbowRoad5"
+	},
+	{
+		"name": "Luigi Raceway Items 1 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox1"
+	},
+	{
+		"name": "Luigi Raceway Items 1 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox2"
+	},
+	{
+		"name": "Luigi Raceway Items 1 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox3"
+	},
+	{
+		"name": "Luigi Raceway Items 1 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox4"
+	},
+	{
+		"name": "Luigi Raceway Items 1 Spot 5",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox5"
+	},
+	{
+		"name": "Luigi Raceway Items 1 Spot 6",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox6"
+	},
+	{
+		"name": "Luigi Raceway Items 2 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox7"
+	},
+	{
+		"name": "Luigi Raceway Items 2 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox8"
+	},
+	{
+		"name": "Luigi Raceway Items 2 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox9"
+	},
+	{
+		"name": "Luigi Raceway Items 2 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox10"
+	},
+	{
+		"name": "Luigi Raceway Items 2 Spot 5",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox11"
+	},
+	{
+		"name": "Luigi Raceway Items 2 Spot 6",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox12"
+	},
+	{
+		"name": "Luigi Raceway Items 3 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox13"
+	},
+	{
+		"name": "Luigi Raceway Items 3 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox14"
+	},
+	{
+		"name": "Luigi Raceway Items 3 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox15"
+	},
+	{
+		"name": "Luigi Raceway Items 3 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox16"
+	},
+	{
+		"name": "Luigi Raceway Items 3 Spot 5",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox17"
+	},
+	{
+		"name": "Luigi Raceway Items 3 Spot 6",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox18"
+	},
+	{
+		"name": "Moo Moo Farm Items 1 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox19"
+	},
+	{
+		"name": "Moo Moo Farm Items 1 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox20"
+	},
+	{
+		"name": "Moo Moo Farm Items 1 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox21"
+	},
+	{
+		"name": "Moo Moo Farm Items 1 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox22"
+	},
+	{
+		"name": "Moo Moo Farm Items 1 Spot 5",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox23"
+	},
+	{
+		"name": "Moo Moo Farm Items 1 Spot 6",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox24"
+	},
+	{
+		"name": "Moo Moo Farm Items 2 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox25"
+	},
+	{
+		"name": "Moo Moo Farm Items 2 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox26"
+	},
+	{
+		"name": "Moo Moo Farm Items 2 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox27"
+	},
+	{
+		"name": "Moo Moo Farm Items 2 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox28"
+	},
+	{
+		"name": "Moo Moo Farm Items 2 Spot 5",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox29"
+	},
+	{
+		"name": "Moo Moo Farm Items 2 Spot 6",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox30"
+	},
+	{
+		"name": "Moo Moo Farm Items 3 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox31"
+	},
+	{
+		"name": "Moo Moo Farm Items 3 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox32"
+	},
+	{
+		"name": "Moo Moo Farm Items 3 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox33"
+	},
+	{
+		"name": "Moo Moo Farm Items 3 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox34"
+	},
+	{
+		"name": "Moo Moo Farm Items 3 Spot 5",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox35"
+	},
+	{
+		"name": "Moo Moo Farm Items 3 Spot 6",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox36"
+	},
+	{
+		"name": "Moo Moo Farm Items 3 Spot 7",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox37"
+	},
+	{
+		"name": "Moo Moo Farm Items 4 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox38"
+	},
+	{
+		"name": "Moo Moo Farm Items 4 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox39"
+	},
+	{
+		"name": "Moo Moo Farm Items 4 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox40"
+	},
+	{
+		"name": "Moo Moo Farm Items 4 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox41"
+	},
+	{
+		"name": "Moo Moo Farm Items 4 Spot 5",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox42"
+	},
+	{
+		"name": "Moo Moo Farm Items 4 Spot 6",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox43"
+	},
+	{
+		"name": "Moo Moo Farm Items 4 Spot 7",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox44"
+	},
+	{
+		"name": "Koopa Troopa Beach Items 1 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox45"
+	},
+	{
+		"name": "Koopa Troopa Beach Items 1 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox46"
+	},
+	{
+		"name": "Koopa Troopa Beach Items 1 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox47"
+	},
+	{
+		"name": "Koopa Troopa Beach Items 1 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox48"
+	},
+	{
+		"name": "Koopa Troopa Beach Items 1 Spot 5",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox49"
+	},
+	{
+		"name": "Koopa Troopa Beach Items 1 Spot 6",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox50"
+	},
+	{
+		"name": "Koopa Troopa Beach Items 2 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox51"
+	},
+	{
+		"name": "Koopa Troopa Beach Items 2 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox52"
+	},
+	{
+		"name": "Koopa Troopa Beach Items 2 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox53"
+	},
+	{
+		"name": "Koopa Troopa Beach Items 2 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox54"
+	},
+	{
+		"name": "Koopa Troopa Beach Items 2 Spot 5",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox55"
+	},
+	{
+		"name": "Koopa Troopa Beach Items 2 Spot 6",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox56"
+	},
+	{
+		"name": "Koopa Troopa Beach Items 3 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox57"
+	},
+	{
+		"name": "Koopa Troopa Beach Items 3 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox58"
+	},
+	{
+		"name": "Koopa Troopa Beach Items 3 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox59"
+	},
+	{
+		"name": "Koopa Troopa Beach Items 4 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox60"
+	},
+	{
+		"name": "Koopa Troopa Beach Items 4 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox61"
+	},
+	{
+		"name": "Koopa Troopa Beach Items 4 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox62"
+	},
+	{
+		"name": "Koopa Troopa Beach Items 4 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox63"
+	},
+	{
+		"name": "Koopa Troopa Beach Items 4 Spot 5",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox64"
+	},
+	{
+		"name": "Koopa Troopa Beach Items 4 Spot 6",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox65"
+	},
+	{
+		"name": "Koopa Troopa Beach Items 5 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox66"
+	},
+	{
+		"name": "Koopa Troopa Beach Items 5 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox67"
+	},
+	{
+		"name": "Koopa Troopa Beach Items 5 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox68"
+	},
+	{
+		"name": "Koopa Troopa Beach Items 5 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox69"
+	},
+	{
+		"name": "Koopa Troopa Beach Items 5 Spot 5",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox70"
+	},
+	{
+		"name": "Koopa Troopa Beach Items 5 Spot 6",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox71"
+	},
+	{
+		"name": "Koopa Troopa Beach Items 6 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox72"
+	},
+	{
+		"name": "Koopa Troopa Beach Items 6 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox73"
+	},
+	{
+		"name": "Koopa Troopa Beach Items 6 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox74"
+	},
+	{
+		"name": "Kalimari Desert Items 1 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox75"
+	},
+	{
+		"name": "Kalimari Desert Items 1 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox76"
+	},
+	{
+		"name": "Kalimari Desert Items 1 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox77"
+	},
+	{
+		"name": "Kalimari Desert Items 1 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox78"
+	},
+	{
+		"name": "Kalimari Desert Items 1 Spot 5",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox79"
+	},
+	{
+		"name": "Kalimari Desert Items 2 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox80"
+	},
+	{
+		"name": "Kalimari Desert Items 2 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox81"
+	},
+	{
+		"name": "Kalimari Desert Items 2 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox82"
+	},
+	{
+		"name": "Kalimari Desert Items 2 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox83"
+	},
+	{
+		"name": "Kalimari Desert Items 2 Spot 5",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox84"
+	},
+	{
+		"name": "Kalimari Desert Items 3 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox85"
+	},
+	{
+		"name": "Kalimari Desert Items 3 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox86"
+	},
+	{
+		"name": "Kalimari Desert Items 3 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox87"
+	},
+	{
+		"name": "Kalimari Desert Items 3 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox88"
+	},
+	{
+		"name": "Kalimari Desert Items 3 Spot 5",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox89"
+	},
+	{
+		"name": "Toad's Turnpike Items 1 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox90"
+	},
+	{
+		"name": "Toad's Turnpike Items 1 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox91"
+	},
+	{
+		"name": "Toad's Turnpike Items 1 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox92"
+	},
+	{
+		"name": "Toad's Turnpike Items 1 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox93"
+	},
+	{
+		"name": "Toad's Turnpike Items 2 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox94"
+	},
+	{
+		"name": "Toad's Turnpike Items 2 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox95"
+	},
+	{
+		"name": "Toad's Turnpike Items 2 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox96"
+	},
+	{
+		"name": "Toad's Turnpike Items 2 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox97"
+	},
+	{
+		"name": "Toad's Turnpike Items 3 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox98"
+	},
+	{
+		"name": "Toad's Turnpike Items 3 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox99"
+	},
+	{
+		"name": "Toad's Turnpike Items 3 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox100"
+	},
+	{
+		"name": "Toad's Turnpike Items 3 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox101"
+	},
+	{
+		"name": "Toad's Turnpike Items 4 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox102"
+	},
+	{
+		"name": "Toad's Turnpike Items 4 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox103"
+	},
+	{
+		"name": "Toad's Turnpike Items 4 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox104"
+	},
+	{
+		"name": "Toad's Turnpike Items 4 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox105"
+	},
+	{
+		"name": "Frappe Snowland Items 1 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox106"
+	},
+	{
+		"name": "Frappe Snowland Items 1 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox107"
+	},
+	{
+		"name": "Frappe Snowland Items 1 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox108"
+	},
+	{
+		"name": "Frappe Snowland Items 1 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox109"
+	},
+	{
+		"name": "Frappe Snowland Items 1 Spot 5",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox110"
+	},
+	{
+		"name": "Frappe Snowland Items 2 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox111"
+	},
+	{
+		"name": "Frappe Snowland Items 2 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox112"
+	},
+	{
+		"name": "Frappe Snowland Items 2 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox113"
+	},
+	{
+		"name": "Frappe Snowland Items 2 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox114"
+	},
+	{
+		"name": "Frappe Snowland Items 2 Spot 5",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox115"
+	},
+	{
+		"name": "Frappe Snowland Items 3 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox116"
+	},
+	{
+		"name": "Frappe Snowland Items 3 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox117"
+	},
+	{
+		"name": "Frappe Snowland Items 3 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox118"
+	},
+	{
+		"name": "Frappe Snowland Items 3 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox119"
+	},
+	{
+		"name": "Frappe Snowland Items 3 Spot 5",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox120"
+	},
+	{
+		"name": "Choco Mountain Items 1 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox121"
+	},
+	{
+		"name": "Choco Mountain Items 1 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox122"
+	},
+	{
+		"name": "Choco Mountain Items 1 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox123"
+	},
+	{
+		"name": "Choco Mountain Items 1 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox124"
+	},
+	{
+		"name": "Choco Mountain Items 1 Spot 5",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox125"
+	},
+	{
+		"name": "Choco Mountain Items 2 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox126"
+	},
+	{
+		"name": "Choco Mountain Items 2 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox127"
+	},
+	{
+		"name": "Choco Mountain Items 2 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox128"
+	},
+	{
+		"name": "Choco Mountain Items 2 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox129"
+	},
+	{
+		"name": "Choco Mountain Items 2 Spot 5",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox130"
+	},
+	{
+		"name": "Choco Mountain Items 3 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox131"
+	},
+	{
+		"name": "Choco Mountain Items 3 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox132"
+	},
+	{
+		"name": "Choco Mountain Items 3 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox133"
+	},
+	{
+		"name": "Choco Mountain Items 3 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox134"
+	},
+	{
+		"name": "Choco Mountain Items 3 Spot 5",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox135"
+	},
+	{
+		"name": "Mario Raceway Items 1 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox136"
+	},
+	{
+		"name": "Mario Raceway Items 1 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox137"
+	},
+	{
+		"name": "Mario Raceway Items 1 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox138"
+	},
+	{
+		"name": "Mario Raceway Items 1 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox139"
+	},
+	{
+		"name": "Mario Raceway Items 1 Spot 5",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox140"
+	},
+	{
+		"name": "Mario Raceway Items 2 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox141"
+	},
+	{
+		"name": "Mario Raceway Items 2 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox142"
+	},
+	{
+		"name": "Mario Raceway Items 2 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox143"
+	},
+	{
+		"name": "Mario Raceway Items 2 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox144"
+	},
+	{
+		"name": "Mario Raceway Items 2 Spot 5",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox145"
+	},
+	{
+		"name": "Mario Raceway Items 3 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox146"
+	},
+	{
+		"name": "Mario Raceway Items 3 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox147"
+	},
+	{
+		"name": "Mario Raceway Items 3 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox148"
+	},
+	{
+		"name": "Mario Raceway Items 3 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox149"
+	},
+	{
+		"name": "Mario Raceway Items 3 Spot 5",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox150"
+	},
+	{
+		"name": "Wario Stadium Items 1 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox151"
+	},
+	{
+		"name": "Wario Stadium Items 1 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox152"
+	},
+	{
+		"name": "Wario Stadium Items 1 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox153"
+	},
+	{
+		"name": "Wario Stadium Items 1 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox154"
+	},
+	{
+		"name": "Wario Stadium Items 1 Spot 5",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox155"
+	},
+	{
+		"name": "Wario Stadium Items 2 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox156"
+	},
+	{
+		"name": "Wario Stadium Items 2 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox157"
+	},
+	{
+		"name": "Wario Stadium Items 2 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox158"
+	},
+	{
+		"name": "Wario Stadium Items 2 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox159"
+	},
+	{
+		"name": "Wario Stadium Items 2 Spot 5",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox160"
+	},
+	{
+		"name": "Wario Stadium Items 3 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox161"
+	},
+	{
+		"name": "Wario Stadium Items 3 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox162"
+	},
+	{
+		"name": "Wario Stadium Items 3 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox163"
+	},
+	{
+		"name": "Wario Stadium Items 3 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox164"
+	},
+	{
+		"name": "Wario Stadium Items 3 Spot 5",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox165"
+	},
+	{
+		"name": "Wario Stadium Items 4 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox166"
+	},
+	{
+		"name": "Wario Stadium Items 4 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox167"
+	},
+	{
+		"name": "Wario Stadium Items 4 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox168"
+	},
+	{
+		"name": "Wario Stadium Items 4 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox169"
+	},
+	{
+		"name": "Wario Stadium Items 4 Spot 5",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox170"
+	},
+	{
+		"name": "Wario Stadium Items 5 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox171"
+	},
+	{
+		"name": "Wario Stadium Items 5 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox172"
+	},
+	{
+		"name": "Wario Stadium Items 5 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox173"
+	},
+	{
+		"name": "Wario Stadium Items 5 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox174"
+	},
+	{
+		"name": "Wario Stadium Items 5 Spot 5",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox175"
+	},
+	{
+		"name": "Wario Stadium Items 6 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox176"
+	},
+	{
+		"name": "Wario Stadium Items 6 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox177"
+	},
+	{
+		"name": "Wario Stadium Items 6 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox178"
+	},
+	{
+		"name": "Wario Stadium Items 6 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox179"
+	},
+	{
+		"name": "Wario Stadium Items 6 Spot 5",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox180"
+	},
+	{
+		"name": "Sherbet Land Items 1 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox181"
+	},
+	{
+		"name": "Sherbet Land Items 1 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox182"
+	},
+	{
+		"name": "Sherbet Land Items 1 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox183"
+	},
+	{
+		"name": "Sherbet Land Items 1 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox184"
+	},
+	{
+		"name": "Sherbet Land Items 1 Spot 5",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox185"
+	},
+	{
+		"name": "Sherbet Land Items 2 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox186"
+	},
+	{
+		"name": "Sherbet Land Items 2 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox187"
+	},
+	{
+		"name": "Sherbet Land Items 2 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox188"
+	},
+	{
+		"name": "Sherbet Land Items 2 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox189"
+	},
+	{
+		"name": "Sherbet Land Bypass Spot",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox190"
+	},
+	{
+		"name": "Sherbet Land Items 3 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox191"
+	},
+	{
+		"name": "Sherbet Land Items 3 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox192"
+	},
+	{
+		"name": "Sherbet Land Items 3 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox193"
+	},
+	{
+		"name": "Sherbet Land Items 3 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox194"
+	},
+	{
+		"name": "Sherbet Land Items 3 Spot 5",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox195"
+	},
+	{
+		"name": "Sherbet Land Items 4 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox196"
+	},
+	{
+		"name": "Sherbet Land Items 4 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox197"
+	},
+	{
+		"name": "Sherbet Land Items 4 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox198"
+	},
+	{
+		"name": "Sherbet Land Items 4 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox199"
+	},
+	{
+		"name": "Royal Raceway Items 1 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox200"
+	},
+	{
+		"name": "Royal Raceway Items 1 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox201"
+	},
+	{
+		"name": "Royal Raceway Items 1 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox202"
+	},
+	{
+		"name": "Royal Raceway Items 1 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox203"
+	},
+	{
+		"name": "Royal Raceway Items 1 Spot 5",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox204"
+	},
+	{
+		"name": "Royal Raceway Items 2 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox205"
+	},
+	{
+		"name": "Royal Raceway Items 2 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox206"
+	},
+	{
+		"name": "Royal Raceway Items 2 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox207"
+	},
+	{
+		"name": "Royal Raceway Items 2 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox208"
+	},
+	{
+		"name": "Royal Raceway Items 2 Spot 5",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox209"
+	},
+	{
+		"name": "Royal Raceway Items 3 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox210"
+	},
+	{
+		"name": "Royal Raceway Items 3 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox211"
+	},
+	{
+		"name": "Royal Raceway Items 3 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox212"
+	},
+	{
+		"name": "Royal Raceway Items 3 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox213"
+	},
+	{
+		"name": "Royal Raceway Items 3 Spot 5",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox214"
+	},
+	{
+		"name": "Royal Raceway Items 4 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox215"
+	},
+	{
+		"name": "Royal Raceway Items 4 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox216"
+	},
+	{
+		"name": "Royal Raceway Items 4 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox217"
+	},
+	{
+		"name": "Royal Raceway Items 4 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox218"
+	},
+	{
+		"name": "Royal Raceway Items 4 Spot 5",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox219"
+	},
+	{
+		"name": "Bowser's Castle Items 1 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox220"
+	},
+	{
+		"name": "Bowser's Castle Items 1 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox221"
+	},
+	{
+		"name": "Bowser's Castle Items 1 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox222"
+	},
+	{
+		"name": "Bowser's Castle Items 1 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox223"
+	},
+	{
+		"name": "Bowser's Castle Items 2 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox224"
+	},
+	{
+		"name": "Bowser's Castle Items 2 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox225"
+	},
+	{
+		"name": "Bowser's Castle Items 2 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox226"
+	},
+	{
+		"name": "Bowser's Castle Items 2 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox227"
+	},
+	{
+		"name": "Bowser's Castle Items 3 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox228"
+	},
+	{
+		"name": "Bowser's Castle Items 3 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox229"
+	},
+	{
+		"name": "Bowser's Castle Items 3 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox230"
+	},
+	{
+		"name": "Bowser's Castle Items 3 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox231"
+	},
+	{
+		"name": "D.K.'s Jungle Parkway Items 1 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox232"
+	},
+	{
+		"name": "D.K.'s Jungle Parkway Items 1 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox233"
+	},
+	{
+		"name": "D.K.'s Jungle Parkway Items 1 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox234"
+	},
+	{
+		"name": "D.K.'s Jungle Parkway Items 1 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox235"
+	},
+	{
+		"name": "D.K.'s Jungle Parkway Items 1 Spot 5",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox236"
+	},
+	{
+		"name": "D.K.'s Jungle Parkway Items 2 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox237"
+	},
+	{
+		"name": "D.K.'s Jungle Parkway Items 2 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox238"
+	},
+	{
+		"name": "D.K.'s Jungle Parkway Items 2 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox239"
+	},
+	{
+		"name": "D.K.'s Jungle Parkway Items 2 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox240"
+	},
+	{
+		"name": "D.K.'s Jungle Parkway Items 3 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox241"
+	},
+	{
+		"name": "D.K.'s Jungle Parkway Items 3 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox242"
+	},
+	{
+		"name": "D.K.'s Jungle Parkway Items 3 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox243"
+	},
+	{
+		"name": "D.K.'s Jungle Parkway Items 3 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox244"
+	},
+	{
+		"name": "D.K.'s Jungle Parkway Items 4 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox245"
+	},
+	{
+		"name": "D.K.'s Jungle Parkway Items 4 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox246"
+	},
+	{
+		"name": "D.K.'s Jungle Parkway Items 4 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox247"
+	},
+	{
+		"name": "D.K.'s Jungle Parkway Items 4 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox248"
+	},
+	{
+		"name": "D.K.'s Jungle Parkway Items 5 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox249"
+	},
+	{
+		"name": "D.K.'s Jungle Parkway Items 5 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox250"
+	},
+	{
+		"name": "D.K.'s Jungle Parkway Items 5 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox251"
+	},
+	{
+		"name": "D.K.'s Jungle Parkway Items 5 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox252"
+	},
+	{
+		"name": "D.K.'s Jungle Parkway Items 5 Spot 5",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox253"
+	},
+	{
+		"name": "Yoshi Valley Field Items Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox254"
+	},
+	{
+		"name": "Yoshi Valley Field Items Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox255"
+	},
+	{
+		"name": "Yoshi Valley Field Items Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox256"
+	},
+	{
+		"name": "Yoshi Valley Field Items Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox257"
+	},
+	{
+		"name": "Yoshi Valley Maze Entry Items Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox258"
+	},
+	{
+		"name": "Yoshi Valley Maze Entry Items Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox259"
+	},
+	{
+		"name": "Yoshi Valley Maze Entry Items Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox260"
+	},
+	{
+		"name": "Yoshi Valley Maze Entry Items Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox261"
+	},
+	{
+		"name": "Yoshi Valley Maze Bridge Items Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox262"
+	},
+	{
+		"name": "Yoshi Valley Maze Bridge Items Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox263"
+	},
+	{
+		"name": "Yoshi Valley Maze Bridge Items Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox264"
+	},
+	{
+		"name": "Yoshi Valley Maze Bridge Items Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox265"
+	},
+	{
+		"name": "Yoshi Valley Maze Bridge Items Spot 5",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox266"
+	},
+	{
+		"name": "Yoshi Valley Rightmost Items Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox267"
+	},
+	{
+		"name": "Yoshi Valley Rightmost Items Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox268"
+	},
+	{
+		"name": "Yoshi Valley Rightmost Items Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox269"
+	},
+	{
+		"name": "Yoshi Valley Rightmost Items Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox270"
+	},
+	{
+		"name": "Yoshi Valley Rightmost Items Spot 5",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox271"
+	},
+	{
+		"name": "Yoshi Valley Rightmost Items Spot 6",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox272"
+	},
+	{
+		"name": "Yoshi Valley Left Fork Items Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox273"
+	},
+	{
+		"name": "Yoshi Valley Left Fork Items Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox274"
+	},
+	{
+		"name": "Yoshi Valley Left Fork Items Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox275"
+	},
+	{
+		"name": "Yoshi Valley Left Fork Items Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox276"
+	},
+	{
+		"name": "Yoshi Valley Left Ledge Items Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox277"
+	},
+	{
+		"name": "Yoshi Valley Left Ledge Items Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox278"
+	},
+	{
+		"name": "Yoshi Valley Left Ledge Items Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox279"
+	},
+	{
+		"name": "Yoshi Valley Left Ledge Items Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox280"
+	},
+	{
+		"name": "Yoshi Valley Hairpin Turn Items Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox281"
+	},
+	{
+		"name": "Yoshi Valley Hairpin Turn Items Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox282"
+	},
+	{
+		"name": "Yoshi Valley Hairpin Turn Items Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox283"
+	},
+	{
+		"name": "Yoshi Valley Hairpin Turn Items Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox284"
+	},
+	{
+		"name": "Yoshi Valley Giant Egg Items Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox285"
+	},
+	{
+		"name": "Yoshi Valley Giant Egg Items Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox286"
+	},
+	{
+		"name": "Yoshi Valley Giant Egg Items Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox287"
+	},
+	{
+		"name": "Yoshi Valley Giant Egg Items Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox288"
+	},
+	{
+		"name": "Yoshi Valley Giant Egg Items Spot 5",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox289"
+	},
+	{
+		"name": "Yoshi Valley Giant Egg Items Spot 6",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox290"
+	},
+	{
+		"name": "Banshee Boardwalk Items 1 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox291"
+	},
+	{
+		"name": "Banshee Boardwalk Items 1 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox292"
+	},
+	{
+		"name": "Banshee Boardwalk Items 1 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox293"
+	},
+	{
+		"name": "Banshee Boardwalk Items 1 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox294"
+	},
+	{
+		"name": "Banshee Boardwalk Items 2 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox295"
+	},
+	{
+		"name": "Banshee Boardwalk Items 2 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox296"
+	},
+	{
+		"name": "Banshee Boardwalk Items 2 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox297"
+	},
+	{
+		"name": "Banshee Boardwalk Items 2 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox298"
+	},
+	{
+		"name": "Banshee Boardwalk Items 3 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox299"
+	},
+	{
+		"name": "Banshee Boardwalk Items 3 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox300"
+	},
+	{
+		"name": "Banshee Boardwalk Items 3 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox301"
+	},
+	{
+		"name": "Banshee Boardwalk Items 3 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox302"
+	},
+	{
+		"name": "Banshee Boardwalk Items 4 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox303"
+	},
+	{
+		"name": "Banshee Boardwalk Items 4 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox304"
+	},
+	{
+		"name": "Banshee Boardwalk Items 4 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox305"
+	},
+	{
+		"name": "Banshee Boardwalk Items 4 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox306"
+	},
+	{
+		"name": "Rainbow Road Items 1 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox307"
+	},
+	{
+		"name": "Rainbow Road Items 1 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox308"
+	},
+	{
+		"name": "Rainbow Road Items 1 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox309"
+	},
+	{
+		"name": "Rainbow Road Items 1 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox310"
+	},
+	{
+		"name": "Rainbow Road Items 2 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox311"
+	},
+	{
+		"name": "Rainbow Road Items 2 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox312"
+	},
+	{
+		"name": "Rainbow Road Items 2 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox313"
+	},
+	{
+		"name": "Rainbow Road Items 2 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox314"
+	},
+	{
+		"name": "Rainbow Road Items 3 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox315"
+	},
+	{
+		"name": "Rainbow Road Items 3 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox316"
+	},
+	{
+		"name": "Rainbow Road Items 3 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox317"
+	},
+	{
+		"name": "Rainbow Road Items 3 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox318"
+	},
+	{
+		"name": "Rainbow Road Items 4 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox319"
+	},
+	{
+		"name": "Rainbow Road Items 4 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox320"
+	},
+	{
+		"name": "Rainbow Road Items 4 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox321"
+	},
+	{
+		"name": "Rainbow Road Items 4 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox322"
+	},
+	{
+		"name": "Rainbow Road Items 5 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox323"
+	},
+	{
+		"name": "Rainbow Road Items 5 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox324"
+	},
+	{
+		"name": "Rainbow Road Items 5 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox325"
+	},
+	{
+		"name": "Rainbow Road Items 5 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox326"
+	},
+	{
+		"name": "Rainbow Road Items 6 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox327"
+	},
+	{
+		"name": "Rainbow Road Items 6 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox328"
+	},
+	{
+		"name": "Rainbow Road Items 6 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox329"
+	},
+	{
+		"name": "Rainbow Road Items 6 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox330"
+	},
+	{
+		"name": "Rainbow Road Items 7 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox331"
+	},
+	{
+		"name": "Rainbow Road Items 7 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox332"
+	},
+	{
+		"name": "Rainbow Road Items 7 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox333"
+	},
+	{
+		"name": "Rainbow Road Items 7 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox334"
+	},
+	{
+		"name": "Rainbow Road Items 8 Spot 1",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox335"
+	},
+	{
+		"name": "Rainbow Road Items 8 Spot 2",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox336"
+	},
+	{
+		"name": "Rainbow Road Items 8 Spot 3",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox337"
+	},
+	{
+		"name": "Rainbow Road Items 8 Spot 4",
+		"type": "toggle",
+		"initial_active_state": false,
+		"codes": "itemBox338"
+	}
+]

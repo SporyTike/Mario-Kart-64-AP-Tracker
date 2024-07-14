@@ -1,0 +1,659 @@
+[
+	{
+		"name": "Flower Cup",
+		"access_rules": ["$canEnterToadsTurnpike"],
+		"children": [
+			{
+				"name": "Toad's Turnpike",
+				"sections": [
+					{
+						"name": "Take the Lead after Lap 1",
+						"chest_unopened_img": "images/checks/Take Lead.png",
+						"chest_opened_img": "images/checks/Take Lead_Checked.png",
+					},
+					{
+						"name": "Qualify in Race",
+						"chest_unopened_img": "images/checks/4th Place.png",
+						"chest_opened_img": "images/checks/4th Place_Checked.png",
+					},
+					{
+						"name": "Finish as 1st Place",
+						"chest_unopened_img": "images/checks/1st Place.png",
+						"chest_opened_img": "images/checks/1st Place_Checked.png",
+					}
+				],
+				"map_locations": [
+					{
+						"map": "toadsTurnpike",
+						"x": 576,
+						"y": 24,
+						"size": 30
+					}
+				]
+			},
+			{
+				"name": "Toad's Turnpike Items 1",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox90"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox91"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox92"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox93"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "toadsTurnpike",
+						"x": 248,
+						"y": 224
+					}
+				]
+			},
+			{
+				"name": "Toad's Turnpike Items 2",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"access_rules": ["$canPassBlue"],
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox94"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox95"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox96"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox97"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "toadsTurnpike",
+						"x": 161,
+						"y": 272
+					}
+				]
+			},
+			{
+				"name": "Toad's Turnpike Items 3",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox98"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox99"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox100"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox101"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "toadsTurnpike",
+						"x": 421,
+						"y": 272
+					}
+				]
+			},
+			{
+				"name": "Toad's Turnpike Items 4",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"access_rules": ["$canPassRed"],
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox102"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox103"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox104"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox105"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "toadsTurnpike",
+						"x": 401,
+						"y": 474
+					}
+				]
+			},
+			{
+				"name": "Toad's Turnpike Secret",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "",
+						"visibility_rules": ["secretLocations_on"]
+					}
+				],
+				"map_locations": [
+					{
+						"map": "toadsTurnpike",
+						"x": 250,
+						"y": 411
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Flower Cup",
+		"access_rules": ["$canEnterFrappeSnowland"],
+		"children": [
+			{
+				"name": "Frappe Snowland",
+				"sections": [
+					{
+						"name": "Take the Lead after Lap 1",
+						"chest_unopened_img": "images/checks/Take Lead.png",
+						"chest_opened_img": "images/checks/Take Lead_Checked.png",
+					},
+					{
+						"name": "Qualify in Race",
+						"chest_unopened_img": "images/checks/4th Place.png",
+						"chest_opened_img": "images/checks/4th Place_Checked.png",
+					},
+					{
+						"name": "Finish as 1st Place",
+						"chest_unopened_img": "images/checks/1st Place.png",
+						"chest_opened_img": "images/checks/1st Place_Checked.png",
+					},
+					{
+						"name": "Destroy Tree",
+						"ref": "Global/Checks/Destroy Tree"
+					},
+					{
+						"name": "Defeat Snowman Bomb",
+						"chest_unopened_img": "images/checks/Snowman.png",
+						"chest_opened_img": "images/checks/Snowman_Checked.png",
+						"access_rules": ["item_star", "[]"],
+						"visibility_rules": ["hazardLocations_on"]
+					}
+				],
+				"map_locations": [
+					{
+						"map": "frappeSnowland",
+						"x": 576,
+						"y": 24,
+						"size": 30
+					}
+				]
+			},
+			{
+				"name": "Frappe Snowland Items 1",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox106"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox107"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox108"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox109"],
+					},
+					{
+						"name": "Spot 5",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox110"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "frappeSnowland",
+						"x": 465,
+						"y": 203
+					}
+				]
+			},
+			{
+				"name": "Frappe Snowland Items 2",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox111"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox112"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox113"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox114"],
+					},
+					{
+						"name": "Spot 5",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox115"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "frappeSnowland",
+						"x": 143,
+						"y": 223
+					}
+				]
+			},
+			{
+				"name": "Frappe Snowland Items 3",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox116"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox117"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox118"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox119"],
+					},
+					{
+						"name": "Spot 5",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox120"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "frappeSnowland",
+						"x": 358,
+						"y": 535
+					}
+				]
+			},
+			{
+				"name": "Snow Yoshi's Secret",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "",
+						"visibility_rules": ["secretLocations_on"]
+					}
+				],
+				"map_locations": [
+					{
+						"map": "frappeSnowland",
+						"x": 495,
+						"y": 80
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Flower Cup",
+		"access_rules": ["$canEnterChocoMountain"],
+		"children": [
+			{
+				"name": "Choco Mountain",
+				"sections": [
+					{
+						"name": "Take the Lead after Lap 1",
+						"chest_unopened_img": "images/checks/Take Lead.png",
+						"chest_opened_img": "images/checks/Take Lead_Checked.png",
+					},
+					{
+						"name": "Qualify in Race",
+						"chest_unopened_img": "images/checks/4th Place.png",
+						"chest_opened_img": "images/checks/4th Place_Checked.png",
+					},
+					{
+						"name": "Finish as 1st Place",
+						"chest_unopened_img": "images/checks/1st Place.png",
+						"chest_opened_img": "images/checks/1st Place_Checked.png",
+					}
+				],
+				"map_locations": [
+					{
+						"map": "chocoMountain",
+						"x": 576,
+						"y": 24,
+						"size": 30
+					}
+				]
+			},
+			{
+				"name": "Choco Mountain Items 1",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox121"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox122"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox123"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox124"],
+					},
+					{
+						"name": "Spot 5",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox125"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "chocoMountain",
+						"x": 377,
+						"y": 89
+					}
+				]
+			},
+			{
+				"name": "Choco Mountain Items 2",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox126"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox127"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox128"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox129"],
+					},
+					{
+						"name": "Spot 5",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox130"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "chocoMountain",
+						"x": 98,
+						"y": 466
+					}
+				]
+			},
+			{
+				"name": "Choco Mountain Items 3",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox131"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox132"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox133"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox134"],
+					},
+					{
+						"name": "Spot 5",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox135"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "chocoMountain",
+						"x": 320,
+						"y": 501
+					}
+				]
+			},
+			{
+				"name": "Deflect Boulder",
+				"chest_unopened_img": "images/checks/Boulder.png",
+				"chest_opened_img": "images/checks/Boulder_Checked.png",
+				"sections": [
+					{
+						"name": "",
+						"access_rules": ["item_star", "[]"],
+						"visibility_rules": ["hazardLocations_on, hazardLocations_off"]
+					}
+				],
+				"map_locations": [
+					{
+						"map": "chocoMountain",
+						"x": 562,
+						"y": 360
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Flower Cup",
+		"access_rules": ["$canEnterMarioRaceway"],
+		"children": [
+			{
+				"name": "Mario Raceway",
+				"sections": [
+					{
+						"name": "Take the Lead after Lap 1",
+						"chest_unopened_img": "images/checks/Take Lead.png",
+						"chest_opened_img": "images/checks/Take Lead_Checked.png",
+					},
+					{
+						"name": "Qualify in Race",
+						"chest_unopened_img": "images/checks/4th Place.png",
+						"chest_opened_img": "images/checks/4th Place_Checked.png",
+					},
+					{
+						"name": "Finish as 1st Place",
+						"chest_unopened_img": "images/checks/1st Place.png",
+						"chest_opened_img": "images/checks/1st Place_Checked.png",
+					},
+					{
+						"name": "Destroy Tree",
+						"ref": "Global/Checks/Destroy Tree"
+					},
+					{
+						"name": "Destroy Piranha Plant",
+						"ref": "Global/Checks/Destroy Piranha Plant"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "marioRaceway",
+						"x": 576,
+						"y": 24,
+						"size": 30
+					}
+				]
+			},
+			{
+				"name": "Mario Raceway Items 1",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox136"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox137"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox138"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox139"],
+					},
+					{
+						"name": "Spot 5",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox140"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "marioRaceway",
+						"x": 188,
+						"y": 84
+					}
+				]
+			},
+			{
+				"name": "Mario Raceway Items 2",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox141"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox142"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox143"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox144"],
+					},
+					{
+						"name": "Spot 5",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox145"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "marioRaceway",
+						"x": 487,
+						"y": 255
+					}
+				]
+			},
+			{
+				"name": "Mario Raceway Items 3",
+				"chest_unopened_img": "images/checks/Item Box.png",
+				"chest_opened_img": "images/checks/Item Box_Checked.png",
+				"sections": [
+					{
+						"name": "Spot 1",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox146"],
+					},
+					{
+						"name": "Spot 2",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox147"],
+					},
+					{
+						"name": "Spot 3",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox148"],
+					},
+					{
+						"name": "Spot 4",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox149"],
+					},
+					{
+						"name": "Spot 5",
+						"visibility_rules": ["$hasNot|connectedAP", "itemBox150"],
+					}
+				],
+				"map_locations": [
+					{
+						"map": "marioRaceway",
+						"x": 412,
+						"y": 375
+					}
+				]
+			},
+			{
+				"name": "Destroy Mario Sign",
+				"chest_unopened_img": "images/checks/Mario Sign.png",
+				"chest_opened_img": "images/checks/Mario Sign_Checked.png",
+				"sections": [
+					{
+						"name": "",
+						"access_rules": ["item_star", "[]"],
+						"visibility_rules": ["hazardLocations_on"]
+					}
+				],
+				"map_locations": [
+					{
+						"map": "marioRaceway",
+						"x": 547,
+						"y": 465
+					}
+				]
+			}
+		]
+	}
+]

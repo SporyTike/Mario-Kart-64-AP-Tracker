@@ -1,0 +1,73 @@
+{
+	"drivers_grid": {
+		"type": "array",
+		"orientation": "vertical",
+		"margin": "0,0",
+		"content": [
+			{
+				"type": "array",
+				"orientation": "horizontal",
+				"margin": "0,0",
+				"content": [
+					{
+						"type": "itemgrid",
+						"item_margin": "2, 2",
+						"h_alignment": "left",
+						"rows": [
+							[
+								"mario",
+								"luigi",
+								"peach",
+								"toad",
+								"yoshi",
+								"donkeyKong",
+								"wario",
+								"bowser"
+							],
+							[
+								"mario_drift1",
+								"luigi_drift1",
+								"peach_drift1",
+								"toad_drift1",
+								"yoshi_drift1",
+								"donkeyKong_drift1",
+								"wario_drift1",
+								"bowser_drift1"
+							],
+							[
+								"mario_offroad",
+								"luigi_offroad",
+								"peach_offroad",
+								"toad_offroad",
+								"yoshi_offroad",
+								"donkeyKong_offroad",
+								"wario_offroad",
+								"bowser_offroad"
+							],
+							[
+								"mario_winter",
+								"luigi_winter",
+								"peach_winter",
+								"toad_winter",
+								"yoshi_winter",
+								"donkeyKong_winter",
+								"wario_winter",
+								"bowser_winter"
+							],
+							[
+								"mario_startItem",
+								"luigi_startItem",
+								"peach_startItem",
+								"toad_startItem",
+								"yoshi_startItem",
+								"donkeyKong_startItem",
+								"wario_startItem",
+								"bowser_startItem"
+							]
+						]
+					}
+				]
+			}
+		]
+	}
+}

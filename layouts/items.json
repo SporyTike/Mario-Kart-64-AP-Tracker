@@ -1,0 +1,50 @@
+{
+	"items_grid": {
+		"type": "array",
+		"orientation": "vertical",
+		"margin": "0,0",
+		"content": [
+			{
+				"type": "array",
+				"orientation": "horizontal",
+				"margin": "0,0",
+				"content": [
+					{
+						"type": "itemgrid",
+						"item_margin": "2, 2",
+						"h_alignment": "left",
+						"rows": [
+							[
+								"item_banana",
+								"item_greenShell",
+								"item_redShell",
+								"item_mushroom",
+								"item_star"
+							],
+							[
+								"item_bananaBunch",
+								"item_tripleGreenShell",
+								"item_tripleRedShell",
+								"item_tripleMushroom",
+								"item_ghost"
+							],
+							[
+								"item_fakeItemBox",
+								"item_lightning",
+								"item_blueShell",
+								"item_superMushroom",
+								"item_feather"
+							],
+							[
+								"switch_yellow",
+								"switch_green",
+								"switch_red",
+								"switch_blue",
+							]
+						]
+					}
+				]
+			}
+		]
+	}
+}
