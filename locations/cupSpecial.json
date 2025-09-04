@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Special Cup",
-		"access_rules": ["$canEnterDKsJungleParkway"],
+		"access_rules": ["$canEnter|DKsJungleParkway"],
 		"children": [
 						{
 				"name": "D.K.'s Jungle Parkway",
@@ -10,20 +10,26 @@
 						"name": "Take the Lead after Lap 1",
 						"chest_unopened_img": "images/checks/Take Lead.png",
 						"chest_opened_img": "images/checks/Take Lead_Checked.png",
+						"access_rules": ["$canWin|DKsJungleParkway"],
 					},
 					{
 						"name": "Qualify in Race",
 						"chest_unopened_img": "images/checks/4th Place.png",
 						"chest_opened_img": "images/checks/4th Place_Checked.png",
+						"access_rules": ["$canQualify|DKsJungleParkway"],
 					},
 					{
 						"name": "Finish as 1st Place",
 						"chest_unopened_img": "images/checks/1st Place.png",
 						"chest_opened_img": "images/checks/1st Place_Checked.png",
+						"access_rules": ["$canWin|DKsJungleParkway"],
 					},
 					{
 						"name": "Destroy Palm",
-						"ref": "Global/Checks/Destroy Tree"
+						"chest_unopened_img": "/images/checks/Tree.png",
+						"chest_opened_img": "/images/checks/Tree_Checked.png",
+						"access_rules": ["item_star", "[]"],
+						"visibility_rules": ["hazardLocations_on"]
 					}
 				],
 				"map_locations": [
@@ -221,7 +227,7 @@
 	},
 	{
 		"name": "Special Cup",
-		"access_rules": ["$canEnterYoshiValley"],
+		"access_rules": ["$canEnter|YoshiValley"],
 		"children": [
 			{
 				"name": "Yoshi Valley",
@@ -230,21 +236,27 @@
 						"name": "Take the Lead after Lap 1",
 						"chest_unopened_img": "images/checks/Take Lead.png",
 						"chest_opened_img": "images/checks/Take Lead_Checked.png",
+						"access_rules": ["$canWin|YoshiValley"],
 					},
 					{
 						"name": "Qualify in Race",
 						"chest_unopened_img": "images/checks/4th Place.png",
 						"chest_opened_img": "images/checks/4th Place_Checked.png",
+						"access_rules": ["$canQualify|YoshiValley"],
 					},
 					{
 						"name": "Finish as 1st Place",
 						"chest_unopened_img": "images/checks/1st Place.png",
 						"chest_opened_img": "images/checks/1st Place_Checked.png",
+						"access_rules": ["$canWin|YoshiValley"],
 					},
 					{
 						"name": "Destroy Tree",
-						"ref": "Global/Checks/Destroy Tree"
-					}
+						"chest_unopened_img": "/images/checks/Tree.png",
+						"chest_opened_img": "/images/checks/Tree_Checked.png",
+						"access_rules": ["item_star", "[]"],
+						"visibility_rules": ["hazardLocations_on"]
+					},
 				],
 				"map_locations": [
 					{
@@ -539,7 +551,7 @@
 	},
 	{
 		"name": "Special Cup",
-		"access_rules": ["$canEnterBansheeBoardwalk"],
+		"access_rules": ["$canEnter|BansheeBoardwalk"],
 		"children": [
 						{
 				"name": "Banshee Boardwalk",
@@ -548,16 +560,19 @@
 						"name": "Take the Lead after Lap 1",
 						"chest_unopened_img": "images/checks/Take Lead.png",
 						"chest_opened_img": "images/checks/Take Lead_Checked.png",
+						"access_rules": ["$canWin|BansheeBoardwalk"],
 					},
 					{
 						"name": "Qualify in Race",
 						"chest_unopened_img": "images/checks/4th Place.png",
 						"chest_opened_img": "images/checks/4th Place_Checked.png",
+						"access_rules": ["$canQualify|BansheeBoardwalk"],
 					},
 					{
 						"name": "Finish as 1st Place",
 						"chest_unopened_img": "images/checks/1st Place.png",
 						"chest_opened_img": "images/checks/1st Place_Checked.png",
+						"access_rules": ["$canWin|BansheeBoardwalk"],
 					}
 				],
 				"map_locations": [
@@ -711,7 +726,7 @@
 	},
 	{
 		"name": "Special Cup",
-		"access_rules": ["$canEnterRainbowRoad"],
+		"access_rules": ["$canEnter|RainbowRoad"],
 		"children": [
 						{
 				"name": "Rainbow Road",
@@ -720,16 +735,19 @@
 						"name": "Take the Lead after Lap 1",
 						"chest_unopened_img": "images/checks/Take Lead.png",
 						"chest_opened_img": "images/checks/Take Lead_Checked.png",
+						"access_rules": ["$canWin|RainbowRoad"],
 					},
 					{
 						"name": "Qualify in Race",
 						"chest_unopened_img": "images/checks/4th Place.png",
 						"chest_opened_img": "images/checks/4th Place_Checked.png",
+						"access_rules": ["$canQualify|RainbowRoad"],
 					},
 					{
 						"name": "Finish as 1st Place",
 						"chest_unopened_img": "images/checks/1st Place.png",
 						"chest_opened_img": "images/checks/1st Place_Checked.png",
+						"access_rules": ["$canWin|RainbowRoad"],
 					}
 				],
 				"map_locations": [

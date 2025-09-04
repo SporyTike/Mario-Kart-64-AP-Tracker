@@ -12,4 +12,4 @@ If you find any bugs in the tracker, feel free to contact me on Discord. If you 
 ## Known Issues
 - Settings do not get automatically tracked
 - Course shuffle does not not get automatically tracked
-- The pack does not calculate which courses are beatable by item logic, it assumes any unlocked course can be completed
+- "Destroy Tree" and "Destroy Piranha Plant" locations do not mark as collected when sent to Archipelago

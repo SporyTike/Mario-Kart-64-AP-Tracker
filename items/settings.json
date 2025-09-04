@@ -129,5 +129,37 @@
 				"inherit_codes": false
 			}
 		]
+	},
+	{
+		"name": "Difficulty",
+		"type": "progressive",
+		"loop": true,
+		"allow_disabled": false,
+		"stages": [
+			{
+				"name": "Difficulty - Basic",
+				"img": "/images/items/Star.png",
+				"codes": "difficulty, difficulty_basic",
+				"inherit_codes": false
+			},
+			{
+				"name": "Difficulty - Advanced",
+				"img": "/images/items/Star.png",
+				"codes": "difficulty, difficulty_advanced",
+				"inherit_codes": false
+			},
+			{
+				"name": "Difficulty - Expert",
+				"img": "/images/items/Star.png",
+				"codes": "difficulty, difficulty_expert",
+				"inherit_codes": false
+			},
+			{
+				"name": "Difficulty - No Logic",
+				"img": "/images/items/Star.png",
+				"codes": "difficulty, difficulty_no_logic",
+				"inherit_codes": false
+			},
+		]
 	}
 ]

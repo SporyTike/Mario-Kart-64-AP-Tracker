@@ -35,98 +35,98 @@
 				"name": "Luigi Raceway",
 				"img": "/images/courses/Luigi Raceway - Preview.png",
 				"allow_disabled": false,
-				"codes": "cup1_course1, cup1_LuigiRaceway",
+				"codes": "cup1_course1, cup1_LuigiRaceway, cup1_course1_LuigiRaceway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Moo Moo Farm",
 				"img": "/images/courses/Moo Moo Farm - Preview.png",
-				"codes": "cup1_MooMooFarm",
+				"codes": "cup1_course1, cup1_MooMooFarm, cup1_course1_MooMooFarm",
 				"inherit_codes": false
 			},
 			{
 				"name": "Koopa Troopa Beach",
 				"img": "/images/courses/Koopa Troopa Beach - Preview.png",
 				"allow_disabled": false,
-				"codes": "cup1_KoopaTroopaBeach",
+				"codes": "cup1_course1, cup1_KoopaTroopaBeach, cup1_course1_KoopaTroopaBeach",
 				"inherit_codes": false
 			},
 			{
 				"name": "Kalimari Desert",
 				"img": "/images/courses/Kalimari Desert - Preview.png",
-				"codes": "cup1_KalimariDesert",
+				"codes": "cup1_course1, cup1_KalimariDesert, cup1_course1_KalimariDesert",
 				"inherit_codes": false
 			},
 			{
 				"name": "Toad's Turnpike",
 				"img": "/images/courses/Toads Turnpike - Preview.png",
-				"codes": "cup1_ToadsTurnpike",
+				"codes": "cup1_course1, cup1_ToadsTurnpike, cup1_course1_ToadsTurnpike",
 				"inherit_codes": false
 			},
 			{
 				"name": "Frappe Snowland",
 				"img": "/images/courses/Frappe Snowland - Preview.png",
-				"codes": "cup1_FrappeSnowland",
+				"codes": "cup1_course1, cup1_FrappeSnowland, cup1_course1_FrappeSnowland",
 				"inherit_codes": false
 			},
 			{
 				"name": "Choco Mountain",
 				"img": "/images/courses/Choco Mountain - Preview.png",
-				"codes": "cup1_ChocoMountain",
+				"codes": "cup1_course1, cup1_ChocoMountain, cup1_course1_ChocoMountain",
 				"inherit_codes": false
 			},
 			{
 				"name": "Mario Raceway",
 				"img": "/images/courses/Mario Raceway - Preview.png",
-				"codes": "cup1_MarioRaceway",
+				"codes": "cup1_course1, cup1_MarioRaceway, cup1_course1_MarioRaceway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Wario Stadium",
 				"img": "/images/courses/Wario Stadium - Preview.png",
-				"codes": "cup1_WarioStadium",
+				"codes": "cup1_course1, cup1_WarioStadium, cup1_course1_WarioStadium",
 				"inherit_codes": false
 			},
 			{
 				"name": "Sherbet Land",
 				"img": "/images/courses/Sherbet Land - Preview.png",
-				"codes": "cup1_SherbetLand",
+				"codes": "cup1_course1, cup1_SherbetLand, cup1_course1_SherbetLand",
 				"inherit_codes": false
 			},
 			{
 				"name": "Royal Raceway",
 				"img": "/images/courses/Royal Raceway - Preview.png",
-				"codes": "cup1_RoyalRaceway",
+				"codes": "cup1_course1, cup1_RoyalRaceway, cup1_course1_RoyalRaceway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Bowser's Castle",
 				"img": "/images/courses/Bowsers Castle - Preview.png",
-				"codes": "cup1_BowsersCastle",
+				"codes": "cup1_course1, cup1_BowsersCastle, cup1_course1_BowsersCastle",
 				"inherit_codes": false
 			},
 			{
 				"name": "D.K.'s Jungle Parkway",
 				"img": "/images/courses/DKs Jungle Parkway - Preview.png",
-				"codes": "cup1_DKsJungleParkway",
+				"codes": "cup1_course1, cup1_DKsJungleParkway, cup1_course1_DKsJungleParkway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Yoshi Valley",
 				"img": "/images/courses/Yoshi Valley - Preview.png",
-				"codes": "cup1_YoshiValley",
+				"codes": "cup1_course1, cup1_YoshiValley, cup1_course1_YoshiValley",
 				"inherit_codes": false
 			},
 			{
 				"name": "Banshee Boardwalk",
 				"img": "/images/courses/Banshee Boardwalk - Preview.png",
-				"codes": "cup1_BansheeBoardwalk",
+				"codes": "cup1_course1, cup1_BansheeBoardwalk, cup1_course1_BansheeBoardwalk",
 				"inherit_codes": false
 			},
 			{
 				"name": "Rainbow Road",
 				"img": "/images/courses/Rainbow Road - Preview.png",
-				"codes": "cup1_RainbowRoad",
+				"codes": "cup1_course1, cup1_RainbowRoad, cup1_course1_RainbowRoad",
 				"inherit_codes": false
 			}
 		]
@@ -142,98 +142,98 @@
 				"name": "Luigi Raceway",
 				"img": "/images/courses/Luigi Raceway - Preview.png",
 				"allow_disabled": false,
-				"codes": "cup1_course2, cup1_LuigiRaceway",
+				"codes": "cup1_course2, cup1_LuigiRaceway, cup1_course2_LuigiRaceway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Moo Moo Farm",
 				"img": "/images/courses/Moo Moo Farm - Preview.png",
-				"codes": "cup1_MooMooFarm",
+				"codes": "cup1_course2, cup1_MooMooFarm, cup1_course2_MooMooFarm",
 				"inherit_codes": false
 			},
 			{
 				"name": "Koopa Troopa Beach",
 				"img": "/images/courses/Koopa Troopa Beach - Preview.png",
 				"allow_disabled": false,
-				"codes": "cup1_KoopaTroopaBeach",
+				"codes": "cup1_course2, cup1_KoopaTroopaBeach, cup1_course2_KoopaTroopaBeach",
 				"inherit_codes": false
 			},
 			{
 				"name": "Kalimari Desert",
 				"img": "/images/courses/Kalimari Desert - Preview.png",
-				"codes": "cup1_KalimariDesert",
+				"codes": "cup1_course2, cup1_KalimariDesert, cup1_course2_KalimariDesert",
 				"inherit_codes": false
 			},
 			{
 				"name": "Toad's Turnpike",
 				"img": "/images/courses/Toads Turnpike - Preview.png",
-				"codes": "cup1_ToadsTurnpike",
+				"codes": "cup1_course2, cup1_ToadsTurnpike, cup1_course2_ToadsTurnpike",
 				"inherit_codes": false
 			},
 			{
 				"name": "Frappe Snowland",
 				"img": "/images/courses/Frappe Snowland - Preview.png",
-				"codes": "cup1_FrappeSnowland",
+				"codes": "cup1_course2, cup1_FrappeSnowland, cup1_course2_FrappeSnowland",
 				"inherit_codes": false
 			},
 			{
 				"name": "Choco Mountain",
 				"img": "/images/courses/Choco Mountain - Preview.png",
-				"codes": "cup1_ChocoMountain",
+				"codes": "cup1_course2, cup1_ChocoMountain, cup1_course2_ChocoMountain",
 				"inherit_codes": false
 			},
 			{
 				"name": "Mario Raceway",
 				"img": "/images/courses/Mario Raceway - Preview.png",
-				"codes": "cup1_MarioRaceway",
+				"codes": "cup1_course2, cup1_MarioRaceway, cup1_course2_MarioRaceway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Wario Stadium",
 				"img": "/images/courses/Wario Stadium - Preview.png",
-				"codes": "cup1_WarioStadium",
+				"codes": "cup1_course2, cup1_WarioStadium, cup1_course2_WarioStadium",
 				"inherit_codes": false
 			},
 			{
 				"name": "Sherbet Land",
 				"img": "/images/courses/Sherbet Land - Preview.png",
-				"codes": "cup1_SherbetLand",
+				"codes": "cup1_course2, cup1_SherbetLand, cup1_course2_SherbetLand",
 				"inherit_codes": false
 			},
 			{
 				"name": "Royal Raceway",
 				"img": "/images/courses/Royal Raceway - Preview.png",
-				"codes": "cup1_RoyalRaceway",
+				"codes": "cup1_course2, cup1_RoyalRaceway, cup1_course2_RoyalRaceway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Bowser's Castle",
 				"img": "/images/courses/Bowsers Castle - Preview.png",
-				"codes": "cup1_BowsersCastle",
+				"codes": "cup1_course2, cup1_BowsersCastle, cup1_course2_BowsersCastle",
 				"inherit_codes": false
 			},
 			{
 				"name": "D.K.'s Jungle Parkway",
 				"img": "/images/courses/DKs Jungle Parkway - Preview.png",
-				"codes": "cup1_DKsJungleParkway",
+				"codes": "cup1_course2, cup1_DKsJungleParkway, cup1_course2_DKsJungleParkway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Yoshi Valley",
 				"img": "/images/courses/Yoshi Valley - Preview.png",
-				"codes": "cup1_YoshiValley",
+				"codes": "cup1_course2, cup1_YoshiValley, cup1_course2_YoshiValley",
 				"inherit_codes": false
 			},
 			{
 				"name": "Banshee Boardwalk",
 				"img": "/images/courses/Banshee Boardwalk - Preview.png",
-				"codes": "cup1_BansheeBoardwalk",
+				"codes": "cup1_course2, cup1_BansheeBoardwalk, cup1_course2_BansheeBoardwalk",
 				"inherit_codes": false
 			},
 			{
 				"name": "Rainbow Road",
 				"img": "/images/courses/Rainbow Road - Preview.png",
-				"codes": "cup1_RainbowRoad",
+				"codes": "cup1_course2, cup1_RainbowRoad, cup1_course2_RainbowRoad",
 				"inherit_codes": false
 			}
 		]
@@ -249,98 +249,98 @@
 				"name": "Luigi Raceway",
 				"img": "/images/courses/Luigi Raceway - Preview.png",
 				"allow_disabled": false,
-				"codes": "cup1_course3, cup1_LuigiRaceway",
+				"codes": "cup1_course3, cup1_LuigiRaceway, cup1_course3_LuigiRaceway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Moo Moo Farm",
 				"img": "/images/courses/Moo Moo Farm - Preview.png",
-				"codes": "cup1_MooMooFarm",
+				"codes": "cup1_course3, cup1_MooMooFarm, cup1_course3_MooMooFarm",
 				"inherit_codes": false
 			},
 			{
 				"name": "Koopa Troopa Beach",
 				"img": "/images/courses/Koopa Troopa Beach - Preview.png",
 				"allow_disabled": false,
-				"codes": "cup1_KoopaTroopaBeach",
+				"codes": "cup1_course3, cup1_KoopaTroopaBeach, cup1_course3_KoopaTroopaBeach",
 				"inherit_codes": false
 			},
 			{
 				"name": "Kalimari Desert",
 				"img": "/images/courses/Kalimari Desert - Preview.png",
-				"codes": "cup1_KalimariDesert",
+				"codes": "cup1_course3, cup1_KalimariDesert, cup1_course3_KalimariDesert",
 				"inherit_codes": false
 			},
 			{
 				"name": "Toad's Turnpike",
 				"img": "/images/courses/Toads Turnpike - Preview.png",
-				"codes": "cup1_ToadsTurnpike",
+				"codes": "cup1_course3, cup1_ToadsTurnpike, cup1_course3_ToadsTurnpike",
 				"inherit_codes": false
 			},
 			{
 				"name": "Frappe Snowland",
 				"img": "/images/courses/Frappe Snowland - Preview.png",
-				"codes": "cup1_FrappeSnowland",
+				"codes": "cup1_course3, cup1_FrappeSnowland, cup1_course3_FrappeSnowland",
 				"inherit_codes": false
 			},
 			{
 				"name": "Choco Mountain",
 				"img": "/images/courses/Choco Mountain - Preview.png",
-				"codes": "cup1_ChocoMountain",
+				"codes": "cup1_course3, cup1_ChocoMountain, cup1_course3_ChocoMountain",
 				"inherit_codes": false
 			},
 			{
 				"name": "Mario Raceway",
 				"img": "/images/courses/Mario Raceway - Preview.png",
-				"codes": "cup1_MarioRaceway",
+				"codes": "cup1_course3, cup1_MarioRaceway, cup1_course3_MarioRaceway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Wario Stadium",
 				"img": "/images/courses/Wario Stadium - Preview.png",
-				"codes": "cup1_WarioStadium",
+				"codes": "cup1_course3, cup1_WarioStadium, cup1_course3_WarioStadium",
 				"inherit_codes": false
 			},
 			{
 				"name": "Sherbet Land",
 				"img": "/images/courses/Sherbet Land - Preview.png",
-				"codes": "cup1_SherbetLand",
+				"codes": "cup1_course3, cup1_SherbetLand, cup1_course3_SherbetLand",
 				"inherit_codes": false
 			},
 			{
 				"name": "Royal Raceway",
 				"img": "/images/courses/Royal Raceway - Preview.png",
-				"codes": "cup1_RoyalRaceway",
+				"codes": "cup1_course3, cup1_RoyalRaceway, cup1_course3_RoyalRaceway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Bowser's Castle",
 				"img": "/images/courses/Bowsers Castle - Preview.png",
-				"codes": "cup1_BowsersCastle",
+				"codes": "cup1_course3, cup1_BowsersCastle, cup1_course3_BowsersCastle",
 				"inherit_codes": false
 			},
 			{
 				"name": "D.K.'s Jungle Parkway",
 				"img": "/images/courses/DKs Jungle Parkway - Preview.png",
-				"codes": "cup1_DKsJungleParkway",
+				"codes": "cup1_course3, cup1_DKsJungleParkway, cup1_course3_DKsJungleParkway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Yoshi Valley",
 				"img": "/images/courses/Yoshi Valley - Preview.png",
-				"codes": "cup1_YoshiValley",
+				"codes": "cup1_course3, cup1_YoshiValley, cup1_course3_YoshiValley",
 				"inherit_codes": false
 			},
 			{
 				"name": "Banshee Boardwalk",
 				"img": "/images/courses/Banshee Boardwalk - Preview.png",
-				"codes": "cup1_BansheeBoardwalk",
+				"codes": "cup1_course3, cup1_BansheeBoardwalk, cup1_course3_BansheeBoardwalk",
 				"inherit_codes": false
 			},
 			{
 				"name": "Rainbow Road",
 				"img": "/images/courses/Rainbow Road - Preview.png",
-				"codes": "cup1_RainbowRoad",
+				"codes": "cup1_course3, cup1_RainbowRoad, cup1_course3_RainbowRoad",
 				"inherit_codes": false
 			}
 		]
@@ -356,98 +356,98 @@
 				"name": "Luigi Raceway",
 				"img": "/images/courses/Luigi Raceway - Preview.png",
 				"allow_disabled": false,
-				"codes": "cup1_course4, cup1_LuigiRaceway",
+				"codes": "cup1_course4, cup1_LuigiRaceway, cup1_course4_LuigiRaceway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Moo Moo Farm",
 				"img": "/images/courses/Moo Moo Farm - Preview.png",
-				"codes": "cup1_MooMooFarm",
+				"codes": "cup1_course4, cup1_MooMooFarm, cup1_course4_MooMooFarm",
 				"inherit_codes": false
 			},
 			{
 				"name": "Koopa Troopa Beach",
 				"img": "/images/courses/Koopa Troopa Beach - Preview.png",
 				"allow_disabled": false,
-				"codes": "cup1_KoopaTroopaBeach",
+				"codes": "cup1_course4, cup1_KoopaTroopaBeach, cup1_course4_KoopaTroopaBeach",
 				"inherit_codes": false
 			},
 			{
 				"name": "Kalimari Desert",
 				"img": "/images/courses/Kalimari Desert - Preview.png",
-				"codes": "cup1_KalimariDesert",
+				"codes": "cup1_course4, cup1_KalimariDesert, cup1_course4_KalimariDesert",
 				"inherit_codes": false
 			},
 			{
 				"name": "Toad's Turnpike",
 				"img": "/images/courses/Toads Turnpike - Preview.png",
-				"codes": "cup1_ToadsTurnpike",
+				"codes": "cup1_course4, cup1_ToadsTurnpike, cup1_course4_ToadsTurnpike",
 				"inherit_codes": false
 			},
 			{
 				"name": "Frappe Snowland",
 				"img": "/images/courses/Frappe Snowland - Preview.png",
-				"codes": "cup1_FrappeSnowland",
+				"codes": "cup1_course4, cup1_FrappeSnowland, cup1_course4_FrappeSnowland",
 				"inherit_codes": false
 			},
 			{
 				"name": "Choco Mountain",
 				"img": "/images/courses/Choco Mountain - Preview.png",
-				"codes": "cup1_ChocoMountain",
+				"codes": "cup1_course4, cup1_ChocoMountain, cup1_course4_ChocoMountain",
 				"inherit_codes": false
 			},
 			{
 				"name": "Mario Raceway",
 				"img": "/images/courses/Mario Raceway - Preview.png",
-				"codes": "cup1_MarioRaceway",
+				"codes": "cup1_course4, cup1_MarioRaceway, cup1_course4_MarioRaceway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Wario Stadium",
 				"img": "/images/courses/Wario Stadium - Preview.png",
-				"codes": "cup1_WarioStadium",
+				"codes": "cup1_course4, cup1_WarioStadium, cup1_course4_WarioStadium",
 				"inherit_codes": false
 			},
 			{
 				"name": "Sherbet Land",
 				"img": "/images/courses/Sherbet Land - Preview.png",
-				"codes": "cup1_SherbetLand",
+				"codes": "cup1_course4, cup1_SherbetLand, cup1_course4_SherbetLand",
 				"inherit_codes": false
 			},
 			{
 				"name": "Royal Raceway",
 				"img": "/images/courses/Royal Raceway - Preview.png",
-				"codes": "cup1_RoyalRaceway",
+				"codes": "cup1_course4, cup1_RoyalRaceway, cup1_course4_RoyalRaceway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Bowser's Castle",
 				"img": "/images/courses/Bowsers Castle - Preview.png",
-				"codes": "cup1_BowsersCastle",
+				"codes": "cup1_course4, cup1_BowsersCastle, cup1_course4_BowsersCastle",
 				"inherit_codes": false
 			},
 			{
 				"name": "D.K.'s Jungle Parkway",
 				"img": "/images/courses/DKs Jungle Parkway - Preview.png",
-				"codes": "cup1_DKsJungleParkway",
+				"codes": "cup1_course4, cup1_DKsJungleParkway, cup1_course4_DKsJungleParkway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Yoshi Valley",
 				"img": "/images/courses/Yoshi Valley - Preview.png",
-				"codes": "cup1_YoshiValley",
+				"codes": "cup1_course4, cup1_YoshiValley, cup1_course4_YoshiValley",
 				"inherit_codes": false
 			},
 			{
 				"name": "Banshee Boardwalk",
 				"img": "/images/courses/Banshee Boardwalk - Preview.png",
-				"codes": "cup1_BansheeBoardwalk",
+				"codes": "cup1_course4, cup1_BansheeBoardwalk, cup1_course4_BansheeBoardwalk",
 				"inherit_codes": false
 			},
 			{
 				"name": "Rainbow Road",
 				"img": "/images/courses/Rainbow Road - Preview.png",
-				"codes": "cup1_RainbowRoad",
+				"codes": "cup1_course4, cup1_RainbowRoad, cup1_course4_RainbowRoad",
 				"inherit_codes": false
 			}
 		]
@@ -463,98 +463,98 @@
 				"name": "Luigi Raceway",
 				"img": "/images/courses/Luigi Raceway - Preview.png",
 				"allow_disabled": false,
-				"codes": "cup2_course1, cup2_LuigiRaceway",
+				"codes": "cup2_course1, cup2_LuigiRaceway, cup2_course1_LuigiRaceway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Moo Moo Farm",
 				"img": "/images/courses/Moo Moo Farm - Preview.png",
-				"codes": "cup2_MooMooFarm",
+				"codes": "cup2_course1, cup2_MooMooFarm, cup2_course1_MooMooFarm",
 				"inherit_codes": false
 			},
 			{
 				"name": "Koopa Troopa Beach",
 				"img": "/images/courses/Koopa Troopa Beach - Preview.png",
 				"allow_disabled": false,
-				"codes": "cup2_KoopaTroopaBeach",
+				"codes": "cup2_course1, cup2_KoopaTroopaBeach, cup2_course1_KoopaTroopaBeach",
 				"inherit_codes": false
 			},
 			{
 				"name": "Kalimari Desert",
 				"img": "/images/courses/Kalimari Desert - Preview.png",
-				"codes": "cup2_KalimariDesert",
+				"codes": "cup2_course1, cup2_KalimariDesert, cup2_course1_KalimariDesert",
 				"inherit_codes": false
 			},
 			{
 				"name": "Toad's Turnpike",
 				"img": "/images/courses/Toads Turnpike - Preview.png",
-				"codes": "cup2_ToadsTurnpike",
+				"codes": "cup2_course1, cup2_ToadsTurnpike, cup2_course1_ToadsTurnpike",
 				"inherit_codes": false
 			},
 			{
 				"name": "Frappe Snowland",
 				"img": "/images/courses/Frappe Snowland - Preview.png",
-				"codes": "cup2_FrappeSnowland",
+				"codes": "cup2_course1, cup2_FrappeSnowland, cup2_course1_FrappeSnowland",
 				"inherit_codes": false
 			},
 			{
 				"name": "Choco Mountain",
 				"img": "/images/courses/Choco Mountain - Preview.png",
-				"codes": "cup2_ChocoMountain",
+				"codes": "cup2_course1, cup2_ChocoMountain, cup2_course1_ChocoMountain",
 				"inherit_codes": false
 			},
 			{
 				"name": "Mario Raceway",
 				"img": "/images/courses/Mario Raceway - Preview.png",
-				"codes": "cup2_MarioRaceway",
+				"codes": "cup2_course1, cup2_MarioRaceway, cup2_course1_MarioRaceway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Wario Stadium",
 				"img": "/images/courses/Wario Stadium - Preview.png",
-				"codes": "cup2_WarioStadium",
+				"codes": "cup2_course1, cup2_WarioStadium, cup2_course1_WarioStadium",
 				"inherit_codes": false
 			},
 			{
 				"name": "Sherbet Land",
 				"img": "/images/courses/Sherbet Land - Preview.png",
-				"codes": "cup2_SherbetLand",
+				"codes": "cup2_course1, cup2_SherbetLand, cup2_course1_SherbetLand",
 				"inherit_codes": false
 			},
 			{
 				"name": "Royal Raceway",
 				"img": "/images/courses/Royal Raceway - Preview.png",
-				"codes": "cup2_RoyalRaceway",
+				"codes": "cup2_course1, cup2_RoyalRaceway, cup2_course1_RoyalRaceway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Bowser's Castle",
 				"img": "/images/courses/Bowsers Castle - Preview.png",
-				"codes": "cup2_BowsersCastle",
+				"codes": "cup2_course1, cup2_BowsersCastle, cup2_course1_BowsersCastle",
 				"inherit_codes": false
 			},
 			{
 				"name": "D.K.'s Jungle Parkway",
 				"img": "/images/courses/DKs Jungle Parkway - Preview.png",
-				"codes": "cup2_DKsJungleParkway",
+				"codes": "cup2_course1, cup2_DKsJungleParkway, cup2_course1_DKsJungleParkway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Yoshi Valley",
 				"img": "/images/courses/Yoshi Valley - Preview.png",
-				"codes": "cup2_YoshiValley",
+				"codes": "cup2_course1, cup2_YoshiValley, cup2_course1_YoshiValley",
 				"inherit_codes": false
 			},
 			{
 				"name": "Banshee Boardwalk",
 				"img": "/images/courses/Banshee Boardwalk - Preview.png",
-				"codes": "cup2_BansheeBoardwalk",
+				"codes": "cup2_course1, cup2_BansheeBoardwalk, cup2_course1_BansheeBoardwalk",
 				"inherit_codes": false
 			},
 			{
 				"name": "Rainbow Road",
 				"img": "/images/courses/Rainbow Road - Preview.png",
-				"codes": "cup2_RainbowRoad",
+				"codes": "cup2_course1, cup2_RainbowRoad, cup2_course1_RainbowRoad",
 				"inherit_codes": false
 			}
 		]
@@ -570,98 +570,98 @@
 				"name": "Luigi Raceway",
 				"img": "/images/courses/Luigi Raceway - Preview.png",
 				"allow_disabled": false,
-				"codes": "cup2_course2, cup2_LuigiRaceway",
+				"codes": "cup2_course2, cup2_course2, cup2_LuigiRaceway, cup2_course2_LuigiRaceway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Moo Moo Farm",
 				"img": "/images/courses/Moo Moo Farm - Preview.png",
-				"codes": "cup2_MooMooFarm",
+				"codes": "cup2_course2, cup2_MooMooFarm, cup2_course2_MooMooFarm",
 				"inherit_codes": false
 			},
 			{
 				"name": "Koopa Troopa Beach",
 				"img": "/images/courses/Koopa Troopa Beach - Preview.png",
 				"allow_disabled": false,
-				"codes": "cup2_KoopaTroopaBeach",
+				"codes": "cup2_course2, cup2_KoopaTroopaBeach, cup2_course2_KoopaTroopaBeach",
 				"inherit_codes": false
 			},
 			{
 				"name": "Kalimari Desert",
 				"img": "/images/courses/Kalimari Desert - Preview.png",
-				"codes": "cup2_KalimariDesert",
+				"codes": "cup2_course2, cup2_KalimariDesert, cup2_course2_KalimariDesert",
 				"inherit_codes": false
 			},
 			{
 				"name": "Toad's Turnpike",
 				"img": "/images/courses/Toads Turnpike - Preview.png",
-				"codes": "cup2_ToadsTurnpike",
+				"codes": "cup2_course2, cup2_ToadsTurnpike, cup2_course2_ToadsTurnpike",
 				"inherit_codes": false
 			},
 			{
 				"name": "Frappe Snowland",
 				"img": "/images/courses/Frappe Snowland - Preview.png",
-				"codes": "cup2_FrappeSnowland",
+				"codes": "cup2_course2, cup2_FrappeSnowland, cup2_course2_FrappeSnowland",
 				"inherit_codes": false
 			},
 			{
 				"name": "Choco Mountain",
 				"img": "/images/courses/Choco Mountain - Preview.png",
-				"codes": "cup2_ChocoMountain",
+				"codes": "cup2_course2, cup2_ChocoMountain, cup2_course2_ChocoMountain",
 				"inherit_codes": false
 			},
 			{
 				"name": "Mario Raceway",
 				"img": "/images/courses/Mario Raceway - Preview.png",
-				"codes": "cup2_MarioRaceway",
+				"codes": "cup2_course2, cup2_MarioRaceway, cup2_course2_MarioRaceway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Wario Stadium",
 				"img": "/images/courses/Wario Stadium - Preview.png",
-				"codes": "cup2_WarioStadium",
+				"codes": "cup2_course2, cup2_WarioStadium, cup2_course2_WarioStadium",
 				"inherit_codes": false
 			},
 			{
 				"name": "Sherbet Land",
 				"img": "/images/courses/Sherbet Land - Preview.png",
-				"codes": "cup2_SherbetLand",
+				"codes": "cup2_course2, cup2_SherbetLand, cup2_course2_SherbetLand",
 				"inherit_codes": false
 			},
 			{
 				"name": "Royal Raceway",
 				"img": "/images/courses/Royal Raceway - Preview.png",
-				"codes": "cup2_RoyalRaceway",
+				"codes": "cup2_course2, cup2_RoyalRaceway, cup2_course2_RoyalRaceway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Bowser's Castle",
 				"img": "/images/courses/Bowsers Castle - Preview.png",
-				"codes": "cup2_BowsersCastle",
+				"codes": "cup2_course2, cup2_BowsersCastle, cup2_course2_BowsersCastle",
 				"inherit_codes": false
 			},
 			{
 				"name": "D.K.'s Jungle Parkway",
 				"img": "/images/courses/DKs Jungle Parkway - Preview.png",
-				"codes": "cup2_DKsJungleParkway",
+				"codes": "cup2_course2, cup2_DKsJungleParkway, cup2_course2_DKsJungleParkway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Yoshi Valley",
 				"img": "/images/courses/Yoshi Valley - Preview.png",
-				"codes": "cup2_YoshiValley",
+				"codes": "cup2_course2, cup2_YoshiValley, cup2_course2_YoshiValley",
 				"inherit_codes": false
 			},
 			{
 				"name": "Banshee Boardwalk",
 				"img": "/images/courses/Banshee Boardwalk - Preview.png",
-				"codes": "cup2_BansheeBoardwalk",
+				"codes": "cup2_course2, cup2_BansheeBoardwalk, cup2_course2_BansheeBoardwalk",
 				"inherit_codes": false
 			},
 			{
 				"name": "Rainbow Road",
 				"img": "/images/courses/Rainbow Road - Preview.png",
-				"codes": "cup2_RainbowRoad",
+				"codes": "cup2_course2, cup2_RainbowRoad, cup2_course2_RainbowRoad",
 				"inherit_codes": false
 			}
 		]
@@ -677,98 +677,98 @@
 				"name": "Luigi Raceway",
 				"img": "/images/courses/Luigi Raceway - Preview.png",
 				"allow_disabled": false,
-				"codes": "cup2_course3, cup2_LuigiRaceway",
+				"codes": "cup2_course3, cup2_LuigiRaceway, cup2_course3_LuigiRaceway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Moo Moo Farm",
 				"img": "/images/courses/Moo Moo Farm - Preview.png",
-				"codes": "cup2_MooMooFarm",
+				"codes": "cup2_course3, cup2_MooMooFarm, cup2_course3_MooMooFarm",
 				"inherit_codes": false
 			},
 			{
 				"name": "Koopa Troopa Beach",
 				"img": "/images/courses/Koopa Troopa Beach - Preview.png",
 				"allow_disabled": false,
-				"codes": "cup2_KoopaTroopaBeach",
+				"codes": "cup2_course3, cup2_KoopaTroopaBeach, cup2_course3_KoopaTroopaBeach",
 				"inherit_codes": false
 			},
 			{
 				"name": "Kalimari Desert",
 				"img": "/images/courses/Kalimari Desert - Preview.png",
-				"codes": "cup2_KalimariDesert",
+				"codes": "cup2_course3, cup2_KalimariDesert, cup2_course3_KalimariDesert",
 				"inherit_codes": false
 			},
 			{
 				"name": "Toad's Turnpike",
 				"img": "/images/courses/Toads Turnpike - Preview.png",
-				"codes": "cup2_ToadsTurnpike",
+				"codes": "cup2_course3, cup2_ToadsTurnpike, cup2_course3_ToadsTurnpike",
 				"inherit_codes": false
 			},
 			{
 				"name": "Frappe Snowland",
 				"img": "/images/courses/Frappe Snowland - Preview.png",
-				"codes": "cup2_FrappeSnowland",
+				"codes": "cup2_course3, cup2_FrappeSnowland, cup2_course3_FrappeSnowland",
 				"inherit_codes": false
 			},
 			{
 				"name": "Choco Mountain",
 				"img": "/images/courses/Choco Mountain - Preview.png",
-				"codes": "cup2_ChocoMountain",
+				"codes": "cup2_course3, cup2_ChocoMountain, cup2_course3_ChocoMountain",
 				"inherit_codes": false
 			},
 			{
 				"name": "Mario Raceway",
 				"img": "/images/courses/Mario Raceway - Preview.png",
-				"codes": "cup2_MarioRaceway",
+				"codes": "cup2_course3, cup2_MarioRaceway, cup2_course3_MarioRaceway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Wario Stadium",
 				"img": "/images/courses/Wario Stadium - Preview.png",
-				"codes": "cup2_WarioStadium",
+				"codes": "cup2_course3, cup2_WarioStadium, cup2_course3_WarioStadium",
 				"inherit_codes": false
 			},
 			{
 				"name": "Sherbet Land",
 				"img": "/images/courses/Sherbet Land - Preview.png",
-				"codes": "cup2_SherbetLand",
+				"codes": "cup2_course3, cup2_SherbetLand, cup2_course3_SherbetLand",
 				"inherit_codes": false
 			},
 			{
 				"name": "Royal Raceway",
 				"img": "/images/courses/Royal Raceway - Preview.png",
-				"codes": "cup2_RoyalRaceway",
+				"codes": "cup2_course3, cup2_RoyalRaceway, cup2_course3_RoyalRaceway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Bowser's Castle",
 				"img": "/images/courses/Bowsers Castle - Preview.png",
-				"codes": "cup2_BowsersCastle",
+				"codes": "cup2_course3, cup2_BowsersCastle, cup2_course3_BowsersCastle",
 				"inherit_codes": false
 			},
 			{
 				"name": "D.K.'s Jungle Parkway",
 				"img": "/images/courses/DKs Jungle Parkway - Preview.png",
-				"codes": "cup2_DKsJungleParkway",
+				"codes": "cup2_course3, cup2_DKsJungleParkway, cup2_course3_DKsJungleParkway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Yoshi Valley",
 				"img": "/images/courses/Yoshi Valley - Preview.png",
-				"codes": "cup2_YoshiValley",
+				"codes": "cup2_course3, cup2_YoshiValley, cup2_course3_YoshiValley",
 				"inherit_codes": false
 			},
 			{
 				"name": "Banshee Boardwalk",
 				"img": "/images/courses/Banshee Boardwalk - Preview.png",
-				"codes": "cup2_BansheeBoardwalk",
+				"codes": "cup2_course3, cup2_BansheeBoardwalk, cup2_course3_BansheeBoardwalk",
 				"inherit_codes": false
 			},
 			{
 				"name": "Rainbow Road",
 				"img": "/images/courses/Rainbow Road - Preview.png",
-				"codes": "cup2_RainbowRoad",
+				"codes": "cup2_course3, cup2_RainbowRoad, cup2_course3_RainbowRoad",
 				"inherit_codes": false
 			}
 		]
@@ -784,98 +784,98 @@
 				"name": "Luigi Raceway",
 				"img": "/images/courses/Luigi Raceway - Preview.png",
 				"allow_disabled": false,
-				"codes": "cup2_course4, cup2_LuigiRaceway",
+				"codes": "cup2_course4, cup2_LuigiRaceway, cup2_course4_LuigiRaceway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Moo Moo Farm",
 				"img": "/images/courses/Moo Moo Farm - Preview.png",
-				"codes": "cup2_MooMooFarm",
+				"codes": "cup2_course4, cup2_MooMooFarm, cup2_course4_MooMooFarm",
 				"inherit_codes": false
 			},
 			{
 				"name": "Koopa Troopa Beach",
 				"img": "/images/courses/Koopa Troopa Beach - Preview.png",
 				"allow_disabled": false,
-				"codes": "cup2_KoopaTroopaBeach",
+				"codes": "cup2_course4, cup2_KoopaTroopaBeach, cup2_course4_KoopaTroopaBeach",
 				"inherit_codes": false
 			},
 			{
 				"name": "Kalimari Desert",
 				"img": "/images/courses/Kalimari Desert - Preview.png",
-				"codes": "cup2_KalimariDesert",
+				"codes": "cup2_course4, cup2_KalimariDesert, cup2_course4_KalimariDesert",
 				"inherit_codes": false
 			},
 			{
 				"name": "Toad's Turnpike",
 				"img": "/images/courses/Toads Turnpike - Preview.png",
-				"codes": "cup2_ToadsTurnpike",
+				"codes": "cup2_course4, cup2_ToadsTurnpike, cup2_course4_ToadsTurnpike",
 				"inherit_codes": false
 			},
 			{
 				"name": "Frappe Snowland",
 				"img": "/images/courses/Frappe Snowland - Preview.png",
-				"codes": "cup2_FrappeSnowland",
+				"codes": "cup2_course4, cup2_FrappeSnowland, cup2_course4_FrappeSnowland",
 				"inherit_codes": false
 			},
 			{
 				"name": "Choco Mountain",
 				"img": "/images/courses/Choco Mountain - Preview.png",
-				"codes": "cup2_ChocoMountain",
+				"codes": "cup2_course4, cup2_ChocoMountain, cup2_course4_ChocoMountain",
 				"inherit_codes": false
 			},
 			{
 				"name": "Mario Raceway",
 				"img": "/images/courses/Mario Raceway - Preview.png",
-				"codes": "cup2_MarioRaceway",
+				"codes": "cup2_course4, cup2_MarioRaceway, cup2_course4_MarioRaceway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Wario Stadium",
 				"img": "/images/courses/Wario Stadium - Preview.png",
-				"codes": "cup2_WarioStadium",
+				"codes": "cup2_course4, cup2_WarioStadium, cup2_course4_WarioStadium",
 				"inherit_codes": false
 			},
 			{
 				"name": "Sherbet Land",
 				"img": "/images/courses/Sherbet Land - Preview.png",
-				"codes": "cup2_SherbetLand",
+				"codes": "cup2_course4, cup2_SherbetLand, cup2_course4_SherbetLand",
 				"inherit_codes": false
 			},
 			{
 				"name": "Royal Raceway",
 				"img": "/images/courses/Royal Raceway - Preview.png",
-				"codes": "cup2_RoyalRaceway",
+				"codes": "cup2_course4, cup2_RoyalRaceway, cup2_course4_RoyalRaceway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Bowser's Castle",
 				"img": "/images/courses/Bowsers Castle - Preview.png",
-				"codes": "cup2_BowsersCastle",
+				"codes": "cup2_course4, cup2_BowsersCastle, cup2_course4_BowsersCastle",
 				"inherit_codes": false
 			},
 			{
 				"name": "D.K.'s Jungle Parkway",
 				"img": "/images/courses/DKs Jungle Parkway - Preview.png",
-				"codes": "cup2_DKsJungleParkway",
+				"codes": "cup2_course4, cup2_DKsJungleParkway, cup2_course4_DKsJungleParkway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Yoshi Valley",
 				"img": "/images/courses/Yoshi Valley - Preview.png",
-				"codes": "cup2_YoshiValley",
+				"codes": "cup2_course4, cup2_YoshiValley, cup2_course4_YoshiValley",
 				"inherit_codes": false
 			},
 			{
 				"name": "Banshee Boardwalk",
 				"img": "/images/courses/Banshee Boardwalk - Preview.png",
-				"codes": "cup2_BansheeBoardwalk",
+				"codes": "cup2_course4, cup2_BansheeBoardwalk, cup2_course4_BansheeBoardwalk",
 				"inherit_codes": false
 			},
 			{
 				"name": "Rainbow Road",
 				"img": "/images/courses/Rainbow Road - Preview.png",
-				"codes": "cup2_RainbowRoad",
+				"codes": "cup2_course4, cup2_RainbowRoad, cup2_course4_RainbowRoad",
 				"inherit_codes": false
 			}
 		]
@@ -891,98 +891,98 @@
 				"name": "Luigi Raceway",
 				"img": "/images/courses/Luigi Raceway - Preview.png",
 				"allow_disabled": false,
-				"codes": "cup3_course1, cup3_LuigiRaceway",
+				"codes": "cup3_course1, cup3_LuigiRaceway, cup3_course1_LuigiRaceway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Moo Moo Farm",
 				"img": "/images/courses/Moo Moo Farm - Preview.png",
-				"codes": "cup3_MooMooFarm",
+				"codes": "cup3_course1, cup3_MooMooFarm, cup3_course1_MooMooFarm",
 				"inherit_codes": false
 			},
 			{
 				"name": "Koopa Troopa Beach",
 				"img": "/images/courses/Koopa Troopa Beach - Preview.png",
 				"allow_disabled": false,
-				"codes": "cup3_KoopaTroopaBeach",
+				"codes": "cup3_course1, cup3_KoopaTroopaBeach, cup3_course1_KoopaTroopaBeach",
 				"inherit_codes": false
 			},
 			{
 				"name": "Kalimari Desert",
 				"img": "/images/courses/Kalimari Desert - Preview.png",
-				"codes": "cup3_KalimariDesert",
+				"codes": "cup3_course1, cup3_KalimariDesert, cup3_course1_KalimariDesert",
 				"inherit_codes": false
 			},
 			{
 				"name": "Toad's Turnpike",
 				"img": "/images/courses/Toads Turnpike - Preview.png",
-				"codes": "cup3_ToadsTurnpike",
+				"codes": "cup3_course1, cup3_ToadsTurnpike, cup3_course1_ToadsTurnpike",
 				"inherit_codes": false
 			},
 			{
 				"name": "Frappe Snowland",
 				"img": "/images/courses/Frappe Snowland - Preview.png",
-				"codes": "cup3_FrappeSnowland",
+				"codes": "cup3_course1, cup3_FrappeSnowland, cup3_course1_FrappeSnowland",
 				"inherit_codes": false
 			},
 			{
 				"name": "Choco Mountain",
 				"img": "/images/courses/Choco Mountain - Preview.png",
-				"codes": "cup3_ChocoMountain",
+				"codes": "cup3_course1, cup3_ChocoMountain, cup3_course1_ChocoMountain",
 				"inherit_codes": false
 			},
 			{
 				"name": "Mario Raceway",
 				"img": "/images/courses/Mario Raceway - Preview.png",
-				"codes": "cup3_MarioRaceway",
+				"codes": "cup3_course1, cup3_MarioRaceway, cup3_course1_MarioRaceway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Wario Stadium",
 				"img": "/images/courses/Wario Stadium - Preview.png",
-				"codes": "cup3_WarioStadium",
+				"codes": "cup3_course1, cup3_WarioStadium, cup3_course1_WarioStadium",
 				"inherit_codes": false
 			},
 			{
 				"name": "Sherbet Land",
 				"img": "/images/courses/Sherbet Land - Preview.png",
-				"codes": "cup3_SherbetLand",
+				"codes": "cup3_course1, cup3_SherbetLand, cup3_course1_SherbetLand",
 				"inherit_codes": false
 			},
 			{
 				"name": "Royal Raceway",
 				"img": "/images/courses/Royal Raceway - Preview.png",
-				"codes": "cup3_RoyalRaceway",
+				"codes": "cup3_course1, cup3_RoyalRaceway, cup3_course1_RoyalRaceway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Bowser's Castle",
 				"img": "/images/courses/Bowsers Castle - Preview.png",
-				"codes": "cup3_BowsersCastle",
+				"codes": "cup3_course1, cup3_BowsersCastle, cup3_course1_BowsersCastle",
 				"inherit_codes": false
 			},
 			{
 				"name": "D.K.'s Jungle Parkway",
 				"img": "/images/courses/DKs Jungle Parkway - Preview.png",
-				"codes": "cup3_DKsJungleParkway",
+				"codes": "cup3_course1, cup3_DKsJungleParkway, cup3_course1_DKsJungleParkway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Yoshi Valley",
 				"img": "/images/courses/Yoshi Valley - Preview.png",
-				"codes": "cup3_YoshiValley",
+				"codes": "cup3_course1, cup3_YoshiValley, cup3_course1_YoshiValley",
 				"inherit_codes": false
 			},
 			{
 				"name": "Banshee Boardwalk",
 				"img": "/images/courses/Banshee Boardwalk - Preview.png",
-				"codes": "cup3_BansheeBoardwalk",
+				"codes": "cup3_course1, cup3_BansheeBoardwalk, cup3_course1_BansheeBoardwalk",
 				"inherit_codes": false
 			},
 			{
 				"name": "Rainbow Road",
 				"img": "/images/courses/Rainbow Road - Preview.png",
-				"codes": "cup3_RainbowRoad",
+				"codes": "cup3_course1, cup3_RainbowRoad, cup3_course1_RainbowRoad",
 				"inherit_codes": false
 			}
 		]
@@ -998,98 +998,98 @@
 				"name": "Luigi Raceway",
 				"img": "/images/courses/Luigi Raceway - Preview.png",
 				"allow_disabled": false,
-				"codes": "cup3_course2, cup3_LuigiRaceway",
+				"codes": "cup3_course2, cup3_LuigiRaceway, cup3_course2_LuigiRaceway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Moo Moo Farm",
 				"img": "/images/courses/Moo Moo Farm - Preview.png",
-				"codes": "cup3_MooMooFarm",
+				"codes": "cup3_course2, cup3_MooMooFarm, cup3_course2_MooMooFarm",
 				"inherit_codes": false
 			},
 			{
 				"name": "Koopa Troopa Beach",
 				"img": "/images/courses/Koopa Troopa Beach - Preview.png",
 				"allow_disabled": false,
-				"codes": "cup3_KoopaTroopaBeach",
+				"codes": "cup3_course2, cup3_KoopaTroopaBeach, cup3_course2_KoopaTroopaBeach",
 				"inherit_codes": false
 			},
 			{
 				"name": "Kalimari Desert",
 				"img": "/images/courses/Kalimari Desert - Preview.png",
-				"codes": "cup3_KalimariDesert",
+				"codes": "cup3_course2, cup3_KalimariDesert, cup3_course2_KalimariDesert",
 				"inherit_codes": false
 			},
 			{
 				"name": "Toad's Turnpike",
 				"img": "/images/courses/Toads Turnpike - Preview.png",
-				"codes": "cup3_ToadsTurnpike",
+				"codes": "cup3_course2, cup3_ToadsTurnpike, cup3_course2_ToadsTurnpike",
 				"inherit_codes": false
 			},
 			{
 				"name": "Frappe Snowland",
 				"img": "/images/courses/Frappe Snowland - Preview.png",
-				"codes": "cup3_FrappeSnowland",
+				"codes": "cup3_course2, cup3_FrappeSnowland, cup3_course2_FrappeSnowland",
 				"inherit_codes": false
 			},
 			{
 				"name": "Choco Mountain",
 				"img": "/images/courses/Choco Mountain - Preview.png",
-				"codes": "cup3_ChocoMountain",
+				"codes": "cup3_course2, cup3_ChocoMountain, cup3_course2_ChocoMountain",
 				"inherit_codes": false
 			},
 			{
 				"name": "Mario Raceway",
 				"img": "/images/courses/Mario Raceway - Preview.png",
-				"codes": "cup3_MarioRaceway",
+				"codes": "cup3_course2, cup3_MarioRaceway, cup3_course2_MarioRaceway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Wario Stadium",
 				"img": "/images/courses/Wario Stadium - Preview.png",
-				"codes": "cup3_WarioStadium",
+				"codes": "cup3_course2, cup3_WarioStadium, cup3_course2_WarioStadium",
 				"inherit_codes": false
 			},
 			{
 				"name": "Sherbet Land",
 				"img": "/images/courses/Sherbet Land - Preview.png",
-				"codes": "cup3_SherbetLand",
+				"codes": "cup3_course2, cup3_SherbetLand, cup3_course2_SherbetLand",
 				"inherit_codes": false
 			},
 			{
 				"name": "Royal Raceway",
 				"img": "/images/courses/Royal Raceway - Preview.png",
-				"codes": "cup3_RoyalRaceway",
+				"codes": "cup3_course2, cup3_RoyalRaceway, cup3_course2_RoyalRaceway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Bowser's Castle",
 				"img": "/images/courses/Bowsers Castle - Preview.png",
-				"codes": "cup3_BowsersCastle",
+				"codes": "cup3_course2, cup3_BowsersCastle, cup3_course2_BowsersCastle",
 				"inherit_codes": false
 			},
 			{
 				"name": "D.K.'s Jungle Parkway",
 				"img": "/images/courses/DKs Jungle Parkway - Preview.png",
-				"codes": "cup3_DKsJungleParkway",
+				"codes": "cup3_course2, cup3_DKsJungleParkway, cup3_course2_DKsJungleParkway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Yoshi Valley",
 				"img": "/images/courses/Yoshi Valley - Preview.png",
-				"codes": "cup3_YoshiValley",
+				"codes": "cup3_course2, cup3_YoshiValley, cup3_course2_YoshiValley",
 				"inherit_codes": false
 			},
 			{
 				"name": "Banshee Boardwalk",
 				"img": "/images/courses/Banshee Boardwalk - Preview.png",
-				"codes": "cup3_BansheeBoardwalk",
+				"codes": "cup3_course2, cup3_BansheeBoardwalk, cup3_course2_BansheeBoardwalk",
 				"inherit_codes": false
 			},
 			{
 				"name": "Rainbow Road",
 				"img": "/images/courses/Rainbow Road - Preview.png",
-				"codes": "cup3_RainbowRoad",
+				"codes": "cup3_course2, cup3_RainbowRoad, cup3_course2_RainbowRoad",
 				"inherit_codes": false
 			}
 		]
@@ -1105,98 +1105,98 @@
 				"name": "Luigi Raceway",
 				"img": "/images/courses/Luigi Raceway - Preview.png",
 				"allow_disabled": false,
-				"codes": "cup3_course3, cup3_LuigiRaceway",
+				"codes": "cup3_course3, cup3_LuigiRaceway, cup3_course3_LuigiRaceway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Moo Moo Farm",
 				"img": "/images/courses/Moo Moo Farm - Preview.png",
-				"codes": "cup3_MooMooFarm",
+				"codes": "cup3_course3, cup3_MooMooFarm, cup3_course3_MooMooFarm",
 				"inherit_codes": false
 			},
 			{
 				"name": "Koopa Troopa Beach",
 				"img": "/images/courses/Koopa Troopa Beach - Preview.png",
 				"allow_disabled": false,
-				"codes": "cup3_KoopaTroopaBeach",
+				"codes": "cup3_course3, cup3_KoopaTroopaBeach, cup3_course3_KoopaTroopaBeach",
 				"inherit_codes": false
 			},
 			{
 				"name": "Kalimari Desert",
 				"img": "/images/courses/Kalimari Desert - Preview.png",
-				"codes": "cup3_KalimariDesert",
+				"codes": "cup3_course3, cup3_KalimariDesert, cup3_course3_KalimariDesert",
 				"inherit_codes": false
 			},
 			{
 				"name": "Toad's Turnpike",
 				"img": "/images/courses/Toads Turnpike - Preview.png",
-				"codes": "cup3_ToadsTurnpike",
+				"codes": "cup3_course3, cup3_ToadsTurnpike, cup3_course3_ToadsTurnpike",
 				"inherit_codes": false
 			},
 			{
 				"name": "Frappe Snowland",
 				"img": "/images/courses/Frappe Snowland - Preview.png",
-				"codes": "cup3_FrappeSnowland",
+				"codes": "cup3_course3, cup3_FrappeSnowland, cup3_course3_FrappeSnowland",
 				"inherit_codes": false
 			},
 			{
 				"name": "Choco Mountain",
 				"img": "/images/courses/Choco Mountain - Preview.png",
-				"codes": "cup3_ChocoMountain",
+				"codes": "cup3_course3, cup3_ChocoMountain, cup3_course3_ChocoMountain",
 				"inherit_codes": false
 			},
 			{
 				"name": "Mario Raceway",
 				"img": "/images/courses/Mario Raceway - Preview.png",
-				"codes": "cup3_MarioRaceway",
+				"codes": "cup3_course3, cup3_MarioRaceway, cup3_course3_MarioRaceway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Wario Stadium",
 				"img": "/images/courses/Wario Stadium - Preview.png",
-				"codes": "cup3_WarioStadium",
+				"codes": "cup3_course3, cup3_WarioStadium, cup3_course3_WarioStadium",
 				"inherit_codes": false
 			},
 			{
 				"name": "Sherbet Land",
 				"img": "/images/courses/Sherbet Land - Preview.png",
-				"codes": "cup3_SherbetLand",
+				"codes": "cup3_course3, cup3_SherbetLand, cup3_course3_SherbetLand",
 				"inherit_codes": false
 			},
 			{
 				"name": "Royal Raceway",
 				"img": "/images/courses/Royal Raceway - Preview.png",
-				"codes": "cup3_RoyalRaceway",
+				"codes": "cup3_course3, cup3_RoyalRaceway, cup3_course3_RoyalRaceway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Bowser's Castle",
 				"img": "/images/courses/Bowsers Castle - Preview.png",
-				"codes": "cup3_BowsersCastle",
+				"codes": "cup3_course3, cup3_BowsersCastle, cup3_course3_BowsersCastle",
 				"inherit_codes": false
 			},
 			{
 				"name": "D.K.'s Jungle Parkway",
 				"img": "/images/courses/DKs Jungle Parkway - Preview.png",
-				"codes": "cup3_DKsJungleParkway",
+				"codes": "cup3_course3, cup3_DKsJungleParkway, cup3_course3_DKsJungleParkway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Yoshi Valley",
 				"img": "/images/courses/Yoshi Valley - Preview.png",
-				"codes": "cup3_YoshiValley",
+				"codes": "cup3_course3, cup3_YoshiValley, cup3_course3_YoshiValley",
 				"inherit_codes": false
 			},
 			{
 				"name": "Banshee Boardwalk",
 				"img": "/images/courses/Banshee Boardwalk - Preview.png",
-				"codes": "cup3_BansheeBoardwalk",
+				"codes": "cup3_course3, cup3_BansheeBoardwalk, cup3_course3_BansheeBoardwalk",
 				"inherit_codes": false
 			},
 			{
 				"name": "Rainbow Road",
 				"img": "/images/courses/Rainbow Road - Preview.png",
-				"codes": "cup3_RainbowRoad",
+				"codes": "cup3_course3, cup3_RainbowRoad, cup3_course3_RainbowRoad",
 				"inherit_codes": false
 			}
 		]
@@ -1212,98 +1212,98 @@
 				"name": "Luigi Raceway",
 				"img": "/images/courses/Luigi Raceway - Preview.png",
 				"allow_disabled": false,
-				"codes": "cup3_course4, cup3_LuigiRaceway",
+				"codes": "cup3_course4, cup3_LuigiRaceway, cup3_course4_LuigiRaceway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Moo Moo Farm",
 				"img": "/images/courses/Moo Moo Farm - Preview.png",
-				"codes": "cup3_MooMooFarm",
+				"codes": "cup3_course4, cup3_MooMooFarm, cup3_course4_MooMooFarm",
 				"inherit_codes": false
 			},
 			{
 				"name": "Koopa Troopa Beach",
 				"img": "/images/courses/Koopa Troopa Beach - Preview.png",
 				"allow_disabled": false,
-				"codes": "cup3_KoopaTroopaBeach",
+				"codes": "cup3_course4, cup3_KoopaTroopaBeach, cup3_course4_KoopaTroopaBeach",
 				"inherit_codes": false
 			},
 			{
 				"name": "Kalimari Desert",
 				"img": "/images/courses/Kalimari Desert - Preview.png",
-				"codes": "cup3_KalimariDesert",
+				"codes": "cup3_course4, cup3_KalimariDesert, cup3_course4_KalimariDesert",
 				"inherit_codes": false
 			},
 			{
 				"name": "Toad's Turnpike",
 				"img": "/images/courses/Toads Turnpike - Preview.png",
-				"codes": "cup3_ToadsTurnpike",
+				"codes": "cup3_course4, cup3_ToadsTurnpike, cup3_course4_ToadsTurnpike",
 				"inherit_codes": false
 			},
 			{
 				"name": "Frappe Snowland",
 				"img": "/images/courses/Frappe Snowland - Preview.png",
-				"codes": "cup3_FrappeSnowland",
+				"codes": "cup3_course4, cup3_FrappeSnowland, cup3_course4_FrappeSnowland",
 				"inherit_codes": false
 			},
 			{
 				"name": "Choco Mountain",
 				"img": "/images/courses/Choco Mountain - Preview.png",
-				"codes": "cup3_ChocoMountain",
+				"codes": "cup3_course4, cup3_ChocoMountain, cup3_course4_ChocoMountain",
 				"inherit_codes": false
 			},
 			{
 				"name": "Mario Raceway",
 				"img": "/images/courses/Mario Raceway - Preview.png",
-				"codes": "cup3_MarioRaceway",
+				"codes": "cup3_course4, cup3_MarioRaceway, cup3_course4_MarioRaceway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Wario Stadium",
 				"img": "/images/courses/Wario Stadium - Preview.png",
-				"codes": "cup3_WarioStadium",
+				"codes": "cup3_course4, cup3_WarioStadium, cup3_course4_WarioStadium",
 				"inherit_codes": false
 			},
 			{
 				"name": "Sherbet Land",
 				"img": "/images/courses/Sherbet Land - Preview.png",
-				"codes": "cup3_SherbetLand",
+				"codes": "cup3_course4, cup3_SherbetLand, cup3_course4_SherbetLand",
 				"inherit_codes": false
 			},
 			{
 				"name": "Royal Raceway",
 				"img": "/images/courses/Royal Raceway - Preview.png",
-				"codes": "cup3_RoyalRaceway",
+				"codes": "cup3_course4, cup3_RoyalRaceway, cup3_course4_RoyalRaceway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Bowser's Castle",
 				"img": "/images/courses/Bowsers Castle - Preview.png",
-				"codes": "cup3_BowsersCastle",
+				"codes": "cup3_course4, cup3_BowsersCastle, cup3_course4_BowsersCastle",
 				"inherit_codes": false
 			},
 			{
 				"name": "D.K.'s Jungle Parkway",
 				"img": "/images/courses/DKs Jungle Parkway - Preview.png",
-				"codes": "cup3_DKsJungleParkway",
+				"codes": "cup3_course4, cup3_DKsJungleParkway, cup3_course4_DKsJungleParkway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Yoshi Valley",
 				"img": "/images/courses/Yoshi Valley - Preview.png",
-				"codes": "cup3_YoshiValley",
+				"codes": "cup3_course4, cup3_YoshiValley, cup3_course4_YoshiValley",
 				"inherit_codes": false
 			},
 			{
 				"name": "Banshee Boardwalk",
 				"img": "/images/courses/Banshee Boardwalk - Preview.png",
-				"codes": "cup3_BansheeBoardwalk",
+				"codes": "cup3_course4, cup3_BansheeBoardwalk, cup3_course4_BansheeBoardwalk",
 				"inherit_codes": false
 			},
 			{
 				"name": "Rainbow Road",
 				"img": "/images/courses/Rainbow Road - Preview.png",
-				"codes": "cup3_RainbowRoad",
+				"codes": "cup3_course4, cup3_RainbowRoad, cup3_course4_RainbowRoad",
 				"inherit_codes": false
 			}
 		]
@@ -1319,98 +1319,98 @@
 				"name": "Luigi Raceway",
 				"img": "/images/courses/Luigi Raceway - Preview.png",
 				"allow_disabled": false,
-				"codes": "cup4_course1, cup4_LuigiRaceway",
+				"codes": "cup4_course1, cup4_LuigiRaceway, cup4_course1_LuigiRaceway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Moo Moo Farm",
 				"img": "/images/courses/Moo Moo Farm - Preview.png",
-				"codes": "cup4_MooMooFarm",
+				"codes": "cup4_course1, cup4_MooMooFarm, cup4_course1_MooMooFarm",
 				"inherit_codes": false
 			},
 			{
 				"name": "Koopa Troopa Beach",
 				"img": "/images/courses/Koopa Troopa Beach - Preview.png",
 				"allow_disabled": false,
-				"codes": "cup4_KoopaTroopaBeach",
+				"codes": "cup4_course1, cup4_KoopaTroopaBeach, cup4_course1_KoopaTroopaBeach",
 				"inherit_codes": false
 			},
 			{
 				"name": "Kalimari Desert",
 				"img": "/images/courses/Kalimari Desert - Preview.png",
-				"codes": "cup4_KalimariDesert",
+				"codes": "cup4_course1, cup4_KalimariDesert, cup4_course1_KalimariDesert",
 				"inherit_codes": false
 			},
 			{
 				"name": "Toad's Turnpike",
 				"img": "/images/courses/Toads Turnpike - Preview.png",
-				"codes": "cup4_ToadsTurnpike",
+				"codes": "cup4_course1, cup4_ToadsTurnpike, cup4_course1_ToadsTurnpike",
 				"inherit_codes": false
 			},
 			{
 				"name": "Frappe Snowland",
 				"img": "/images/courses/Frappe Snowland - Preview.png",
-				"codes": "cup4_FrappeSnowland",
+				"codes": "cup4_course1, cup4_FrappeSnowland, cup4_course1_FrappeSnowland",
 				"inherit_codes": false
 			},
 			{
 				"name": "Choco Mountain",
 				"img": "/images/courses/Choco Mountain - Preview.png",
-				"codes": "cup4_ChocoMountain",
+				"codes": "cup4_course1, cup4_ChocoMountain, cup4_course1_ChocoMountain",
 				"inherit_codes": false
 			},
 			{
 				"name": "Mario Raceway",
 				"img": "/images/courses/Mario Raceway - Preview.png",
-				"codes": "cup4_MarioRaceway",
+				"codes": "cup4_course1, cup4_MarioRaceway, cup4_course1_MarioRaceway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Wario Stadium",
 				"img": "/images/courses/Wario Stadium - Preview.png",
-				"codes": "cup4_WarioStadium",
+				"codes": "cup4_course1, cup4_WarioStadium, cup4_course1_WarioStadium",
 				"inherit_codes": false
 			},
 			{
 				"name": "Sherbet Land",
 				"img": "/images/courses/Sherbet Land - Preview.png",
-				"codes": "cup4_SherbetLand",
+				"codes": "cup4_course1, cup4_SherbetLand, cup4_course1_SherbetLand",
 				"inherit_codes": false
 			},
 			{
 				"name": "Royal Raceway",
 				"img": "/images/courses/Royal Raceway - Preview.png",
-				"codes": "cup4_RoyalRaceway",
+				"codes": "cup4_course1, cup4_RoyalRaceway, cup4_course1_RoyalRaceway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Bowser's Castle",
 				"img": "/images/courses/Bowsers Castle - Preview.png",
-				"codes": "cup4_BowsersCastle",
+				"codes": "cup4_course1, cup4_BowsersCastle, cup4_course1_BowsersCastle",
 				"inherit_codes": false
 			},
 			{
 				"name": "D.K.'s Jungle Parkway",
 				"img": "/images/courses/DKs Jungle Parkway - Preview.png",
-				"codes": "cup4_DKsJungleParkway",
+				"codes": "cup4_course1, cup4_DKsJungleParkway, cup4_course1_DKsJungleParkway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Yoshi Valley",
 				"img": "/images/courses/Yoshi Valley - Preview.png",
-				"codes": "cup4_YoshiValley",
+				"codes": "cup4_course1, cup4_YoshiValley, cup4_course1_YoshiValley",
 				"inherit_codes": false
 			},
 			{
 				"name": "Banshee Boardwalk",
 				"img": "/images/courses/Banshee Boardwalk - Preview.png",
-				"codes": "cup4_BansheeBoardwalk",
+				"codes": "cup4_course1, cup4_BansheeBoardwalk, cup4_course1_BansheeBoardwalk",
 				"inherit_codes": false
 			},
 			{
 				"name": "Rainbow Road",
 				"img": "/images/courses/Rainbow Road - Preview.png",
-				"codes": "cup4_RainbowRoad",
+				"codes": "cup4_course1, cup4_RainbowRoad, cup4_course1_RainbowRoad",
 				"inherit_codes": false
 			}
 		]
@@ -1426,98 +1426,98 @@
 				"name": "Luigi Raceway",
 				"img": "/images/courses/Luigi Raceway - Preview.png",
 				"allow_disabled": false,
-				"codes": "cup4_course2, cup4_LuigiRaceway",
+				"codes": "cup4_course2, cup4_LuigiRaceway, cup4_course2_LuigiRaceway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Moo Moo Farm",
 				"img": "/images/courses/Moo Moo Farm - Preview.png",
-				"codes": "cup4_MooMooFarm",
+				"codes": "cup4_course2, cup4_MooMooFarm, cup4_course2_MooMooFarm",
 				"inherit_codes": false
 			},
 			{
 				"name": "Koopa Troopa Beach",
 				"img": "/images/courses/Koopa Troopa Beach - Preview.png",
 				"allow_disabled": false,
-				"codes": "cup4_KoopaTroopaBeach",
+				"codes": "cup4_course2, cup4_KoopaTroopaBeach, cup4_course2_KoopaTroopaBeach",
 				"inherit_codes": false
 			},
 			{
 				"name": "Kalimari Desert",
 				"img": "/images/courses/Kalimari Desert - Preview.png",
-				"codes": "cup4_KalimariDesert",
+				"codes": "cup4_course2, cup4_KalimariDesert, cup4_course2_KalimariDesert",
 				"inherit_codes": false
 			},
 			{
 				"name": "Toad's Turnpike",
 				"img": "/images/courses/Toads Turnpike - Preview.png",
-				"codes": "cup4_ToadsTurnpike",
+				"codes": "cup4_course2, cup4_ToadsTurnpike, cup4_course2_ToadsTurnpike",
 				"inherit_codes": false
 			},
 			{
 				"name": "Frappe Snowland",
 				"img": "/images/courses/Frappe Snowland - Preview.png",
-				"codes": "cup4_FrappeSnowland",
+				"codes": "cup4_course2, cup4_FrappeSnowland, cup4_course2_FrappeSnowland",
 				"inherit_codes": false
 			},
 			{
 				"name": "Choco Mountain",
 				"img": "/images/courses/Choco Mountain - Preview.png",
-				"codes": "cup4_ChocoMountain",
+				"codes": "cup4_course2, cup4_ChocoMountain, cup4_course2_ChocoMountain",
 				"inherit_codes": false
 			},
 			{
 				"name": "Mario Raceway",
 				"img": "/images/courses/Mario Raceway - Preview.png",
-				"codes": "cup4_MarioRaceway",
+				"codes": "cup4_course2, cup4_MarioRaceway, cup4_course2_MarioRaceway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Wario Stadium",
 				"img": "/images/courses/Wario Stadium - Preview.png",
-				"codes": "cup4_WarioStadium",
+				"codes": "cup4_course2, cup4_WarioStadium, cup4_course2_WarioStadium",
 				"inherit_codes": false
 			},
 			{
 				"name": "Sherbet Land",
 				"img": "/images/courses/Sherbet Land - Preview.png",
-				"codes": "cup4_SherbetLand",
+				"codes": "cup4_course2, cup4_SherbetLand, cup4_course2_SherbetLand",
 				"inherit_codes": false
 			},
 			{
 				"name": "Royal Raceway",
 				"img": "/images/courses/Royal Raceway - Preview.png",
-				"codes": "cup4_RoyalRaceway",
+				"codes": "cup4_course2, cup4_RoyalRaceway, cup4_course2_RoyalRaceway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Bowser's Castle",
 				"img": "/images/courses/Bowsers Castle - Preview.png",
-				"codes": "cup4_BowsersCastle",
+				"codes": "cup4_course2, cup4_BowsersCastle, cup4_course2_BowsersCastle",
 				"inherit_codes": false
 			},
 			{
 				"name": "D.K.'s Jungle Parkway",
 				"img": "/images/courses/DKs Jungle Parkway - Preview.png",
-				"codes": "cup4_DKsJungleParkway",
+				"codes": "cup4_course2, cup4_DKsJungleParkway, cup4_course2_DKsJungleParkway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Yoshi Valley",
 				"img": "/images/courses/Yoshi Valley - Preview.png",
-				"codes": "cup4_YoshiValley",
+				"codes": "cup4_course2, cup4_YoshiValley, cup4_course2_YoshiValley",
 				"inherit_codes": false
 			},
 			{
 				"name": "Banshee Boardwalk",
 				"img": "/images/courses/Banshee Boardwalk - Preview.png",
-				"codes": "cup4_BansheeBoardwalk",
+				"codes": "cup4_course2, cup4_BansheeBoardwalk, cup4_course2_BansheeBoardwalk",
 				"inherit_codes": false
 			},
 			{
 				"name": "Rainbow Road",
 				"img": "/images/courses/Rainbow Road - Preview.png",
-				"codes": "cup4_RainbowRoad",
+				"codes": "cup4_course2, cup4_RainbowRoad, cup4_course2_RainbowRoad",
 				"inherit_codes": false
 			}
 		]
@@ -1533,98 +1533,98 @@
 				"name": "Luigi Raceway",
 				"img": "/images/courses/Luigi Raceway - Preview.png",
 				"allow_disabled": false,
-				"codes": "cup4_course3, cup4_LuigiRaceway",
+				"codes": "cup4_course3, cup4_LuigiRaceway, cup4_course3_LuigiRaceway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Moo Moo Farm",
 				"img": "/images/courses/Moo Moo Farm - Preview.png",
-				"codes": "cup4_MooMooFarm",
+				"codes": "cup4_course3, cup4_MooMooFarm, cup4_course3_MooMooFarm",
 				"inherit_codes": false
 			},
 			{
 				"name": "Koopa Troopa Beach",
 				"img": "/images/courses/Koopa Troopa Beach - Preview.png",
 				"allow_disabled": false,
-				"codes": "cup4_KoopaTroopaBeach",
+				"codes": "cup4_course3, cup4_KoopaTroopaBeach, cup4_course3_KoopaTroopaBeach",
 				"inherit_codes": false
 			},
 			{
 				"name": "Kalimari Desert",
 				"img": "/images/courses/Kalimari Desert - Preview.png",
-				"codes": "cup4_KalimariDesert",
+				"codes": "cup4_course3, cup4_KalimariDesert, cup4_course3_KalimariDesert",
 				"inherit_codes": false
 			},
 			{
 				"name": "Toad's Turnpike",
 				"img": "/images/courses/Toads Turnpike - Preview.png",
-				"codes": "cup4_ToadsTurnpike",
+				"codes": "cup4_course3, cup4_ToadsTurnpike, cup4_course3_ToadsTurnpike",
 				"inherit_codes": false
 			},
 			{
 				"name": "Frappe Snowland",
 				"img": "/images/courses/Frappe Snowland - Preview.png",
-				"codes": "cup4_FrappeSnowland",
+				"codes": "cup4_course3, cup4_FrappeSnowland, cup4_course3_FrappeSnowland",
 				"inherit_codes": false
 			},
 			{
 				"name": "Choco Mountain",
 				"img": "/images/courses/Choco Mountain - Preview.png",
-				"codes": "cup4_ChocoMountain",
+				"codes": "cup4_course3, cup4_ChocoMountain, cup4_course3_ChocoMountain",
 				"inherit_codes": false
 			},
 			{
 				"name": "Mario Raceway",
 				"img": "/images/courses/Mario Raceway - Preview.png",
-				"codes": "cup4_MarioRaceway",
+				"codes": "cup4_course3, cup4_MarioRaceway, cup4_course3_MarioRaceway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Wario Stadium",
 				"img": "/images/courses/Wario Stadium - Preview.png",
-				"codes": "cup4_WarioStadium",
+				"codes": "cup4_course3, cup4_WarioStadium, cup4_course3_WarioStadium",
 				"inherit_codes": false
 			},
 			{
 				"name": "Sherbet Land",
 				"img": "/images/courses/Sherbet Land - Preview.png",
-				"codes": "cup4_SherbetLand",
+				"codes": "cup4_course3, cup4_SherbetLand, cup4_course3_SherbetLand",
 				"inherit_codes": false
 			},
 			{
 				"name": "Royal Raceway",
 				"img": "/images/courses/Royal Raceway - Preview.png",
-				"codes": "cup4_RoyalRaceway",
+				"codes": "cup4_course3, cup4_RoyalRaceway, cup4_course3_RoyalRaceway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Bowser's Castle",
 				"img": "/images/courses/Bowsers Castle - Preview.png",
-				"codes": "cup4_BowsersCastle",
+				"codes": "cup4_course3, cup4_BowsersCastle, cup4_course3_BowsersCastle",
 				"inherit_codes": false
 			},
 			{
 				"name": "D.K.'s Jungle Parkway",
 				"img": "/images/courses/DKs Jungle Parkway - Preview.png",
-				"codes": "cup4_DKsJungleParkway",
+				"codes": "cup4_course3, cup4_DKsJungleParkway, cup4_course3_DKsJungleParkway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Yoshi Valley",
 				"img": "/images/courses/Yoshi Valley - Preview.png",
-				"codes": "cup4_YoshiValley",
+				"codes": "cup4_course3, cup4_YoshiValley, cup4_course3_YoshiValley",
 				"inherit_codes": false
 			},
 			{
 				"name": "Banshee Boardwalk",
 				"img": "/images/courses/Banshee Boardwalk - Preview.png",
-				"codes": "cup4_BansheeBoardwalk",
+				"codes": "cup4_course3, cup4_BansheeBoardwalk, cup4_course3_BansheeBoardwalk",
 				"inherit_codes": false
 			},
 			{
 				"name": "Rainbow Road",
 				"img": "/images/courses/Rainbow Road - Preview.png",
-				"codes": "cup4_RainbowRoad",
+				"codes": "cup4_course3, cup4_RainbowRoad, cup4_course3_RainbowRoad",
 				"inherit_codes": false
 			}
 		]
@@ -1640,100 +1640,100 @@
 				"name": "Luigi Raceway",
 				"img": "/images/courses/Luigi Raceway - Preview.png",
 				"allow_disabled": false,
-				"codes": "cup4_course4, cup4_LuigiRaceway",
+				"codes": "cup4_course4, cup4_LuigiRaceway, cup4_course4_LuigiRaceway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Moo Moo Farm",
 				"img": "/images/courses/Moo Moo Farm - Preview.png",
-				"codes": "cup4_MooMooFarm",
+				"codes": "cup4_course4, cup4_MooMooFarm, cup4_course4_MooMooFarm",
 				"inherit_codes": false
 			},
 			{
 				"name": "Koopa Troopa Beach",
 				"img": "/images/courses/Koopa Troopa Beach - Preview.png",
 				"allow_disabled": false,
-				"codes": "cup4_KoopaTroopaBeach",
+				"codes": "cup4_course4, cup4_KoopaTroopaBeach, cup4_course4_KoopaTroopaBeach",
 				"inherit_codes": false
 			},
 			{
 				"name": "Kalimari Desert",
 				"img": "/images/courses/Kalimari Desert - Preview.png",
-				"codes": "cup4_KalimariDesert",
+				"codes": "cup4_course4, cup4_KalimariDesert, cup4_course4_KalimariDesert",
 				"inherit_codes": false
 			},
 			{
 				"name": "Toad's Turnpike",
 				"img": "/images/courses/Toads Turnpike - Preview.png",
-				"codes": "cup4_ToadsTurnpike",
+				"codes": "cup4_course4, cup4_ToadsTurnpike, cup4_course4_ToadsTurnpike",
 				"inherit_codes": false
 			},
 			{
 				"name": "Frappe Snowland",
 				"img": "/images/courses/Frappe Snowland - Preview.png",
-				"codes": "cup4_FrappeSnowland",
+				"codes": "cup4_course4, cup4_FrappeSnowland, cup4_course4_FrappeSnowland",
 				"inherit_codes": false
 			},
 			{
 				"name": "Choco Mountain",
 				"img": "/images/courses/Choco Mountain - Preview.png",
-				"codes": "cup4_ChocoMountain",
+				"codes": "cup4_course4, cup4_ChocoMountain, cup4_course4_ChocoMountain",
 				"inherit_codes": false
 			},
 			{
 				"name": "Mario Raceway",
 				"img": "/images/courses/Mario Raceway - Preview.png",
-				"codes": "cup4_MarioRaceway",
+				"codes": "cup4_course4, cup4_MarioRaceway, cup4_course4_MarioRaceway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Wario Stadium",
 				"img": "/images/courses/Wario Stadium - Preview.png",
-				"codes": "cup4_WarioStadium",
+				"codes": "cup4_course4, cup4_WarioStadium, cup4_course4_WarioStadium",
 				"inherit_codes": false
 			},
 			{
 				"name": "Sherbet Land",
 				"img": "/images/courses/Sherbet Land - Preview.png",
-				"codes": "cup4_SherbetLand",
+				"codes": "cup4_course4, cup4_SherbetLand, cup4_course4_SherbetLand",
 				"inherit_codes": false
 			},
 			{
 				"name": "Royal Raceway",
 				"img": "/images/courses/Royal Raceway - Preview.png",
-				"codes": "cup4_RoyalRaceway",
+				"codes": "cup4_course4, cup4_RoyalRaceway, cup4_course4_RoyalRaceway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Bowser's Castle",
 				"img": "/images/courses/Bowsers Castle - Preview.png",
-				"codes": "cup4_BowsersCastle",
+				"codes": "cup4_course4, cup4_BowsersCastle, cup4_course4_BowsersCastle",
 				"inherit_codes": false
 			},
 			{
 				"name": "D.K.'s Jungle Parkway",
 				"img": "/images/courses/DKs Jungle Parkway - Preview.png",
-				"codes": "cup4_DKsJungleParkway",
+				"codes": "cup4_course4, cup4_DKsJungleParkway, cup4_course4_DKsJungleParkway",
 				"inherit_codes": false
 			},
 			{
 				"name": "Yoshi Valley",
 				"img": "/images/courses/Yoshi Valley - Preview.png",
-				"codes": "cup4_YoshiValley",
+				"codes": "cup4_course4, cup4_YoshiValley, cup4_course4_YoshiValley",
 				"inherit_codes": false
 			},
 			{
 				"name": "Banshee Boardwalk",
 				"img": "/images/courses/Banshee Boardwalk - Preview.png",
-				"codes": "cup4_BansheeBoardwalk",
+				"codes": "cup4_course4, cup4_BansheeBoardwalk, cup4_course4_BansheeBoardwalk",
 				"inherit_codes": false
 			},
 			{
 				"name": "Rainbow Road",
 				"img": "/images/courses/Rainbow Road - Preview.png",
-				"codes": "cup4_RainbowRoad",
+				"codes": "cup4_course4, cup4_RainbowRoad, cup4_course4_RainbowRoad",
 				"inherit_codes": false
 			}
 		]
-	}
+	},
 ]
