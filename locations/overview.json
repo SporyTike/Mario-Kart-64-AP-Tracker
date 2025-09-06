@@ -11,52 +11,61 @@
 					{
 						"name": "50ccm - Bronze",
 						"chest_unopened_img": "/images/checks/Trophy Bronze.png",
-						"chest_opened_img": "/images/checks/Trophy Bronze_Checked.png"
+						"chest_opened_img": "/images/checks/Trophy Bronze_Checked.png",
+						"access_rules": ["$canGetTrophy|cup1|50|3"],
 					},
 					{
 						"name": "50ccm - Silver",
 						"chest_unopened_img": "/images/checks/Trophy Silver.png",
-						"chest_opened_img": "/images/checks/Trophy Silver_Checked.png"
+						"chest_opened_img": "/images/checks/Trophy Silver_Checked.png",
+						"access_rules": ["$canGetTrophy|cup1|50|2"],
 					},
 					{
 						"name": "50ccm - Gold",
 						"chest_unopened_img": "/images/checks/Trophy Gold.png",
-						"chest_opened_img": "/images/checks/Trophy Gold_Checked.png"
+						"chest_opened_img": "/images/checks/Trophy Gold_Checked.png",
+						"access_rules": ["$canGetTrophy|cup1|50|1"],
 					},
 					{
 						"name": "100ccm - Bronze",
 						"chest_unopened_img": "/images/checks/Trophy Bronze.png",
 						"chest_opened_img": "/images/checks/Trophy Bronze_Checked.png",
-						"visibility_rules": "addMoreTrophies_on"
+						"visibility_rules": "addMoreTrophies_on",
+						"access_rules": ["$canGetTrophy|cup1|100|3"],
 					},
 					{
 						"name": "100ccm - Silver",
 						"chest_unopened_img": "/images/checks/Trophy Silver.png",
 						"chest_opened_img": "/images/checks/Trophy Silver_Checked.png",
-						"visibility_rules": "addMoreTrophies_on"
+						"visibility_rules": "addMoreTrophies_on",
+						"access_rules": ["$canGetTrophy|cup1|100|2"],
 					},
 					{
 						"name": "100ccm - Gold",
 						"chest_unopened_img": "/images/checks/Trophy Gold.png",
-						"chest_opened_img": "/images/checks/Trophy Gold_Checked.png"
+						"chest_opened_img": "/images/checks/Trophy Gold_Checked.png",
+						"access_rules": ["$canGetTrophy|cup1|100|1"],
 					},
 					{
 						"name": "150ccm - Bronze",
 						"chest_unopened_img": "/images/checks/Trophy Bronze Big.png",
 						"chest_opened_img": "/images/checks/Trophy Bronze Big_Checked.png",
-						"visibility_rules": "addMoreTrophies_on"
+						"visibility_rules": "addMoreTrophies_on",
+						"access_rules": ["$canGetTrophy|cup1|150|3"],
 					},
 					{
 						"name": "150ccm - Silver",
 						"chest_unopened_img": "/images/checks/Trophy Silver Big.png",
 						"chest_opened_img": "/images/checks/Trophy Silver Big_Checked.png",
-						"visibility_rules": "addMoreTrophies_on"
+						"visibility_rules": "addMoreTrophies_on",
+						"access_rules": ["$canGetTrophy|cup1|150|2"],
 					},
 					{
 						"name": "150ccm - Gold",
 						"chest_unopened_img": "/images/checks/Trophy Gold Big.png",
 						"chest_opened_img": "/images/checks/Trophy Gold Big_Checked.png",
-						"codes": "testMush"
+						"codes": "testMush",
+						"access_rules": ["$canGetTrophy|cup1|150|1"],
 					}
 				],
 				"map_locations": [
@@ -172,51 +181,60 @@
 					{
 						"name": "50ccm - Bronze",
 						"chest_unopened_img": "/images/checks/Trophy Bronze.png",
-						"chest_opened_img": "/images/checks/Trophy Bronze_Checked.png"
+						"chest_opened_img": "/images/checks/Trophy Bronze_Checked.png",
+						"access_rules": ["$canGetTrophy|cup2|50|3"],
 					},
 					{
 						"name": "50ccm - Silver",
 						"chest_unopened_img": "/images/checks/Trophy Silver.png",
-						"chest_opened_img": "/images/checks/Trophy Silver_Checked.png"
+						"chest_opened_img": "/images/checks/Trophy Silver_Checked.png",
+						"access_rules": ["$canGetTrophy|cup2|50|2"],
 					},
 					{
 						"name": "50ccm - Gold",
 						"chest_unopened_img": "/images/checks/Trophy Gold.png",
-						"chest_opened_img": "/images/checks/Trophy Gold_Checked.png"
+						"chest_opened_img": "/images/checks/Trophy Gold_Checked.png",
+						"access_rules": ["$canGetTrophy|cup2|50|1"],
 					},
 					{
 						"name": "100ccm - Bronze",
 						"chest_unopened_img": "/images/checks/Trophy Bronze.png",
 						"chest_opened_img": "/images/checks/Trophy Bronze_Checked.png",
-						"visibility_rules": "addMoreTrophies_on"
+						"visibility_rules": "addMoreTrophies_on",
+						"access_rules": ["$canGetTrophy|cup2|100|3"],
 					},
 					{
 						"name": "100ccm - Silver",
 						"chest_unopened_img": "/images/checks/Trophy Silver.png",
 						"chest_opened_img": "/images/checks/Trophy Silver_Checked.png",
-						"visibility_rules": "addMoreTrophies_on"
+						"visibility_rules": "addMoreTrophies_on",
+						"access_rules": ["$canGetTrophy|cup2|100|2"],
 					},
 					{
 						"name": "100ccm - Gold",
 						"chest_unopened_img": "/images/checks/Trophy Gold.png",
-						"chest_opened_img": "/images/checks/Trophy Gold_Checked.png"
+						"chest_opened_img": "/images/checks/Trophy Gold_Checked.png",
+						"access_rules": ["$canGetTrophy|cup2|100|1"],
 					},
 					{
 						"name": "150ccm - Bronze",
 						"chest_unopened_img": "/images/checks/Trophy Bronze Big.png",
 						"chest_opened_img": "/images/checks/Trophy Bronze Big_Checked.png",
-						"visibility_rules": "addMoreTrophies_on"
+						"visibility_rules": "addMoreTrophies_on",
+						"access_rules": ["$canGetTrophy|cup2|150|3"],
 					},
 					{
 						"name": "150ccm - Silver",
 						"chest_unopened_img": "/images/checks/Trophy Silver Big.png",
 						"chest_opened_img": "/images/checks/Trophy Silver Big_Checked.png",
-						"visibility_rules": "addMoreTrophies_on"
+						"visibility_rules": "addMoreTrophies_on",
+						"access_rules": ["$canGetTrophy|cup2|150|2"],
 					},
 					{
 						"name": "150ccm - Gold",
 						"chest_unopened_img": "/images/checks/Trophy Gold Big.png",
-						"chest_opened_img": "/images/checks/Trophy Gold Big_Checked.png"
+						"chest_opened_img": "/images/checks/Trophy Gold Big_Checked.png",
+						"access_rules": ["$canGetTrophy|cup2|150|1"],
 					}
 				],
 				"map_locations": [
@@ -332,51 +350,60 @@
 					{
 						"name": "50ccm - Bronze",
 						"chest_unopened_img": "/images/checks/Trophy Bronze.png",
-						"chest_opened_img": "/images/checks/Trophy Bronze_Checked.png"
+						"chest_opened_img": "/images/checks/Trophy Bronze_Checked.png",
+						"access_rules": ["$canGetTrophy|cup3|50|3"],
 					},
 					{
 						"name": "50ccm - Silver",
 						"chest_unopened_img": "/images/checks/Trophy Silver.png",
-						"chest_opened_img": "/images/checks/Trophy Silver_Checked.png"
+						"chest_opened_img": "/images/checks/Trophy Silver_Checked.png",
+						"access_rules": ["$canGetTrophy|cup3|50|2"],
 					},
 					{
 						"name": "50ccm - Gold",
 						"chest_unopened_img": "/images/checks/Trophy Gold.png",
-						"chest_opened_img": "/images/checks/Trophy Gold_Checked.png"
+						"chest_opened_img": "/images/checks/Trophy Gold_Checked.png",
+						"access_rules": ["$canGetTrophy|cup3|50|1"],
 					},
 					{
 						"name": "100ccm - Bronze",
 						"chest_unopened_img": "/images/checks/Trophy Bronze.png",
 						"chest_opened_img": "/images/checks/Trophy Bronze_Checked.png",
-						"visibility_rules": "addMoreTrophies_on"
+						"visibility_rules": "addMoreTrophies_on",
+						"access_rules": ["$canGetTrophy|cup3|100|3"],
 					},
 					{
 						"name": "100ccm - Silver",
 						"chest_unopened_img": "/images/checks/Trophy Silver.png",
 						"chest_opened_img": "/images/checks/Trophy Silver_Checked.png",
-						"visibility_rules": "addMoreTrophies_on"
+						"visibility_rules": "addMoreTrophies_on",
+						"access_rules": ["$canGetTrophy|cup3|100|2"],
 					},
 					{
 						"name": "100ccm - Gold",
 						"chest_unopened_img": "/images/checks/Trophy Gold.png",
-						"chest_opened_img": "/images/checks/Trophy Gold_Checked.png"
+						"chest_opened_img": "/images/checks/Trophy Gold_Checked.png",
+						"access_rules": ["$canGetTrophy|cup3|100|1"],
 					},
 					{
 						"name": "150ccm - Bronze",
 						"chest_unopened_img": "/images/checks/Trophy Bronze Big.png",
 						"chest_opened_img": "/images/checks/Trophy Bronze Big_Checked.png",
-						"visibility_rules": "addMoreTrophies_on"
+						"visibility_rules": "addMoreTrophies_on",
+						"access_rules": ["$canGetTrophy|cup3|150|3"],
 					},
 					{
 						"name": "150ccm - Silver",
 						"chest_unopened_img": "/images/checks/Trophy Silver Big.png",
 						"chest_opened_img": "/images/checks/Trophy Silver Big_Checked.png",
-						"visibility_rules": "addMoreTrophies_on"
+						"visibility_rules": "addMoreTrophies_on",
+						"access_rules": ["$canGetTrophy|cup3|150|2"],
 					},
 					{
 						"name": "150ccm - Gold",
 						"chest_unopened_img": "/images/checks/Trophy Gold Big.png",
-						"chest_opened_img": "/images/checks/Trophy Gold Big_Checked.png"
+						"chest_opened_img": "/images/checks/Trophy Gold Big_Checked.png",
+						"access_rules": ["$canGetTrophy|cup3|150|1"],
 					}
 				],
 				"map_locations": [
@@ -492,51 +519,60 @@
 					{
 						"name": "50ccm - Bronze",
 						"chest_unopened_img": "/images/checks/Trophy Bronze.png",
-						"chest_opened_img": "/images/checks/Trophy Bronze_Checked.png"
+						"chest_opened_img": "/images/checks/Trophy Bronze_Checked.png",
+						"access_rules": ["$canGetTrophy|cup4|50|3"],
 					},
 					{
 						"name": "50ccm - Silver",
 						"chest_unopened_img": "/images/checks/Trophy Silver.png",
-						"chest_opened_img": "/images/checks/Trophy Silver_Checked.png"
+						"chest_opened_img": "/images/checks/Trophy Silver_Checked.png",
+						"access_rules": ["$canGetTrophy|cup4|50|2"],
 					},
 					{
 						"name": "50ccm - Gold",
 						"chest_unopened_img": "/images/checks/Trophy Gold.png",
-						"chest_opened_img": "/images/checks/Trophy Gold_Checked.png"
+						"chest_opened_img": "/images/checks/Trophy Gold_Checked.png",
+						"access_rules": ["$canGetTrophy|cup4|50|1"],
 					},
 					{
 						"name": "100ccm - Bronze",
 						"chest_unopened_img": "/images/checks/Trophy Bronze.png",
 						"chest_opened_img": "/images/checks/Trophy Bronze_Checked.png",
-						"visibility_rules": "addMoreTrophies_on"
+						"visibility_rules": "addMoreTrophies_on",
+						"access_rules": ["$canGetTrophy|cup4|100|3"],
 					},
 					{
 						"name": "100ccm - Silver",
 						"chest_unopened_img": "/images/checks/Trophy Silver.png",
 						"chest_opened_img": "/images/checks/Trophy Silver_Checked.png",
-						"visibility_rules": "addMoreTrophies_on"
+						"visibility_rules": "addMoreTrophies_on",
+						"access_rules": ["$canGetTrophy|cup4|100|2"],
 					},
 					{
 						"name": "100ccm - Gold",
 						"chest_unopened_img": "/images/checks/Trophy Gold.png",
-						"chest_opened_img": "/images/checks/Trophy Gold_Checked.png"
+						"chest_opened_img": "/images/checks/Trophy Gold_Checked.png",
+						"access_rules": ["$canGetTrophy|cup4|100|1"],
 					},
 					{
 						"name": "150ccm - Bronze",
 						"chest_unopened_img": "/images/checks/Trophy Bronze Big.png",
 						"chest_opened_img": "/images/checks/Trophy Bronze Big_Checked.png",
-						"visibility_rules": "addMoreTrophies_on"
+						"visibility_rules": "addMoreTrophies_on",
+						"access_rules": ["$canGetTrophy|cup4|150|3"],
 					},
 					{
 						"name": "150ccm - Silver",
 						"chest_unopened_img": "/images/checks/Trophy Silver Big.png",
 						"chest_opened_img": "/images/checks/Trophy Silver Big_Checked.png",
-						"visibility_rules": "addMoreTrophies_on"
+						"visibility_rules": "addMoreTrophies_on",
+						"access_rules": ["$canGetTrophy|cup4|150|2"],
 					},
 					{
 						"name": "150ccm - Gold",
 						"chest_unopened_img": "/images/checks/Trophy Gold Big.png",
-						"chest_opened_img": "/images/checks/Trophy Gold Big_Checked.png"
+						"chest_opened_img": "/images/checks/Trophy Gold Big_Checked.png",
+						"access_rules": ["$canGetTrophy|cup4|150|1"],
 					}
 				],
 				"map_locations": [
@@ -649,40 +685,6 @@
 		"name": "Global",
 		"children": [
 			{
-				"name": "Checks",
-				"sections": [
-					{
-						"name": "Destroy Tree",
-						"chest_unopened_img": "/images/checks/Tree.png",
-						"chest_opened_img": "/images/checks/Tree_Checked.png",
-						"access_rules": [
-							"item_star",
-							"[]"
-						],
-						"visibility_rules": [
-							"hazardLocations_on"
-						]
-					},
-					{
-						"name": "Destroy Piranha Plant",
-						"chest_unopened_img": "/images/checks/Piranha Plant.png",
-						"chest_opened_img": "/images/checks/Piranha Plant_Checked.png",
-						"access_rules": [
-							"item_star",
-							"[]"
-						],
-						"visibility_rules": [
-							"hazardLocations_on"
-						]
-					}
-				]
-			}
-		]
-	},
-	{
-		"name": "Global",
-		"children": [
-			{
 				"name": "Luigi Raceway",
 				"sections": [
 					{
@@ -699,7 +701,7 @@
 					},
 					{
 						"name": "Destroy Tree",
-						"ref": "Global/Checks/Destroy Tree"
+						"ref": "Mushroom Cup/Luigi Raceway/Destroy Tree"
 					},
 					{
 						"name": "Luigi Raceway Items 1 Spot 1",
@@ -945,7 +947,7 @@
 					},
 					{
 						"name": "Destroy Palm",
-						"ref": "Global/Checks/Destroy Tree"
+						"ref": "Mushroom Cup/Koopa Troopa Beach/Destroy Palm"
 					},
 					{
 						"name": "Koopa Troopa Beach Items 1 Spot 1",
@@ -1300,7 +1302,7 @@
 					},
 					{
 						"name": "Destroy Tree",
-						"ref": "Global/Checks/Destroy Tree"
+						"ref": "Flower Cup/Frappe Snowland/Destroy Tree"
 					},
 					{
 						"name": "Defeat Snowman Bomb",
@@ -1494,11 +1496,11 @@
 					},
 					{
 						"name": "Destroy Tree",
-						"ref": "Global/Checks/Destroy Tree"
+						"ref": "Flower Cup/Mario Raceway/Destroy Tree"
 					},
 					{
 						"name": "Destroy Piranha Plant",
-						"ref": "Global/Checks/Destroy Piranha Plant"
+						"ref": "Flower Cup/Mario Raceway/Destroy Piranha Plant"
 					},
 					{
 						"name": "Destroy Mario Sign",
@@ -1857,11 +1859,11 @@
 					},
 					{
 						"name": "Destroy Tree",
-						"ref": "Global/Checks/Destroy Tree"
+						"ref": "Star Cup/Royal Raceway/Destroy Tree"
 					},
 					{
 						"name": "Destroy Piranha Plant",
-						"ref": "Global/Checks/Destroy Piranha Plant"
+						"ref": "Star Cup/Royal Raceway/Destroy Piranha Plant"
 					},
 					{
 						"name": "Royal Raceway Items 1 Spot 1",
@@ -2075,7 +2077,7 @@
 					},
 					{
 						"name": "Destroy Palm",
-						"ref": "Global/Checks/Destroy Tree"
+						"ref": "Special Cup/D.K.'s Jungle Parkway/Destroy Palm"
 					},
 					{
 						"name": "D.K.'s Jungle Parkway Items 1 Spot 1",
@@ -2200,7 +2202,7 @@
 					},
 					{
 						"name": "Destroy Tree",
-						"ref": "Global/Checks/Destroy Tree"
+						"ref": "Special Cup/Yoshi Valley/Destroy Tree"
 					},
 					{
 						"name": "Defeat Giant Yoshi Egg",

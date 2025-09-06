@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Star Cup",
-		"access_rules": ["$canEnterWarioStadium"],
+		"access_rules": ["$canEnter|WarioStadium"],
 		"children": [
 			{
 				"name": "Wario Stadium",
@@ -10,16 +10,19 @@
 						"name": "Take the Lead after Lap 1",
 						"chest_unopened_img": "images/checks/Take Lead.png",
 						"chest_opened_img": "images/checks/Take Lead_Checked.png",
+						"access_rules": ["$canWin|WarioStadium"],
 					},
 					{
 						"name": "Qualify in Race",
 						"chest_unopened_img": "images/checks/4th Place.png",
 						"chest_opened_img": "images/checks/4th Place_Checked.png",
+						"access_rules": ["$canQualify|WarioStadium"],
 					},
 					{
 						"name": "Finish as 1st Place",
 						"chest_unopened_img": "images/checks/1st Place.png",
 						"chest_opened_img": "images/checks/1st Place_Checked.png",
+						"access_rules": ["$canWin|WarioStadium"],
 					}
 				],
 				"map_locations": [
@@ -244,7 +247,7 @@
 	},
 	{
 		"name": "Star Cup",
-		"access_rules": ["$canEnterSherbetLand"],
+		"access_rules": ["$canEnter|SherbetLand"],
 		"children": [
 			{
 				"name": "Sherbet Land",
@@ -253,16 +256,19 @@
 						"name": "Take the Lead after Lap 1",
 						"chest_unopened_img": "images/checks/Take Lead.png",
 						"chest_opened_img": "images/checks/Take Lead_Checked.png",
+						"access_rules": ["$canWin|SherbetLand"],
 					},
 					{
 						"name": "Qualify in Race",
 						"chest_unopened_img": "images/checks/4th Place.png",
 						"chest_opened_img": "images/checks/4th Place_Checked.png",
+						"access_rules": ["$canQualify|SherbetLand"],
 					},
 					{
 						"name": "Finish as 1st Place",
 						"chest_unopened_img": "images/checks/1st Place.png",
 						"chest_opened_img": "images/checks/1st Place_Checked.png",
+						"access_rules": ["$canWin|SherbetLand"],
 					},
 					{
 						"name": "Spin Baby Penguin",
@@ -446,7 +452,7 @@
 	},
 	{
 		"name": "Star Cup",
-		"access_rules": ["$canEnterRoyalRaceway"],
+		"access_rules": ["$canEnter|RoyalRaceway"],
 		"children": [
 			{
 				"name": "Royal Raceway",
@@ -455,24 +461,33 @@
 						"name": "Take the Lead after Lap 1",
 						"chest_unopened_img": "images/checks/Take Lead.png",
 						"chest_opened_img": "images/checks/Take Lead_Checked.png",
+						"access_rules": ["$canWin|RoyalRaceway"],
 					},
 					{
 						"name": "Qualify in Race",
 						"chest_unopened_img": "images/checks/4th Place.png",
 						"chest_opened_img": "images/checks/4th Place_Checked.png",
+						"access_rules": ["$canQualify|RoyalRaceway"],
 					},
 					{
 						"name": "Finish as 1st Place",
 						"chest_unopened_img": "images/checks/1st Place.png",
 						"chest_opened_img": "images/checks/1st Place_Checked.png",
+						"access_rules": ["$canWin|RoyalRaceway"],
 					},
 					{
 						"name": "Destroy Tree",
-						"ref": "Global/Checks/Destroy Tree"
+						"chest_unopened_img": "/images/checks/Tree.png",
+						"chest_opened_img": "/images/checks/Tree_Checked.png",
+						"access_rules": ["item_star", "[]"],
+						"visibility_rules": ["hazardLocations_on"]
 					},
 					{
 						"name": "Destroy Piranha Plant",
-						"ref": "Global/Checks/Destroy Piranha Plant"
+						"chest_unopened_img": "/images/checks/Piranha Plant.png",
+						"chest_opened_img": "/images/checks/Piranha Plant_Checked.png",
+						"access_rules": ["item_star", "[]"],
+						"visibility_rules": ["hazardLocations_on"]
 					}
 				],
 				"map_locations": [
@@ -651,7 +666,7 @@
 	},
 	{
 		"name": "Star Cup",
-		"access_rules": ["$canEnterBowsersCastle"],
+		"access_rules": ["$canEnter|BowsersCastle"],
 		"children": [
 			{
 				"name": "Bowser's Castle",
@@ -660,16 +675,19 @@
 						"name": "Take the Lead after Lap 1",
 						"chest_unopened_img": "images/checks/Take Lead.png",
 						"chest_opened_img": "images/checks/Take Lead_Checked.png",
+						"access_rules": ["$canWin|BowsersCastle"],
 					},
 					{
 						"name": "Qualify in Race",
 						"chest_unopened_img": "images/checks/4th Place.png",
 						"chest_opened_img": "images/checks/4th Place_Checked.png",
+						"access_rules": ["$canQualify|BowsersCastle"],
 					},
 					{
 						"name": "Finish as 1st Place",
 						"chest_unopened_img": "images/checks/1st Place.png",
 						"chest_opened_img": "images/checks/1st Place_Checked.png",
+						"access_rules": ["$canWin|BowsersCastle"],
 					},
 					{
 						"name": "Destroy Bush",

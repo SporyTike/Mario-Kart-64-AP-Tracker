@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Flower Cup",
-		"access_rules": ["$canEnterToadsTurnpike"],
+		"access_rules": ["$canEnter|ToadsTurnpike"],
 		"children": [
 			{
 				"name": "Toad's Turnpike",
@@ -10,16 +10,19 @@
 						"name": "Take the Lead after Lap 1",
 						"chest_unopened_img": "images/checks/Take Lead.png",
 						"chest_opened_img": "images/checks/Take Lead_Checked.png",
+						"access_rules": ["$canWin|ToadsTurnpike"],
 					},
 					{
 						"name": "Qualify in Race",
 						"chest_unopened_img": "images/checks/4th Place.png",
 						"chest_opened_img": "images/checks/4th Place_Checked.png",
+						"access_rules": ["$canQualify|ToadsTurnpike"],
 					},
 					{
 						"name": "Finish as 1st Place",
 						"chest_unopened_img": "images/checks/1st Place.png",
 						"chest_opened_img": "images/checks/1st Place_Checked.png",
+						"access_rules": ["$canWin|ToadsTurnpike"],
 					}
 				],
 				"map_locations": [
@@ -175,7 +178,7 @@
 	},
 	{
 		"name": "Flower Cup",
-		"access_rules": ["$canEnterFrappeSnowland"],
+		"access_rules": ["$canEnter|FrappeSnowland"],
 		"children": [
 			{
 				"name": "Frappe Snowland",
@@ -184,20 +187,26 @@
 						"name": "Take the Lead after Lap 1",
 						"chest_unopened_img": "images/checks/Take Lead.png",
 						"chest_opened_img": "images/checks/Take Lead_Checked.png",
+						"access_rules": ["$canWin|FrappeSnowland"],
 					},
 					{
 						"name": "Qualify in Race",
 						"chest_unopened_img": "images/checks/4th Place.png",
 						"chest_opened_img": "images/checks/4th Place_Checked.png",
+						"access_rules": ["$canQualify|FrappeSnowland"],
 					},
 					{
 						"name": "Finish as 1st Place",
 						"chest_unopened_img": "images/checks/1st Place.png",
 						"chest_opened_img": "images/checks/1st Place_Checked.png",
+						"access_rules": ["$canWin|FrappeSnowland"],
 					},
 					{
 						"name": "Destroy Tree",
-						"ref": "Global/Checks/Destroy Tree"
+						"chest_unopened_img": "/images/checks/Tree.png",
+						"chest_opened_img": "/images/checks/Tree_Checked.png",
+						"access_rules": ["item_star", "[]"],
+						"visibility_rules": ["hazardLocations_on"]
 					},
 					{
 						"name": "Defeat Snowman Bomb",
@@ -340,7 +349,7 @@
 	},
 	{
 		"name": "Flower Cup",
-		"access_rules": ["$canEnterChocoMountain"],
+		"access_rules": ["$canEnter|ChocoMountain"],
 		"children": [
 			{
 				"name": "Choco Mountain",
@@ -349,16 +358,19 @@
 						"name": "Take the Lead after Lap 1",
 						"chest_unopened_img": "images/checks/Take Lead.png",
 						"chest_opened_img": "images/checks/Take Lead_Checked.png",
+						"access_rules": ["$canWin|ChocoMountain"],
 					},
 					{
 						"name": "Qualify in Race",
 						"chest_unopened_img": "images/checks/4th Place.png",
 						"chest_opened_img": "images/checks/4th Place_Checked.png",
+						"access_rules": ["$canQualify|ChocoMountain"],
 					},
 					{
 						"name": "Finish as 1st Place",
 						"chest_unopened_img": "images/checks/1st Place.png",
 						"chest_opened_img": "images/checks/1st Place_Checked.png",
+						"access_rules": ["$canWin|ChocoMountain"],
 					}
 				],
 				"map_locations": [
@@ -495,7 +507,7 @@
 	},
 	{
 		"name": "Flower Cup",
-		"access_rules": ["$canEnterMarioRaceway"],
+		"access_rules": ["$canEnter|MarioRaceway"],
 		"children": [
 			{
 				"name": "Mario Raceway",
@@ -504,24 +516,33 @@
 						"name": "Take the Lead after Lap 1",
 						"chest_unopened_img": "images/checks/Take Lead.png",
 						"chest_opened_img": "images/checks/Take Lead_Checked.png",
+						"access_rules": ["$canWin|MarioRaceway"],
 					},
 					{
 						"name": "Qualify in Race",
 						"chest_unopened_img": "images/checks/4th Place.png",
 						"chest_opened_img": "images/checks/4th Place_Checked.png",
+						"access_rules": ["$canQualify|MarioRaceway"],
 					},
 					{
 						"name": "Finish as 1st Place",
 						"chest_unopened_img": "images/checks/1st Place.png",
 						"chest_opened_img": "images/checks/1st Place_Checked.png",
+						"access_rules": ["$canWin|MarioRaceway"],
 					},
 					{
 						"name": "Destroy Tree",
-						"ref": "Global/Checks/Destroy Tree"
+						"chest_unopened_img": "/images/checks/Tree.png",
+						"chest_opened_img": "/images/checks/Tree_Checked.png",
+						"access_rules": ["item_star", "[]"],
+						"visibility_rules": ["hazardLocations_on"]
 					},
 					{
 						"name": "Destroy Piranha Plant",
-						"ref": "Global/Checks/Destroy Piranha Plant"
+						"chest_unopened_img": "/images/checks/Piranha Plant.png",
+						"chest_opened_img": "/images/checks/Piranha Plant_Checked.png",
+						"access_rules": ["item_star", "[]"],
+						"visibility_rules": ["hazardLocations_on"]
 					}
 				],
 				"map_locations": [

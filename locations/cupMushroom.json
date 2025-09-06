@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Mushroom Cup",
-		"access_rules": ["$canEnterLuigiRaceway"],
+		"access_rules": ["$canEnter|LuigiRaceway"],
 		"children": [
 			{
 				"name": "Luigi Raceway",
@@ -10,21 +10,27 @@
 						"name": "Take the Lead after Lap 1",
 						"chest_unopened_img": "images/checks/Take Lead.png",
 						"chest_opened_img": "images/checks/Take Lead_Checked.png",
+						"access_rules": ["$canWin|LuigiRaceway"],
 					},
 					{
 						"name": "Qualify in Race",
 						"chest_unopened_img": "images/checks/4th Place.png",
 						"chest_opened_img": "images/checks/4th Place_Checked.png",
+						"access_rules": ["$canQualify|LuigiRaceway"],
 					},
 					{
 						"name": "Finish as 1st Place",
 						"chest_unopened_img": "images/checks/1st Place.png",
 						"chest_opened_img": "images/checks/1st Place_Checked.png",
+						"access_rules": ["$canWin|LuigiRaceway"],
 					},
 					{
 						"name": "Destroy Tree",
-						"ref": "Global/Checks/Destroy Tree"
-					}
+						"chest_unopened_img": "/images/checks/Tree.png",
+						"chest_opened_img": "/images/checks/Tree_Checked.png",
+						"access_rules": ["item_star", "[]"],
+						"visibility_rules": ["hazardLocations_on"]
+					},
 				],
 				"map_locations": [
 					{
@@ -174,7 +180,7 @@
 	},
 	{
 		"name": "Mushroom Cup",
-		"access_rules": ["$canEnterMooMooFarm"],
+		"access_rules": ["$canEnter|MooMooFarm"],
 		"children": [
 			{
 				"name": "Moo Moo Farm",
@@ -183,16 +189,19 @@
 						"name": "Take the Lead after Lap 1",
 						"chest_unopened_img": "images/checks/Take Lead.png",
 						"chest_opened_img": "images/checks/Take Lead_Checked.png",
+						"access_rules": ["$canWin|MooMooFarm"],
 					},
 					{
 						"name": "Qualify in Race",
 						"chest_unopened_img": "images/checks/4th Place.png",
 						"chest_opened_img": "images/checks/4th Place_Checked.png",
+						"access_rules": ["$canQualify|MooMooFarm"],
 					},
 					{
 						"name": "Finish as 1st Place",
 						"chest_unopened_img": "images/checks/1st Place.png",
 						"chest_opened_img": "images/checks/1st Place_Checked.png",
+						"access_rules": ["$canWin|MooMooFarm"],
 					}
 				],
 				"map_locations": [
@@ -401,7 +410,7 @@
 	},
 	{
 		"name": "Mushroom Cup",
-		"access_rules": ["$canEnterKoopaTroopaBeach"],
+		"access_rules": ["$canEnter|KoopaTroopaBeach"],
 		"children": [
 			{
 				"name": "Koopa Troopa Beach",
@@ -410,20 +419,26 @@
 						"name": "Take the Lead after Lap 1",
 						"chest_unopened_img": "images/checks/Take Lead.png",
 						"chest_opened_img": "images/checks/Take Lead_Checked.png",
+						"access_rules": ["$canWin|KoopaTroopaBeach"],
 					},
 					{
 						"name": "Qualify in Race",
 						"chest_unopened_img": "images/checks/4th Place.png",
 						"chest_opened_img": "images/checks/4th Place_Checked.png",
+						"access_rules": ["$canQualify|KoopaTroopaBeach"],
 					},
 					{
 						"name": "Finish as 1st Place",
 						"chest_unopened_img": "images/checks/1st Place.png",
 						"chest_opened_img": "images/checks/1st Place_Checked.png",
+						"access_rules": ["$canWin|KoopaTroopaBeach"],
 					},
 					{
 						"name": "Destroy Palm",
-						"ref": "Global/Checks/Destroy Tree"
+						"chest_unopened_img": "/images/checks/Tree.png",
+						"chest_opened_img": "/images/checks/Tree_Checked.png",
+						"access_rules": ["item_star", "[]"],
+						"visibility_rules": ["hazardLocations_on"]
 					}
 				],
 				"map_locations": [
@@ -684,7 +699,7 @@
 	},
 	{
 		"name": "Mushroom Cup",
-		"access_rules": ["$canEnterKalimariDesert"],
+		"access_rules": ["$canEnter|KalimariDesert"],
 		"children": [
 			{
 				"name": "Kalimari Desert",
@@ -693,16 +708,19 @@
 						"name": "Take the Lead after Lap 1",
 						"chest_unopened_img": "images/checks/Take Lead.png",
 						"chest_opened_img": "images/checks/Take Lead_Checked.png",
+						"access_rules": ["$canWin|KalimariDesert"],
 					},
 					{
 						"name": "Qualify in Race",
 						"chest_unopened_img": "images/checks/4th Place.png",
 						"chest_opened_img": "images/checks/4th Place_Checked.png",
+						"access_rules": ["$canQualify|KalimariDesert"],
 					},
 					{
 						"name": "Finish as 1st Place",
 						"chest_unopened_img": "images/checks/1st Place.png",
 						"chest_opened_img": "images/checks/1st Place_Checked.png",
+						"access_rules": ["$canWin|KalimariDesert"],
 					},
 					{
 						"name": "Destroy Cactus",

@@ -17,7 +17,8 @@
 						"rows": [
 							["secretLocations", "coloredFences"],
 							["shuffleSpecialItemBoxes", "addFeather"],
-							["shuffleItemBoxClusters", "hazardLocations"]
+							["shuffleItemBoxClusters", "hazardLocations"],
+							["difficulty"]
 						]
 					}
 				]
