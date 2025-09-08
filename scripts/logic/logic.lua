@@ -212,7 +212,7 @@ function getTireDifficulty(course)
 			table.find({"FrappeSnowland", "SherbetLand"}, course)
 			and has(string.format("%s_winter", driver))
 		)then
-			return 2
+			return -2
 		end
 		-- Off-Road Tires
 		if (
@@ -225,7 +225,7 @@ function getTireDifficulty(course)
 			}, course)
 			and has(string.format("%s_offroad", driver))
 		)then
-			difficulty = 1
+			difficulty = -1
 		end
 	end
 	return difficulty
