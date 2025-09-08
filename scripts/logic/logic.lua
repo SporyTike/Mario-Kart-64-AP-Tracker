@@ -63,10 +63,10 @@ function canEnter(course, speed)
 		for course_num = 2, 4 do
 			if has(string.format("cup%d_course%d_%s", cup, course_num, course)) then
 				for i=1, #COURSES do
-					new_course =COURSES[i]
+					new_course = COURSES[i]
 					if (
 						has(string.format("cup%d_course%d_%s", cup, course_num-1, new_course))
-						and canWin(new_course, speed)
+						and canQualify(new_course, speed)
 					)then
 						return canEnter(new_course, speed)
 					end
