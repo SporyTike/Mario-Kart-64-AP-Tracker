@@ -337,7 +337,8 @@ function canGetTrophy(cup, speed, place)
 		for i=1, #COURSES do
 			course = COURSES[i]
 			if has(string.format("%s_course%d_%s", cup, course_num, course)) then
-				if not (canEnter(course, speed) and canQualify(course, speed)) then
+				if not canEnter(course, speed) 
+				or not canQualify(course, speed) then
 					return false
 				end
 				if canWin(course, speed) then
