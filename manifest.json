@@ -1,9 +1,9 @@
 ﻿{
 	"name": "Mario Kart 64 Tracker",
 	"game_name": "Mario Kart 64",
-	"package_version": "0.9.9b",
+	"package_version": "0.9.9c",
 	"package_uid": "ap_MK64",
-	"author": "SporyTike",
+	"author": "SporyTike, Exist3",
 	"variants": {
 		"courseMap": {
 			"display_name": "Course Tracker",
