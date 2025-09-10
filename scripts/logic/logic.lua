@@ -63,10 +63,10 @@ function canEnter(course, speed)
 		for course_num = 2, 4 do
 			if has(string.format("cup%d_course%d_%s", cup, course_num, course)) then
 				for i=1, #COURSES do
-					new_course =COURSES[i]
+					new_course = COURSES[i]
 					if (
 						has(string.format("cup%d_course%d_%s", cup, course_num-1, new_course))
-						and canWin(new_course, speed)
+						and canQualify(new_course, speed)
 					)then
 						return canEnter(new_course, speed)
 					end
@@ -212,7 +212,7 @@ function getTireDifficulty(course)
 			table.find({"FrappeSnowland", "SherbetLand"}, course)
 			and has(string.format("%s_winter", driver))
 		)then
-			return 2
+			return -2
 		end
 		-- Off-Road Tires
 		if (
@@ -225,7 +225,7 @@ function getTireDifficulty(course)
 			}, course)
 			and has(string.format("%s_offroad", driver))
 		)then
-			difficulty = 1
+			difficulty = -1
 		end
 	end
 	return difficulty
@@ -337,7 +337,8 @@ function canGetTrophy(cup, speed, place)
 		for i=1, #COURSES do
 			course = COURSES[i]
 			if has(string.format("%s_course%d_%s", cup, course_num, course)) then
-				if not (canEnter(course, speed) and canQualify(course, speed)) then
+				if not canEnter(course, speed) 
+				or not canQualify(course, speed) then
 					return false
 				end
 				if canWin(course, speed) then
