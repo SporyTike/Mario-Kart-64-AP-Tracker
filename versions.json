@@ -3,7 +3,7 @@
 		{
 			"package_version": "v0.9.10",
 			"download_url": "https://codeload.github.com/SporyTike/Mario-Kart-64-AP-Tracker/zip/refs/tags/v0.9.10",
-			"sha256": "3a9074d743ee7d0d3bf248879a6553b3923da1658b6293c53afef1e656a0a202",
+			"sha256": "943d1489e4ff2cff7709f2ddd124af023651aaac3fe1f9e479ec7b57d4aec014",
 			"changelog": ["Bug fixes in auto-tracking logic"]
 		},
 		{
@@ -20,5 +20,6 @@
 		}
 	]
 }
+
 
 
