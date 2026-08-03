@@ -167,9 +167,9 @@ function getFenceScore()
 	end
 
 	if canFeather() then
-		scores = {0, 4, 6, 7, 8}
-	else
 		scores = {2, 5, 6, 7, 8}
+	else
+		scores = {0, 4, 6, 7, 8}
 	end
 	return scores[switch_count]
 end
