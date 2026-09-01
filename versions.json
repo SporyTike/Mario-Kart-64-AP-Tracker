@@ -1,6 +1,12 @@
 {
 	"versions": [
 		{
+			"package_version": "v0.9.11",
+			"download_url": "https://codeload.github.com/SporyTike/Mario-Kart-64-AP-Tracker/zip/refs/tags/v0.9.11",
+			"sha256": "3118da9e73e69b9109aff5917878a47cfa18aeb6a1227375f2decc833781afb7",
+			"changelog": ["Fixed backwards feather logic"]
+		},
+		{
 			"package_version": "v0.9.10",
 			"download_url": "https://codeload.github.com/SporyTike/Mario-Kart-64-AP-Tracker/zip/refs/tags/v0.9.10",
 			"sha256": "943d1489e4ff2cff7709f2ddd124af023651aaac3fe1f9e479ec7b57d4aec014",
